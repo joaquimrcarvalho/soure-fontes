@@ -1,5 +1,5 @@
-ClioInput - version 2019.A1 - build 235 28/04/2020 17:05 
-2-5-2020 19-22
+KleioTranslator - server version 2021.A4 - build 1830 (master) 23/05/2021 17:33 
+23-5-2021 12-59
 
 Processing data file eleicoes5.cli
 -------------------------------------------
@@ -12,9 +12,15 @@ kleio translation started
 Structure: gacto2.str
 Prefix: 
 Autorel: 
-Translation count: 11
+Translation count: 12
 Obs: 
 ** Processing source fonte$mis mesa5
+** Base name of file eleicoes5.cli
+
+WARNING: eleicoes5.cli line 3 * Warning: Filename should match source Id to avoid errors. File: eleicoes5.cli Id: mis mesa5.
+Near lines: 3 
+Near line: 4       amz$emz5-1/03/07/1904/13/resumo=termo de eleicao de irmaos da mesa
+
 6: amz$emz5-1
 32: amz$emz5-2
 61: amz$emz5-3
@@ -30,10 +36,15 @@ Obs:
 327: amz$emz5-13
 353: amz$emz5-14
 *** End of File
-** Processed file- /kleio-home/sources/soure-fontes/sources/1685-1720/in_progress/irmaos_misercordia/eleicoes5.cli
-** Original file- /kleio-home/sources/soure-fontes/sources/1685-1720/in_progress/irmaos_misercordia/eleicoes5.org
-** Previous version- /kleio-home/sources/soure-fontes/sources/1685-1720/in_progress/irmaos_misercordia/eleicoes5.old
-** Temp file with ids- /kleio-home/sources/soure-fontes/sources/1685-1720/in_progress/irmaos_misercordia/eleicoes5.ids
+
+
+** Processed file- /kleio-home/sources/soure-fontes/sources/1685-1720/irmaos_misericordia/eleicoes5.cli
+** Original file- /kleio-home/sources/soure-fontes/sources/1685-1720/irmaos_misericordia/eleicoes5.org
+** Previous version- /kleio-home/sources/soure-fontes/sources/1685-1720/irmaos_misericordia/eleicoes5.old
+** Temp file with ids- /kleio-home/sources/soure-fontes/sources/1685-1720/irmaos_misericordia/eleicoes5.ids
+** - /kleio-home/sources/soure-fontes/sources/1685-1720/irmaos_misericordia/eleicoes5.cli-renamed to- /kleio-home/sources/soure-fontes/sources/1685-1720/irmaos_misericordia/eleicoes5.old
+** - /kleio-home/sources/soure-fontes/sources/1685-1720/irmaos_misericordia/eleicoes5.ids-renamed to- /kleio-home/sources/soure-fontes/sources/1685-1720/irmaos_misericordia/eleicoes5.cli
+** Translation files closed.
 0  errors. 
-0  warnings.
+1  warnings.
 Translation finished.
