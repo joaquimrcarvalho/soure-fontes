@@ -1,6 +1,6 @@
-kleio$gacto2.str/authorities/Generated from database soure_editor by user soure-editor, file date: +2021-05-15 Timestamp:2021-05-15T00:06:25.938Z/translations=1
+kleio$gacto2.str/authorities/Generated from database soure_editor by user soure-editor, file date: +2021-05-24 Timestamp:2021-05-24T14:09:30.307Z/translations=1
 
-   identifications$real-entities-soure-editor/Real entities, including real persons and real objects/dbase=soure_editor/user=soure-editor/date=20210515/mode=backup
+   identifications$real-entities-soure-editor/Real entities, including real persons and real objects/dbase=soure_editor/user=soure-editor/date=20210524/mode=backup
 
       rperson$rp-416/afonso de lencastre/m
 
@@ -38,9 +38,27 @@ kleio$gacto2.str/authorities/Generated from database soure_editor by user soure-
 
          occ$c1734.2-per5/id=rp-1618-occ9
 
-      rperson$rp-816/agostinho aurelio de matos/m/status=N
+      rperson$rp-2929/agostinho aurelio de matos/m/status=N/obs=impedido
 
-         occ$emz2-12-per12-12/id=rp-816-occ1
+         occ$emz2-12-per12-12/id=rp-2929-occ1
+
+         occ$emz2-12-per4-12/id=rp-2929-occ2
+
+         occ$emz2-13-per5-12/id=rp-2929-occ3
+
+         occ$emz2-14-per1-12/id=rp-2929-occ4
+
+         occ$emz2-15-per4-12/id=rp-2929-occ5
+
+         occ$emz2-16-per3-12/id=rp-2929-occ6
+
+         occ$emz2-10-per3-12/id=rp-2929-occ7
+
+         occ$emz2-11-per13-12/id=rp-2929-occ8
+
+         occ$xpto-c-428.43-per1/id=rp-2929-occ9
+
+         occ$emz2-13-per11-12/id=rp-2929-occ10
 
       rperson$rp-667/agostinho de barros/m
 
@@ -463,6 +481,8 @@ kleio$gacto2.str/authorities/Generated from database soure_editor by user soure-
          occ$emz1-15-per20-13/id=rp-479-occ43
 
          occ$amz46-per23/id=rp-479-occ44
+
+         occ$emz1-3-per17-13/id=rp-479-occ45
 
       rperson$rp-264/ambrosio pimentel/m
 
@@ -1292,6 +1312,12 @@ kleio$gacto2.str/authorities/Generated from database soure_editor by user soure-
 
          occ$antonio_travassos/id=rp-156-occ2
 
+      rperson$rp-1905/antonio da silva travassos/m/status=N
+
+         occ$c1724.17-per7/id=rp-1905-occ1
+
+         occ$1732-b13-antonio/id=rp-1905-occ2
+
       rperson$rp-636/antonio de abreu/m
 
          occ$nm29-per1/id=rp-636-occ1
@@ -1518,27 +1544,39 @@ kleio$gacto2.str/authorities/Generated from database soure_editor by user soure-
 
          occ$xpto-c-428.45d-per1/id=rp-1720-occ4
 
-      rperson$rp-200/antonio de sousa/m
+      rperson$rp-1902/antonio de sousa/m/status=N
 
-         occ$b1721.79-per5/id=rp-200-occ1
+         occ$not2.6.14x-per4/id=rp-1902-occ1
 
-         occ$b1721.105-per4/id=rp-200-occ2
+         occ$not2.6.96x-per4/id=rp-1902-occ2
 
-         occ$b1721.114-per6/id=rp-200-occ3
+         occ$b1721.79-per5/id=rp-1902-occ3
 
-         occ$b1721.117-per3/id=rp-200-occ4
+         occ$b1721.105-per4/id=rp-1902-occ4
 
-         occ$c1714.9-per9/id=rp-200-occ5
+         occ$b1721.114-per6/id=rp-1902-occ5
 
-         occ$b1715.6-per4/id=rp-200-occ6
+         occ$b1721.117-per3/id=rp-1902-occ6
 
-         occ$br098101715/id=rp-200-occ7
+         occ$c1714.9-per9/id=rp-1902-occ7
 
-         occ$br05101715b/id=rp-200-occ8
+         occ$b1715.6-per4/id=rp-1902-occ8
 
-         occ$c1720.6-per10/id=rp-200-occ9
+         occ$br098101715/id=rp-1902-occ9
 
-         occ$o1722.94-per1/id=rp-200-occ10
+         occ$br05101715b/id=rp-1902-occ10
+
+         occ$c1720.6-per10/id=rp-1902-occ11
+
+         occ$o1722.94-per1/id=rp-1902-occ12
+
+         occ$br26121712/id=rp-1902-occ13
+
+         occ$not2.6.35x-per3/id=rp-1902-occ14
+
+         occ$br22051718/id=rp-1902-occ15
+
+         occ$br01051719/id=rp-1902-occ16
 
       rperson$rp-622/antonio dinis da silva/m
 
@@ -1611,6 +1649,16 @@ kleio$gacto2.str/authorities/Generated from database soure_editor by user soure-
          occ$emz5-12-per4-11/id=rp-704-occ5
 
          occ$emz5-13-per5-11/id=rp-704-occ6
+
+      rperson$rp-2930/antonio galvao ribeiro/m/status=N
+
+         occ$amz18-per7/id=rp-2930-occ1
+
+         occ$emz1-7-per7-13/id=rp-2930-occ2
+
+         occ$amz24-per15/id=rp-2930-occ3
+
+         occ$emz1-9-per15-13/id=rp-2930-occ4
 
       rperson$rp-93/antonio goncalves/m
 
@@ -2095,6 +2143,12 @@ kleio$gacto2.str/authorities/Generated from database soure_editor by user soure-
          occ$amz49-per10/id=rp-787-occ72
 
          occ$po1-per1-per2/id=rp-787-occ73
+
+         occ$emz1-16-per5-13/id=rp-787-occ74
+
+         occ$emz1-17-per8-13/id=rp-787-occ75
+
+         occ$emz1-9-per16-13/id=rp-787-occ76
 
       rperson$rp-718/antonio maria correia/m
 
@@ -2714,6 +2768,8 @@ kleio$gacto2.str/authorities/Generated from database soure_editor by user soure-
 
          occ$b1723.13-per4/id=rp-1561-occ33
 
+         occ$amz56-per12/id=rp-1561-occ34
+
       rperson$rp-688/bento rodrigues/m
 
          occ$cnoivo21111694/id=rp-688-occ1
@@ -2732,29 +2788,37 @@ kleio$gacto2.str/authorities/Generated from database soure_editor by user soure-
 
          occ$c1735.3-per8/id=rp-688-occ8
 
-      rperson$rp-389/bernardo de santo antonio/m
-
-         occ$b1719.47-per3/id=rp-389-occ1
-
-         occ$br14051719/id=rp-389-occ2
-
       rperson$rp-623/bernardo de santo antonio/m
 
-         occ$b1714.48-per4/id=rp-623-occ1
+         occ$b1719.47-per3/id=rp-623-occ1
 
-         occ$b1714.57-per3/id=rp-623-occ2
+         occ$br14051719/id=rp-623-occ2
 
-         occ$b1715.25-per4/id=rp-623-occ3
+         occ$b1714.48-per4/id=rp-623-occ3
 
-         occ$bpad13101715/id=rp-623-occ4
+         occ$b1714.57-per3/id=rp-623-occ4
 
-         occ$b1731.70-per3/id=rp-623-occ5
+         occ$b1715.25-per4/id=rp-623-occ5
 
-         occ$b1701.55-per4/id=rp-623-occ6
+         occ$bpad13101715/id=rp-623-occ6
 
-         occ$b1707.70-per4/id=rp-623-occ7
+         occ$b1731.70-per3/id=rp-623-occ7
 
-         occ$bpad17121716/id=rp-623-occ8
+         occ$b1701.55-per4/id=rp-623-occ8
+
+         occ$b1707.70-per4/id=rp-623-occ9
+
+         occ$bpad17121716/id=rp-623-occ10
+
+         occ$b1703.67-per4/id=rp-623-occ11
+
+         occ$b1705.51-per4/id=rp-623-occ12
+
+         occ$b1712.8-per4/id=rp-623-occ13
+
+         occ$b1712.17-per4/id=rp-623-occ14
+
+         occ$bpad26121719/id=rp-623-occ15
 
       rperson$rp-25/brites joao/f
 
@@ -3191,6 +3255,12 @@ kleio$gacto2.str/authorities/Generated from database soure_editor by user soure-
          occ$emz1-23-per17-13/id=rp-1855-occ18
 
          occ$emz1-24-per16-13/id=rp-1855-occ19
+
+         occ$amz59-per17/id=rp-1855-occ20
+
+         occ$amz59-per2/id=rp-1855-occ21
+
+         occ$emz1-22-per17-13/id=rp-1855-occ22
 
       rperson$rp-418/dionisio magalhaes pinto/m
 
@@ -4108,6 +4178,20 @@ kleio$gacto2.str/authorities/Generated from database soure_editor by user soure-
 
          occ$c1708.22-2/id=rp-522-occ2
 
+      rperson$rp-2926/francisco de azevedo pinto/m/status=N
+
+         occ$c1722.17-per10/id=rp-2926-occ1
+
+         occ$c1722.18-per9/id=rp-2926-occ2
+
+         occ$po290-per1/id=rp-2926-occ3
+
+         occ$po218-per1/id=rp-2926-occ4
+
+         occ$o1726.37-per1/id=rp-2926-occ5
+
+         occ$o1726.41-per1/id=rp-2926-occ6
+
       rperson$rp-170/francisco de carvalho/m
 
          occ$on20021712b-per1/id=rp-170-occ1
@@ -4452,23 +4536,63 @@ kleio$gacto2.str/authorities/Generated from database soure_editor by user soure-
 
          occ$c265-2/id=rp-481-occ1
 
-      rperson$rp-746/inacio coelho da fonseca/m
+      rperson$rp-2932/inacio coelho de sequeira/m/status=N
 
-         occ$c1688.8-per11/id=rp-746-occ1
+         occ$c1688.8-per11/id=rp-2932-occ1
 
-         occ$emz1-13-per19-13/id=rp-746-occ2
+         occ$emz1-13-per19-13/id=rp-2932-occ2
 
-      rperson$rp-747/inacio coelho de sequeira/m
+         occ$amz32-per16/id=rp-2932-occ3
 
-         occ$amz32-per16/id=rp-747-occ1
+         occ$emz1-11-per16-13/id=rp-2932-occ4
 
-         occ$emz1-11-per16-13/id=rp-747-occ2
+         occ$emz1-12-per18-13/id=rp-2932-occ5
 
-         occ$emz1-12-per18-13/id=rp-747-occ3
+         occ$amz34-per17/id=rp-2932-occ6
 
-         occ$amz34-per17/id=rp-747-occ4
+         occ$amz35-per18/id=rp-2932-occ7
 
-         occ$amz35-per18/id=rp-747-occ5
+         occ$nm129-per1/id=rp-2932-occ8
+
+         occ$o1687-76-per1-per2/id=rp-2932-occ9
+
+         occ$nm52-per1/id=rp-2932-occ10
+
+         occ$amz18-per6/id=rp-2932-occ11
+
+         occ$emz1-7-per6-13/id=rp-2932-occ12
+
+         occ$n.2.4.9bis-per4/id=rp-2932-occ13
+
+         occ$n.2.4.10bisbis-per3/id=rp-2932-occ14
+
+         occ$amz24-per6/id=rp-2932-occ15
+
+         occ$emz1-9-per6-13/id=rp-2932-occ16
+
+         occ$n.2.4.54-per5/id=rp-2932-occ17
+
+         occ$amz30-per17/id=rp-2932-occ18
+
+         occ$emz1-10-per16-13/id=rp-2932-occ19
+
+         occ$amz44-per16/id=rp-2932-occ20
+
+         occ$emz1-15-per16-13/id=rp-2932-occ21
+
+         occ$amz46-per16/id=rp-2932-occ22
+
+         occ$o17001-2634-per1/id=rp-2932-occ23
+
+         occ$amz24-per19/id=rp-2932-occ24
+
+         occ$emz1-9-per20-13/id=rp-2932-occ25
+
+         occ$amz40-per14/id=rp-2932-occ26
+
+         occ$emz1-14-per14-13/id=rp-2932-occ27
+
+         occ$emz1-16-per8-13/id=rp-2932-occ28
 
       rperson$rp-188/ines da conceicao/f
 
@@ -5080,6 +5204,16 @@ kleio$gacto2.str/authorities/Generated from database soure_editor by user soure-
 
          occ$o1702-2668-per1/id=rp-610-occ4
 
+      rperson$rp-2927/jeronimo de azevedo pinto/m/status=N
+
+         occ$b1691.23-per4/id=rp-2927-occ1
+
+         occ$c1692.14-per8/id=rp-2927-occ2
+
+         occ$n2.5.16-per6-4/id=rp-2927-occ3
+
+         occ$po218-per1-per2/id=rp-2927-occ4
+
       rperson$rp-355/jeronimo goncalves/m
 
          occ$b1691.3-per5/id=rp-355-occ1
@@ -5652,11 +5786,35 @@ kleio$gacto2.str/authorities/Generated from database soure_editor by user soure-
 
          occ$n.2.4.38-per2/id=rp-620-occ3
 
-      rperson$rp-1860/joao da costa machado/m/status=N
+      rperson$rp-2933/joao da costa machado/m/status=N
 
-         occ$amz68-per18/id=rp-1860-occ1
+         occ$amz68-per18/id=rp-2933-occ1
 
-         occ$emz1-24-per18-13/id=rp-1860-occ2
+         occ$emz1-24-per18-13/id=rp-2933-occ2
+
+         occ$amz59-per16/id=rp-2933-occ3
+
+         occ$emz1-22-per16-13/id=rp-2933-occ4
+
+         occ$amz72-per1/id=rp-2933-occ5
+
+         occ$amz73-per2/id=rp-2933-occ6
+
+         occ$amz74-per1/id=rp-2933-occ7
+
+         occ$c1717.15-per6/id=rp-2933-occ8
+
+         occ$po174p1-n/id=rp-2933-occ9
+
+         occ$br07111720/id=rp-2933-occ10
+
+         occ$b1730.22-per4/id=rp-2933-occ11
+
+         occ$emz2-7-per3-12/id=rp-2933-occ12
+
+         occ$emz2-9-per2-12/id=rp-2933-occ13
+
+         occ$emz2-10-per1-12/id=rp-2933-occ14
 
       rperson$rp-749/joao da fonseca/m
 
@@ -5761,6 +5919,14 @@ kleio$gacto2.str/authorities/Generated from database soure_editor by user soure-
          occ$c1725.24-per7/id=rp-1552-occ2
 
          occ$c1726.5-per8/id=rp-1552-occ3
+
+      rperson$rp-1904/joao de moura matoso/m/status=N
+
+         occ$emz4-2-per5-15/id=rp-1904-occ1
+
+         occ$emz4-3-per1-15/id=rp-1904-occ2
+
+         occ$emz4-5-per1-15/id=rp-1904-occ3
 
       rperson$rp-703/joao de moura matoso/m
 
@@ -5982,6 +6148,14 @@ kleio$gacto2.str/authorities/Generated from database soure_editor by user soure-
 
          occ$c1732.10-per10/id=rp-1582-occ2
 
+      rperson$rp-1903/joao gaspar/m/status=N
+
+         occ$o1727.01-per2/id=rp-1903-occ1
+
+         occ$b1731.89-per3/id=rp-1903-occ2
+
+         occ$o1732.36-per2/id=rp-1903-occ3
+
       rperson$rp-49/joao gaspar/m
 
          occ$c147-8/id=rp-49-occ1
@@ -6091,6 +6265,16 @@ kleio$gacto2.str/authorities/Generated from database soure_editor by user soure-
          occ$b1689.94-per1-per2/id=rp-1692-occ1
 
          occ$b1692.79-per1-per2/id=rp-1692-occ2
+
+      rperson$rp-2922/joao goncalves/m/status=N
+
+         occ$c1724.9-per7/id=rp-2922-occ1
+
+         occ$b1725.18-per4/id=rp-2922-occ2
+
+         occ$b1726.28-per5/id=rp-2922-occ3
+
+         occ$b1728.42-per6/id=rp-2922-occ4
 
       rperson$rp-629/joao goncalves/m
 
@@ -6708,71 +6892,91 @@ kleio$gacto2.str/authorities/Generated from database soure_editor by user soure-
 
          occ$bn14041720b-per1/id=rp-1594-occ4
 
-      rperson$rp-141/jose barbosa canais/m
-
-         occ$c1713.11-per5/id=rp-141-occ1
-
-         occ$c17-7/id=rp-141-occ2
-
-         occ$c1713.14-per8/id=rp-141-occ3
-
-         occ$c1713.22-per2/id=rp-141-occ4
-
-         occ$c1714.6-per7/id=rp-141-occ5
-
-         occ$c1716.19-per8/id=rp-141-occ6
-
-         occ$c1717.6-per8/id=rp-141-occ7
-
-         occ$c1717.15-per2/id=rp-141-occ8
-
-         occ$c1717.15-per9/id=rp-141-occ9
-
-         occ$c1686.7-per9/id=rp-141-occ10
-
-         occ$b1700.32-per4/id=rp-141-occ11
-
-         occ$b1700.85-per4/id=rp-141-occ12
-
-         occ$b1702.39-per4/id=rp-141-occ13
-
-         occ$b1707.37-per4/id=rp-141-occ14
-
-         occ$b1707.77-per3/id=rp-141-occ15
-
-         occ$b1707.83-per6/id=rp-141-occ16
-
-         occ$b1708.11-per5/id=rp-141-occ17
-
-         occ$b1708.26-per4/id=rp-141-occ18
-
-         occ$b1708.94-per6/id=rp-141-occ19
-
-         occ$b1709.28-per5/id=rp-141-occ20
-
-         occ$b1710.53-per5/id=rp-141-occ21
-
-         occ$b1713.10-per4/id=rp-141-occ22
-
-         occ$c1710.7-7/id=rp-141-occ23
-
-         occ$1700-148-per1/id=rp-141-occ24
-
-         occ$amz58-per5/id=rp-141-occ25
-
-         occ$emz1-21-per5-13/id=rp-141-occ26
-
-         occ$amz56-per11/id=rp-141-occ27
-
-         occ$emz1-19-per11-13/id=rp-141-occ28
-
-         occ$amz57-per16/id=rp-141-occ29
-
-         occ$emz1-20-per16-13/id=rp-141-occ30
-
       rperson$rp-229/jose barbosa canais/m
 
          occ$c148-8/id=rp-229-occ1
+
+      rperson$rp-2935/jose barbosa canais/m/status=N
+
+         occ$c1713.11-per5/id=rp-2935-occ1
+
+         occ$c17-7/id=rp-2935-occ2
+
+         occ$c1713.14-per8/id=rp-2935-occ3
+
+         occ$c1713.22-per2/id=rp-2935-occ4
+
+         occ$c1714.6-per7/id=rp-2935-occ5
+
+         occ$c1716.19-per8/id=rp-2935-occ6
+
+         occ$c1717.6-per8/id=rp-2935-occ7
+
+         occ$c1717.15-per2/id=rp-2935-occ8
+
+         occ$c1717.15-per9/id=rp-2935-occ9
+
+         occ$c1686.7-per9/id=rp-2935-occ10
+
+         occ$b1700.32-per4/id=rp-2935-occ11
+
+         occ$b1700.85-per4/id=rp-2935-occ12
+
+         occ$b1702.39-per4/id=rp-2935-occ13
+
+         occ$b1707.37-per4/id=rp-2935-occ14
+
+         occ$b1707.77-per3/id=rp-2935-occ15
+
+         occ$b1707.83-per6/id=rp-2935-occ16
+
+         occ$b1708.11-per5/id=rp-2935-occ17
+
+         occ$b1708.26-per4/id=rp-2935-occ18
+
+         occ$b1708.94-per6/id=rp-2935-occ19
+
+         occ$b1709.28-per5/id=rp-2935-occ20
+
+         occ$b1710.53-per5/id=rp-2935-occ21
+
+         occ$b1713.10-per4/id=rp-2935-occ22
+
+         occ$c1710.7-7/id=rp-2935-occ23
+
+         occ$1700-148-per1/id=rp-2935-occ24
+
+         occ$amz58-per5/id=rp-2935-occ25
+
+         occ$emz1-21-per5-13/id=rp-2935-occ26
+
+         occ$amz56-per11/id=rp-2935-occ27
+
+         occ$emz1-19-per11-13/id=rp-2935-occ28
+
+         occ$amz57-per16/id=rp-2935-occ29
+
+         occ$emz1-20-per16-13/id=rp-2935-occ30
+
+         occ$amz18-per5/id=rp-2935-occ31
+
+         occ$emz1-7-per5-13/id=rp-2935-occ32
+
+         occ$amz44-per17/id=rp-2935-occ33
+
+         occ$emz1-15-per17-13/id=rp-2935-occ34
+
+         occ$emz1-16-per7-13/id=rp-2935-occ35
+
+         occ$amz46-per17/id=rp-2935-occ36
+
+         occ$amz48-per16/id=rp-2935-occ37
+
+         occ$amz48-per5/id=rp-2935-occ38
+
+         occ$emz1-17-per6-13/id=rp-2935-occ39
+
+         occ$amz49-per8/id=rp-2935-occ40
 
       rperson$rp-239/jose barbosa de sousa/m
 
@@ -7294,6 +7498,14 @@ kleio$gacto2.str/authorities/Generated from database soure_editor by user soure-
 
          occ$b1714.77-per4/id=rp-249-occ12
 
+      rperson$rp-2923/jose pinto/m/status=N
+
+         occ$c348-8/id=rp-2923-occ1
+
+         occ$not2.6.3x-per3/id=rp-2923-occ2
+
+         occ$not2.6.11x-per1/id=rp-2923-occ3
+
       rperson$rp-34/jose pinto/m
 
          occ$c51-r1/id=rp-34-occ1
@@ -7309,6 +7521,18 @@ kleio$gacto2.str/authorities/Generated from database soure_editor by user soure-
          occ$c87-r1/id=rp-34-occ6
 
          occ$b1698.37-per4/id=rp-34-occ7
+
+      rperson$rp-2934/jose pinto de abreu/m/status=N
+
+         occ$amz7-per13/id=rp-2934-occ1
+
+         occ$emz1-2-per13-13/id=rp-2934-occ2
+
+         occ$emz1-14-per19-13/id=rp-2934-occ3
+
+         occ$amz41-per2/id=rp-2934-occ4
+
+         occ$amz46-per18/id=rp-2934-occ5
 
       rperson$rp-1651/jose rodrigues/m/status=N
 
@@ -7700,37 +7924,105 @@ kleio$gacto2.str/authorities/Generated from database soure_editor by user soure-
 
          occ$b1703.3-per4/id=rp-241-occ3
 
-      rperson$rp-618/luis barbosa canais/m
+      rperson$rp-2937/luis barbosa canais/m/status=N
 
-         occ$amz62-per5/id=rp-618-occ1
+         occ$amz62-per5/id=rp-2937-occ1
 
-      rperson$rp-803/luis barbosa canais/m
+         occ$b1708.11-per4/id=rp-2937-occ2
 
-         occ$b1708.11-per4/id=rp-803-occ1
+         occ$c17-7-luis/id=rp-2937-occ3
 
-         occ$c17-7-luis/id=rp-803-occ2
+         occ$b1713.44-per4/id=rp-2937-occ4
 
-         occ$b1713.44-per4/id=rp-803-occ3
+         occ$b1718.12-per4/id=rp-2937-occ5
 
-         occ$b1718.12-per4/id=rp-803-occ4
+         occ$b1718.18-per6/id=rp-2937-occ6
 
-         occ$b1718.18-per6/id=rp-803-occ5
+         occ$b1718.88-per1-per2/id=rp-2937-occ7
 
-         occ$b1718.88-per1-per2/id=rp-803-occ6
+         occ$c1713.22-per1/id=rp-2937-occ8
 
-         occ$c1713.22-per1/id=rp-803-occ7
+         occ$bn01121714-per1/id=rp-2937-occ9
 
-         occ$bn01121714-per1/id=rp-803-occ8
+         occ$b1722.25-per2/id=rp-2937-occ10
 
-         occ$b1722.25-per2/id=rp-803-occ9
+         occ$b1726.9-per2/id=rp-2937-occ11
 
-         occ$b1726.9-per2/id=rp-803-occ10
+         occ$o1726.15-per1-per2/id=rp-2937-occ12
 
-         occ$o1726.15-per1-per2/id=rp-803-occ11
+         occ$b1729.69-per2/id=rp-2937-occ13
 
-         occ$b1729.69-per2/id=rp-803-occ12
+         occ$b1723.27-per5/id=rp-2937-occ14
 
-         occ$b1723.27-per5/id=rp-803-occ13
+         occ$emz1-23-per15-13/id=rp-2937-occ15
+
+         occ$amz61-per15/id=rp-2937-occ16
+
+         occ$amz68-per1/id=rp-2937-occ17
+
+         occ$amz79-per14/id=rp-2937-occ18
+
+         occ$amz79-per3/id=rp-2937-occ19
+
+         occ$emz1-25-per14-13/id=rp-2937-occ20
+
+         occ$emz1-28-per18-13/id=rp-2937-occ21
+
+         occ$emz2-11-per12-12/id=rp-2937-occ22
+
+         occ$nm213-per1/id=rp-2937-occ23
+
+         occ$not2.6.57x-per3/id=rp-2937-occ24
+
+         occ$not2.6.58x-per2/id=rp-2937-occ25
+
+         occ$not2.6.66x-per9/id=rp-2937-occ26
+
+         occ$not2.6.69x-per3/id=rp-2937-occ27
+
+         occ$not2.6.95x-per5/id=rp-2937-occ28
+
+         occ$not2.6.94x-per2/id=rp-2937-occ29
+
+         occ$b1714.73-per4/id=rp-2937-occ30
+
+         occ$amz66-per4-per6/id=rp-2937-occ31
+
+         occ$emz1-24-per1-13/id=rp-2937-occ32
+
+         occ$emz1-25-per3-13/id=rp-2937-occ33
+
+         occ$br07111720b/id=rp-2937-occ34
+
+         occ$b1722.95-per5/id=rp-2937-occ35
+
+         occ$b1732.4-per6/id=rp-2937-occ36
+
+         occ$b1724.10-per4/id=rp-2937-occ37
+
+         occ$b1724.91-per5/id=rp-2937-occ38
+
+         occ$1724-b92-luis/id=rp-2937-occ39
+
+         occ$b1730.59-per5/id=rp-2937-occ40
+
+         occ$po38-per1-per2/id=rp-2937-occ41
+
+         occ$emz2-8-per3-12/id=rp-2937-occ42
+
+         occ$emz2-9-per4-12/id=rp-2937-occ43
+
+         occ$emz2-10-per2-12/id=rp-2937-occ44
+
+         occ$emz2-11-per2-12/id=rp-2937-occ45
+
+         occ$emz2-13-per1-12/id=rp-2937-occ46
+
+         occ$po22-per1-per2-per3/id=rp-2937-occ47
+
+         occ$po22-1748-per5/id=rp-2937-occ48
+
+         occ$po22-1748mad-per3/id=rp-2937-occ49
 
       rperson$rp-360/luis coelho/m
 
@@ -9268,6 +9560,8 @@ kleio$gacto2.str/authorities/Generated from database soure_editor by user soure-
 
          occ$b1713.11-per4/id=rp-609-occ7
 
+         occ$not2.6.55x-per1/id=rp-609-occ8
+
       rperson$rp-333/manuel goncalves perdigao/m
 
          occ$b1688.38-per4/id=rp-333-occ1
@@ -9835,6 +10129,18 @@ kleio$gacto2.str/authorities/Generated from database soure_editor by user soure-
          occ$b1691.90-per1-per2/id=rp-363-occ1
 
          occ$bpai12111691/id=rp-363-occ2
+
+      rperson$rp-2931/manuel manhos de abreu/m/status=N
+
+         occ$amz58-per19/id=rp-2931-occ1
+
+         occ$emz1-21-per19-13/id=rp-2931-occ2
+
+         occ$amz59-per14/id=rp-2931-occ3
+
+         occ$amz59-per3/id=rp-2931-occ4
+
+         occ$emz1-22-per14-13/id=rp-2931-occ5
 
       rperson$rp-1751/manuel marques de oliveira/m/status=N/obs=estudante na universidade de coimbra
 
@@ -14269,6 +14575,16 @@ kleio$gacto2.str/authorities/Generated from database soure_editor by user soure-
          occ$emz1-26-per16-13/id=rp-814-occ23
 
          occ$emz1-27-per17-13/id=rp-814-occ24
+
+         occ$emz1-5-per18-13/id=rp-814-occ25
+
+         occ$emz1-17-per7-13/id=rp-814-occ26
+
+      rperson$rp-2924/tristao de albuquerque mendonca furtado/m/status=N/obs=esta a mover uma causa contra os anteriormente referidos
+
+         occ$not67x/id=rp-2924-occ1
+
+         occ$not2.6.72x-per17-per18/id=rp-2924-occ2
 
       rperson$rp-791/ursula/f
 
