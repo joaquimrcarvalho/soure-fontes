@@ -1,0 +1,53 @@
+KleioTranslator - server version 2021.A4 - build 1878 (master) 25/05/2021 11:05 
+25-5-2021 5-33
+
+Processing data file mhk_identification_soure-regina.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto2.str
+Prefix: 
+Autorel: 
+Translation count: 
+Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 Timestamp:2021-05-25T04:24:59.080Z
+Translation count not set or invalid, counting as zero: 
+** Processing authority register identifications$real-entities-soure-regina
+** Processing rperson record rperson$rp-924
+**     Processing rentity occurence c1711.6-4
+**     Processing rentity occurence bn17021712-per2
+**     Processing rentity occurence b1718.74-per1-per3
+**     Processing rentity occurence b1719.107-per5
+** Processing rperson record rperson$rp-920
+**     Processing rentity occurence c1722.2-per1
+**     Processing rentity occurence b1726.28-per1
+**     Processing rentity occurence b1728.42-per1
+**     Processing rentity occurence b1731.28-per1
+** Processing rperson record rperson$rp-922
+**     Processing rentity occurence b1718.87-per3
+**     Processing rentity occurence b1720.65-per3
+** Processing rperson record rperson$rp-921
+**     Processing rentity occurence c1722.2-per4
+**     Processing rentity occurence b1726.28-per2
+**     Processing rentity occurence b1728.42-per2
+**     Processing rentity occurence b1731.28-per2
+** Processing rperson record rperson$rp-925
+**     Processing rentity occurence br02101718
+**     Processing rentity occurence bpad27031720b
+**     Processing rentity occurence bppad02091720
+*** End of File
+
+
+** Processed file- /kleio-home/sources/soure-fontes/identifications/mhk_identification_soure-regina.cli
+** Original file- /kleio-home/sources/soure-fontes/identifications/mhk_identification_soure-regina.org
+** Previous version- /kleio-home/sources/soure-fontes/identifications/mhk_identification_soure-regina.old
+** Temp file with ids- /kleio-home/sources/soure-fontes/identifications/mhk_identification_soure-regina.ids
+** - /kleio-home/sources/soure-fontes/identifications/mhk_identification_soure-regina.cli-renamed to- /kleio-home/sources/soure-fontes/identifications/mhk_identification_soure-regina.org
+** - /kleio-home/sources/soure-fontes/identifications/mhk_identification_soure-regina.ids-renamed to- /kleio-home/sources/soure-fontes/identifications/mhk_identification_soure-regina.cli
+** Translation files closed.
+0  errors. 
+0  warnings.
+Translation finished.

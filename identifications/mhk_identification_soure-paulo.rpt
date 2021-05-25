@@ -1,0 +1,76 @@
+KleioTranslator - server version 2021.A4 - build 1878 (master) 25/05/2021 11:05 
+25-5-2021 5-33
+
+Processing data file mhk_identification_soure-paulo.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto2.str
+Prefix: 
+Autorel: 
+Translation count: 
+Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 Timestamp:2021-05-25T04:24:53.019Z
+Translation count not set or invalid, counting as zero: 
+** Processing authority register identifications$real-entities-soure-paulo
+** Processing rperson record rperson$rp-918
+**     Processing rentity occurence c1717.6-per4
+**     Processing rentity occurence b1718.23-per1-per3
+**     Processing rentity occurence b1719.72-per1-per3
+**     Processing rentity occurence bn04091720-per2
+**     Processing rentity occurence b1722.16-per3
+**     Processing rentity occurence b1726.83-per3
+**     Processing rentity occurence b1728.80-per2
+**     Processing rentity occurence b1731.19-per3
+** Processing rperson record rperson$rp-917
+**     Processing rentity occurence c1713.14-per4
+**     Processing rentity occurence o1714-3553-per1
+** Processing rperson record rperson$rp-916
+**     Processing rentity occurence b1718.23-per1-per2
+**     Processing rentity occurence b1719.72-per1-per2
+**     Processing rentity occurence bn04091720-per1
+**     Processing rentity occurence b1722.16-per2
+**     Processing rentity occurence b1726.83-per2
+**     Processing rentity occurence b1728.80-per1
+**     Processing rentity occurence b1731.19-per2
+**     Processing rentity occurence c1713.14-per1
+**     Processing rentity occurence c1714.10-per7
+**     Processing rentity occurence b1716.17-per3
+**     Processing rentity occurence b1716.24-per4
+**     Processing rentity occurence b1716.90-per4
+**     Processing rentity occurence b1717.7-per4
+**     Processing rentity occurence b1717.19-per4
+**     Processing rentity occurence c1717.6-per1
+**     Processing rentity occurence b1718.99-per4
+**     Processing rentity occurence c1719.12-per7
+** Processing rperson record rperson$rp-919
+**     Processing rentity occurence c148-1
+**     Processing rentity occurence b1700.85-per1-per2
+**     Processing rentity occurence b1703.46-per1-per2
+**     Processing rentity occurence b1706.95-per1-per2
+**     Processing rentity occurence b1709.93-per1-per2
+**     Processing rentity occurence b1713.40-per1-per2
+**     Processing rentity occurence o1723.97-per1-per2
+**     Processing rentity occurence c1725.24-per2
+**     Processing rentity occurence c196-8
+**     Processing rentity occurence nm118-per1
+**     Processing rentity occurence c318-9
+**     Processing rentity occurence amz58-per25
+**     Processing rentity occurence emz1-21-per25-13
+**     Processing rentity occurence o1713-3493-per1
+*** End of File
+
+
+** Processed file- /kleio-home/sources/soure-fontes/identifications/mhk_identification_soure-paulo.cli
+** Original file- /kleio-home/sources/soure-fontes/identifications/mhk_identification_soure-paulo.org
+** Previous version- /kleio-home/sources/soure-fontes/identifications/mhk_identification_soure-paulo.old
+** Temp file with ids- /kleio-home/sources/soure-fontes/identifications/mhk_identification_soure-paulo.ids
+** - /kleio-home/sources/soure-fontes/identifications/mhk_identification_soure-paulo.cli-renamed to- /kleio-home/sources/soure-fontes/identifications/mhk_identification_soure-paulo.org
+** - /kleio-home/sources/soure-fontes/identifications/mhk_identification_soure-paulo.ids-renamed to- /kleio-home/sources/soure-fontes/identifications/mhk_identification_soure-paulo.cli
+** Translation files closed.
+0  errors. 
+0  warnings.
+Translation finished.

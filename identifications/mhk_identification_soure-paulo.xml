@@ -1,0 +1,219 @@
+<?xml version='1.0'?>
+<KLEIO STRUCTURE="/kleio-home/system/conf/kleio/stru/gacto2.str" SOURCE="/kleio-home/sources/soure-fontes/identifications/mhk_identification_soure-paulo.cli" TRANSLATOR="gactoxml2.str" WHEN="2021-5-25 5:33:6" OBS="Generated from database soure_editor by user soure, file date: +2021-05-25 Timestamp:2021-05-25T04:24:53.019Z" SPACE="">
+<CLASS NAME="aregister" SUPER="entity" TABLE="aregisters" GROUP="identifications">
+     <ATTRIBUTE NAME="id" COLUMN="id" CLASS="id" TYPE="varchar" SIZE="64" PRECISION="0" PKEY="1" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="date" COLUMN="the_date" CLASS="date" TYPE="varchar" SIZE="24" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="user" COLUMN="user" CLASS="user" TYPE="varchar" SIZE="32" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="name" COLUMN="name" CLASS="name" TYPE="varchar" SIZE="254" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="dbase" COLUMN="dbase" CLASS="dbase" TYPE="varchar" SIZE="32" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="mode" COLUMN="mode" CLASS="mode" TYPE="varchar" SIZE="64" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="obs" COLUMN="obs" CLASS="obs" TYPE="varchar" SIZE="1024" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+</CLASS>
+
+<GROUP ID="real-entities-soure-paulo" NAME="identifications" CLASS="aregister" ORDER="1" LEVEL="1" LINE="9">
+    <ELEMENT NAME="line" CLASS="line"><core>9</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>real-entities-soure-paulo</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>identifications</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>root</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>aregister</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>1</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>1</core></ELEMENT>
+   <ELEMENT NAME="name" CLASS="name">
+         <core><![CDATA[Real entities, including real persons and real objects]]></core>   </ELEMENT>
+   <ELEMENT NAME="dbase" CLASS="dbase">
+         <core><![CDATA[soure_editor]]></core>   </ELEMENT>
+   <ELEMENT NAME="user" CLASS="user">
+         <core><![CDATA[soure-paulo]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[20210525]]></core>   </ELEMENT>
+   <ELEMENT NAME="mode" CLASS="mode">
+         <core><![CDATA[backup]]></core>   </ELEMENT>
+</GROUP>
+<CLASS NAME="rentity" SUPER="entity" TABLE="rentities" GROUP="rentity">
+     <ATTRIBUTE NAME="id" COLUMN="id" CLASS="id" TYPE="varchar" SIZE="64" PRECISION="0" PKEY="1" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="the_class" COLUMN="the_class" CLASS="the_class" TYPE="varchar" SIZE="32" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="description" COLUMN="description" CLASS="name" TYPE="varchar" SIZE="128" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="user" COLUMN="user" CLASS="user" TYPE="varchar" SIZE="64" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="status" COLUMN="status" CLASS="status" TYPE="varchar" SIZE="64" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="obs" COLUMN="obs" CLASS="obs" TYPE="varchar" SIZE="1024" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+</CLASS>
+<CLASS NAME="rperson" SUPER="rentity" TABLE="rpersons" GROUP="rperson">
+     <ATTRIBUTE NAME="id" COLUMN="id" CLASS="id" TYPE="varchar" SIZE="64" PRECISION="0" PKEY="1" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="seq" COLUMN="seq" CLASS="seq" TYPE="int" SIZE="10" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="sname" COLUMN="sname" CLASS="name" TYPE="varchar" SIZE="128" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="user" COLUMN="user" CLASS="user" TYPE="varchar" SIZE="64" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="status" COLUMN="status" CLASS="status" TYPE="varchar" SIZE="1" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="sex" COLUMN="sex" CLASS="sex" TYPE="varchar" SIZE="1" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="obs" COLUMN="obs" CLASS="obs" TYPE="varchar" SIZE="1024" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+</CLASS>
+
+<GROUP ID="rp-918" NAME="rperson" CLASS="rperson" ORDER="2" LEVEL="2" LINE="10">
+    <ELEMENT NAME="line" CLASS="line"><core>10</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>rp-918</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>rperson</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>real-entities-soure-paulo</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>rperson</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>2</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>2</core></ELEMENT>
+   <ELEMENT NAME="sname" CLASS="name">
+         <core><![CDATA[angelica pereira]]></core>   </ELEMENT>
+   <ELEMENT NAME="sex" CLASS="sex">
+         <core><![CDATA[f]]></core>   </ELEMENT>
+   <ELEMENT NAME="status" CLASS="status">
+         <core><![CDATA[N]]></core>   </ELEMENT>
+   <ELEMENT NAME="description" CLASS="name">
+         <core><![CDATA[angelica pereira]]></core>   </ELEMENT>
+   <ELEMENT NAME="user" CLASS="user">
+         <core><![CDATA[soure-paulo]]></core>   </ELEMENT>
+   <ELEMENT NAME="the_class" CLASS="the_class">
+         <core><![CDATA[rperson]]></core>   </ELEMENT>
+</GROUP>
+
+<RELATION ID="rp-918-occ1" REGISTER="real-entities-soure-paulo" USER="soure-paulo" ORG="c1717.6-per4" DEST="rp-918" TYPE="META" VALUE="attach_to_rentity"/>
+
+<RELATION ID="rp-918-occ2" REGISTER="real-entities-soure-paulo" USER="soure-paulo" ORG="b1718.23-per1-per3" DEST="rp-918" TYPE="META" VALUE="attach_to_rentity"/>
+
+<RELATION ID="rp-918-occ3" REGISTER="real-entities-soure-paulo" USER="soure-paulo" ORG="b1719.72-per1-per3" DEST="rp-918" TYPE="META" VALUE="attach_to_rentity"/>
+
+<RELATION ID="rp-918-occ4" REGISTER="real-entities-soure-paulo" USER="soure-paulo" ORG="bn04091720-per2" DEST="rp-918" TYPE="META" VALUE="attach_to_rentity"/>
+
+<RELATION ID="rp-918-occ5" REGISTER="real-entities-soure-paulo" USER="soure-paulo" ORG="b1722.16-per3" DEST="rp-918" TYPE="META" VALUE="attach_to_rentity"/>
+
+<RELATION ID="rp-918-occ6" REGISTER="real-entities-soure-paulo" USER="soure-paulo" ORG="b1726.83-per3" DEST="rp-918" TYPE="META" VALUE="attach_to_rentity"/>
+
+<RELATION ID="rp-918-occ7" REGISTER="real-entities-soure-paulo" USER="soure-paulo" ORG="b1728.80-per2" DEST="rp-918" TYPE="META" VALUE="attach_to_rentity"/>
+
+<RELATION ID="rp-918-occ8" REGISTER="real-entities-soure-paulo" USER="soure-paulo" ORG="b1731.19-per3" DEST="rp-918" TYPE="META" VALUE="attach_to_rentity"/>
+
+<GROUP ID="rp-917" NAME="rperson" CLASS="rperson" ORDER="3" LEVEL="2" LINE="20">
+    <ELEMENT NAME="line" CLASS="line"><core>20</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>rp-917</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>rperson</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>real-entities-soure-paulo</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>rperson</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>3</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>2</core></ELEMENT>
+   <ELEMENT NAME="sname" CLASS="name">
+         <core><![CDATA[isabel maria pedroso]]></core>   </ELEMENT>
+   <ELEMENT NAME="sex" CLASS="sex">
+         <core><![CDATA[f]]></core>   </ELEMENT>
+   <ELEMENT NAME="status" CLASS="status">
+         <core><![CDATA[N]]></core>   </ELEMENT>
+   <ELEMENT NAME="description" CLASS="name">
+         <core><![CDATA[isabel maria pedroso]]></core>   </ELEMENT>
+   <ELEMENT NAME="user" CLASS="user">
+         <core><![CDATA[soure-paulo]]></core>   </ELEMENT>
+   <ELEMENT NAME="the_class" CLASS="the_class">
+         <core><![CDATA[rperson]]></core>   </ELEMENT>
+</GROUP>
+
+<RELATION ID="rp-917-occ1" REGISTER="real-entities-soure-paulo" USER="soure-paulo" ORG="c1713.14-per4" DEST="rp-917" TYPE="META" VALUE="attach_to_rentity"/>
+
+<RELATION ID="rp-917-occ2" REGISTER="real-entities-soure-paulo" USER="soure-paulo" ORG="o1714-3553-per1" DEST="rp-917" TYPE="META" VALUE="attach_to_rentity"/>
+
+<GROUP ID="rp-916" NAME="rperson" CLASS="rperson" ORDER="4" LEVEL="2" LINE="24">
+    <ELEMENT NAME="line" CLASS="line"><core>24</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>rp-916</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>rperson</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>real-entities-soure-paulo</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>rperson</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>4</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>2</core></ELEMENT>
+   <ELEMENT NAME="sname" CLASS="name">
+         <core><![CDATA[joao henriques cavaco]]></core>   </ELEMENT>
+   <ELEMENT NAME="sex" CLASS="sex">
+         <core><![CDATA[m]]></core>   </ELEMENT>
+   <ELEMENT NAME="status" CLASS="status">
+         <core><![CDATA[N]]></core>   </ELEMENT>
+   <ELEMENT NAME="description" CLASS="name">
+         <core><![CDATA[joao henriques cavaco]]></core>   </ELEMENT>
+   <ELEMENT NAME="user" CLASS="user">
+         <core><![CDATA[soure-paulo]]></core>   </ELEMENT>
+   <ELEMENT NAME="the_class" CLASS="the_class">
+         <core><![CDATA[rperson]]></core>   </ELEMENT>
+</GROUP>
+
+<RELATION ID="rp-916-occ1" REGISTER="real-entities-soure-paulo" USER="soure-paulo" ORG="b1718.23-per1-per2" DEST="rp-916" TYPE="META" VALUE="attach_to_rentity"/>
+
+<RELATION ID="rp-916-occ2" REGISTER="real-entities-soure-paulo" USER="soure-paulo" ORG="b1719.72-per1-per2" DEST="rp-916" TYPE="META" VALUE="attach_to_rentity"/>
+
+<RELATION ID="rp-916-occ3" REGISTER="real-entities-soure-paulo" USER="soure-paulo" ORG="bn04091720-per1" DEST="rp-916" TYPE="META" VALUE="attach_to_rentity"/>
+
+<RELATION ID="rp-916-occ4" REGISTER="real-entities-soure-paulo" USER="soure-paulo" ORG="b1722.16-per2" DEST="rp-916" TYPE="META" VALUE="attach_to_rentity"/>
+
+<RELATION ID="rp-916-occ5" REGISTER="real-entities-soure-paulo" USER="soure-paulo" ORG="b1726.83-per2" DEST="rp-916" TYPE="META" VALUE="attach_to_rentity"/>
+
+<RELATION ID="rp-916-occ6" REGISTER="real-entities-soure-paulo" USER="soure-paulo" ORG="b1728.80-per1" DEST="rp-916" TYPE="META" VALUE="attach_to_rentity"/>
+
+<RELATION ID="rp-916-occ7" REGISTER="real-entities-soure-paulo" USER="soure-paulo" ORG="b1731.19-per2" DEST="rp-916" TYPE="META" VALUE="attach_to_rentity"/>
+
+<RELATION ID="rp-916-occ8" REGISTER="real-entities-soure-paulo" USER="soure-paulo" ORG="c1713.14-per1" DEST="rp-916" TYPE="META" VALUE="attach_to_rentity"/>
+
+<RELATION ID="rp-916-occ9" REGISTER="real-entities-soure-paulo" USER="soure-paulo" ORG="c1714.10-per7" DEST="rp-916" TYPE="META" VALUE="attach_to_rentity"/>
+
+<RELATION ID="rp-916-occ10" REGISTER="real-entities-soure-paulo" USER="soure-paulo" ORG="b1716.17-per3" DEST="rp-916" TYPE="META" VALUE="attach_to_rentity"/>
+
+<RELATION ID="rp-916-occ11" REGISTER="real-entities-soure-paulo" USER="soure-paulo" ORG="b1716.24-per4" DEST="rp-916" TYPE="META" VALUE="attach_to_rentity"/>
+
+<RELATION ID="rp-916-occ12" REGISTER="real-entities-soure-paulo" USER="soure-paulo" ORG="b1716.90-per4" DEST="rp-916" TYPE="META" VALUE="attach_to_rentity"/>
+
+<RELATION ID="rp-916-occ13" REGISTER="real-entities-soure-paulo" USER="soure-paulo" ORG="b1717.7-per4" DEST="rp-916" TYPE="META" VALUE="attach_to_rentity"/>
+
+<RELATION ID="rp-916-occ14" REGISTER="real-entities-soure-paulo" USER="soure-paulo" ORG="b1717.19-per4" DEST="rp-916" TYPE="META" VALUE="attach_to_rentity"/>
+
+<RELATION ID="rp-916-occ15" REGISTER="real-entities-soure-paulo" USER="soure-paulo" ORG="c1717.6-per1" DEST="rp-916" TYPE="META" VALUE="attach_to_rentity"/>
+
+<RELATION ID="rp-916-occ16" REGISTER="real-entities-soure-paulo" USER="soure-paulo" ORG="b1718.99-per4" DEST="rp-916" TYPE="META" VALUE="attach_to_rentity"/>
+
+<RELATION ID="rp-916-occ17" REGISTER="real-entities-soure-paulo" USER="soure-paulo" ORG="c1719.12-per7" DEST="rp-916" TYPE="META" VALUE="attach_to_rentity"/>
+
+<GROUP ID="rp-919" NAME="rperson" CLASS="rperson" ORDER="5" LEVEL="2" LINE="43">
+    <ELEMENT NAME="line" CLASS="line"><core>43</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>rp-919</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>rperson</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>real-entities-soure-paulo</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>rperson</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>5</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>2</core></ELEMENT>
+   <ELEMENT NAME="sname" CLASS="name">
+         <core><![CDATA[manuel monteiro]]></core>   </ELEMENT>
+   <ELEMENT NAME="sex" CLASS="sex">
+         <core><![CDATA[m]]></core>   </ELEMENT>
+   <ELEMENT NAME="status" CLASS="status">
+         <core><![CDATA[N]]></core>   </ELEMENT>
+   <ELEMENT NAME="description" CLASS="name">
+         <core><![CDATA[manuel monteiro]]></core>   </ELEMENT>
+   <ELEMENT NAME="user" CLASS="user">
+         <core><![CDATA[soure-paulo]]></core>   </ELEMENT>
+   <ELEMENT NAME="the_class" CLASS="the_class">
+         <core><![CDATA[rperson]]></core>   </ELEMENT>
+</GROUP>
+
+<RELATION ID="rp-919-occ1" REGISTER="real-entities-soure-paulo" USER="soure-paulo" ORG="c148-1" DEST="rp-919" TYPE="META" VALUE="attach_to_rentity"/>
+
+<RELATION ID="rp-919-occ2" REGISTER="real-entities-soure-paulo" USER="soure-paulo" ORG="b1700.85-per1-per2" DEST="rp-919" TYPE="META" VALUE="attach_to_rentity"/>
+
+<RELATION ID="rp-919-occ3" REGISTER="real-entities-soure-paulo" USER="soure-paulo" ORG="b1703.46-per1-per2" DEST="rp-919" TYPE="META" VALUE="attach_to_rentity"/>
+
+<RELATION ID="rp-919-occ4" REGISTER="real-entities-soure-paulo" USER="soure-paulo" ORG="b1706.95-per1-per2" DEST="rp-919" TYPE="META" VALUE="attach_to_rentity"/>
+
+<RELATION ID="rp-919-occ5" REGISTER="real-entities-soure-paulo" USER="soure-paulo" ORG="b1709.93-per1-per2" DEST="rp-919" TYPE="META" VALUE="attach_to_rentity"/>
+
+<RELATION ID="rp-919-occ6" REGISTER="real-entities-soure-paulo" USER="soure-paulo" ORG="b1713.40-per1-per2" DEST="rp-919" TYPE="META" VALUE="attach_to_rentity"/>
+
+<RELATION ID="rp-919-occ7" REGISTER="real-entities-soure-paulo" USER="soure-paulo" ORG="o1723.97-per1-per2" DEST="rp-919" TYPE="META" VALUE="attach_to_rentity"/>
+
+<RELATION ID="rp-919-occ8" REGISTER="real-entities-soure-paulo" USER="soure-paulo" ORG="c1725.24-per2" DEST="rp-919" TYPE="META" VALUE="attach_to_rentity"/>
+
+<RELATION ID="rp-919-occ9" REGISTER="real-entities-soure-paulo" USER="soure-paulo" ORG="c196-8" DEST="rp-919" TYPE="META" VALUE="attach_to_rentity"/>
+
+<RELATION ID="rp-919-occ10" REGISTER="real-entities-soure-paulo" USER="soure-paulo" ORG="nm118-per1" DEST="rp-919" TYPE="META" VALUE="attach_to_rentity"/>
+
+<RELATION ID="rp-919-occ11" REGISTER="real-entities-soure-paulo" USER="soure-paulo" ORG="c318-9" DEST="rp-919" TYPE="META" VALUE="attach_to_rentity"/>
+
+<RELATION ID="rp-919-occ12" REGISTER="real-entities-soure-paulo" USER="soure-paulo" ORG="amz58-per25" DEST="rp-919" TYPE="META" VALUE="attach_to_rentity"/>
+
+<RELATION ID="rp-919-occ13" REGISTER="real-entities-soure-paulo" USER="soure-paulo" ORG="emz1-21-per25-13" DEST="rp-919" TYPE="META" VALUE="attach_to_rentity"/>
+
+<RELATION ID="rp-919-occ14" REGISTER="real-entities-soure-paulo" USER="soure-paulo" ORG="o1713-3493-per1" DEST="rp-919" TYPE="META" VALUE="attach_to_rentity"/>
+</KLEIO>
