@@ -1,5 +1,5 @@
-KleioTranslator - server version @@VERSION@@ - build @@BUILD@@ @@DATE@@
-22-8-2020 11-19
+KleioTranslator - server version 2021.A4 - build 1886 (master) 26/05/2021 16:42 
+31-5-2021 15-2
 
 Processing data file ob1720.cli
 -------------------------------------------
@@ -12,9 +12,15 @@ kleio translation started
 Structure: gacto2.str
 Prefix: 
 Autorel: 
-Translation count: 13
+Translation count: 14
 Obs: 
 ** Processing source fonte$obitos-1720
+** Base name of file ob1720.cli
+
+WARNING: ob1720.cli line 3 * Warning: Filename should match source Id to avoid errors. File: ob1720.cli Id: obitos-1720.
+Near lines: 3 
+Near line: 4       obito$o1720-4084/1/1/1720
+
 6: obito$o1720-4084
 16: obito$o1720-4085
 33: obito$o1720-4086
@@ -101,29 +107,29 @@ Obs:
 1084: obito$o1720-4167
 1100: obito$o1720-4168
 1114: obito$o1720-4169
-1121: obito$o1720-4170
-1134: obito$o1720-4171
-1147: obito$o1720-4172
-1163: obito$o1720-4173
-1176: obito$o1720-4174
-1187: obito$o1720-4175
-1201: obito$o1720-4176
-1211: obito$o1720-4177
-1221: obito$o1720-4178
-1239: obito$o1720-4179
-1252: obito$o1720-4180
-1270: obito$o1720-4181
-1283: obito$o1720-4182
+1122: obito$o1720-4170
+1135: obito$o1720-4171
+1148: obito$o1720-4172
+1164: obito$o1720-4173
+1177: obito$o1720-4174
+1188: obito$o1720-4175
+1202: obito$o1720-4176
+1212: obito$o1720-4177
+1222: obito$o1720-4178
+1240: obito$o1720-4179
+1253: obito$o1720-4180
+1271: obito$o1720-4181
+1284: obito$o1720-4182
 *** End of File
 
 
-** Processed file- /Users/jrc/mhk-home/sources/soure-fontes/sources/1685-1720/obitos/ob1720.cli
-** Original file- /Users/jrc/mhk-home/sources/soure-fontes/sources/1685-1720/obitos/ob1720.org
-** Previous version- /Users/jrc/mhk-home/sources/soure-fontes/sources/1685-1720/obitos/ob1720.old
-** Temp file with ids- /Users/jrc/mhk-home/sources/soure-fontes/sources/1685-1720/obitos/ob1720.ids
-** - /Users/jrc/mhk-home/sources/soure-fontes/sources/1685-1720/obitos/ob1720.cli-renamed to- /Users/jrc/mhk-home/sources/soure-fontes/sources/1685-1720/obitos/ob1720.old
-** - /Users/jrc/mhk-home/sources/soure-fontes/sources/1685-1720/obitos/ob1720.ids-renamed to- /Users/jrc/mhk-home/sources/soure-fontes/sources/1685-1720/obitos/ob1720.cli
+** Processed file- /kleio-home/sources/soure-fontes/sources/1685-1720/obitos/ob1720.cli
+** Original file- /kleio-home/sources/soure-fontes/sources/1685-1720/obitos/ob1720.org
+** Previous version- /kleio-home/sources/soure-fontes/sources/1685-1720/obitos/ob1720.old
+** Temp file with ids- /kleio-home/sources/soure-fontes/sources/1685-1720/obitos/ob1720.ids
+** - /kleio-home/sources/soure-fontes/sources/1685-1720/obitos/ob1720.cli-renamed to- /kleio-home/sources/soure-fontes/sources/1685-1720/obitos/ob1720.old
+** - /kleio-home/sources/soure-fontes/sources/1685-1720/obitos/ob1720.ids-renamed to- /kleio-home/sources/soure-fontes/sources/1685-1720/obitos/ob1720.cli
 ** Translation files closed.
 0  errors. 
-0  warnings.
+1  warnings.
 Translation finished.
