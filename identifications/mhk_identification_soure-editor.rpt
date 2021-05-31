@@ -1,5 +1,5 @@
-KleioTranslator - server version 2021.A4 - build 1878 (master) 25/05/2021 11:05 
-25-5-2021 5-33
+KleioTranslator - server version 2021.A4 - build 1886 (master) 26/05/2021 16:42 
+31-5-2021 15-52
 
 Processing data file mhk_identification_soure-editor.cli
 -------------------------------------------
@@ -13,50 +13,19 @@ Structure: gacto2.str
 Prefix: 
 Autorel: 
 Translation count: 
-Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 Timestamp:2021-05-25T04:24:49.681Z
+Obs: Generated from database soure_editor by user soure, file date: +2021-05-31 Timestamp:2021-05-31T14:37:05.647Z
 Translation count not set or invalid, counting as zero: 
 ** Processing authority register identifications$real-entities-soure-editor
-** Processing rperson record rperson$rp-416
-** Processing rperson record rperson$rp-1618
-** Processing rperson record rperson$rp-816
-** Processing rperson record rperson$rp-1624
-** Processing rperson record rperson$rp-1714
-** Processing rperson record rperson$rp-459
-** Processing rperson record rperson$rp-1637
-** Processing rperson record rperson$rp-1895
-** Processing rperson record rperson$rp-1627
-** Processing rperson record rperson$rp-1625
-** Processing rperson record rperson$rp-30
 ** Processing rperson record rperson$rp-402
 **     Processing rentity occurence amz32-per18
 **     Processing rentity occurence amz34-per18
 **     Processing rentity occurence amz48-per15
 **     Processing rentity occurence amz49-per7
-** Processing rperson record rperson$rp-264
-** Processing rperson record rperson$rp-1684
-** Processing rperson record rperson$rp-308
-** Processing rperson record rperson$rp-255
-** Processing rperson record rperson$rp-1840
-** Processing rperson record rperson$rp-348
-** Processing rperson record rperson$rp-813
-** Processing rperson record rperson$rp-109
-** Processing rperson record rperson$rp-562
-** Processing rperson record rperson$rp-561
-** Processing rperson record rperson$rp-1718
-** Processing rperson record rperson$rp-248
-** Processing rperson record rperson$rp-1870
-** Processing rperson record rperson$rp-621
-** Processing rperson record rperson$rp-273
-** Processing rperson record rperson$rp-285
-** Processing rperson record rperson$rp-326
-** Processing rperson record rperson$rp-656
-** Processing rperson record rperson$rp-771
 ** Processing rperson record rperson$rp-205
-**     Processing rentity occurence 1720-o43-antonia
-**     Processing rentity occurence 1720-b32-antonia
-**     Processing rentity occurence 1720-b46-antonia
-**     Processing rentity occurence 1720-o85-antonia
-**     Processing rentity occurence 1720-o86-antonia
+**     Processing rentity occurence br04081720
+**     Processing rentity occurence br04081720
+**     Processing rentity occurence b1720.78-per6
+**     Processing rentity occurence on30101720
 **     Processing rentity occurence 1721-b59-antonia
 **     Processing rentity occurence 1721-o45-antonia
 **     Processing rentity occurence 1721-o75-antonia
@@ -64,27 +33,12 @@ Translation count not set or invalid, counting as zero:
 **     Processing rentity occurence 1721-o102-antonia
 **     Processing rentity occurence 1723-o3-antonia
 **     Processing rentity occurence c1716.21-per3
-** Processing rperson record rperson$rp-129
-** Processing rperson record rperson$rp-203
 ** Processing rperson record rperson$rp-387
 **     Processing rentity occurence b1719.7-per6
 **     Processing rentity occurence br16011719
 **     Processing rentity occurence b1719.46-per6
 **     Processing rentity occurence b1719.47-per5
 **     Processing rentity occurence b1719.86-per5
-** Processing rperson record rperson$rp-424
-** Processing rperson record rperson$rp-569
-** Processing rperson record rperson$rp-1685
-** Processing rperson record rperson$rp-268
-** Processing rperson record rperson$rp-369
-** Processing rperson record rperson$rp-512
-** Processing rperson record rperson$rp-282
-** Processing rperson record rperson$rp-92
-** Processing rperson record rperson$rp-566
-** Processing rperson record rperson$rp-785
-** Processing rperson record rperson$rp-639
-** Processing rperson record rperson$rp-636
-** Processing rperson record rperson$rp-88
 ** Processing rperson record rperson$rp-209
 **     Processing rentity occurence amz32-per13
 **     Processing rentity occurence amz34-per13
@@ -94,7 +48,6 @@ Translation count not set or invalid, counting as zero:
 **     Processing rentity occurence c40-9
 **     Processing rentity occurence c5-7
 **     Processing rentity occurence c83-8
-** Processing rperson record rperson$rp-245
 ** Processing rperson record rperson$rp-274
 **     Processing rentity occurence b1705.50-per1
 **     Processing rentity occurence amabreu
@@ -103,10 +56,9 @@ Translation count not set or invalid, counting as zero:
 **     Processing rentity occurence b1709.37-per1-per2
 **     Processing rentity occurence b1718.10-per3
 **     Processing rentity occurence b1718.96-per4
-** Processing rperson record rperson$rp-368
 ** Processing rperson record rperson$rp-211
-**     Processing rentity occurence o1720.12-per1
-**     Processing rentity occurence obitos-1720-his4095-per1
+**     Processing rentity occurence o1720-4095-per1
+**     Processing rentity occurence o1720-4095-per1
 ** Processing rperson record rperson$rp-202
 **     Processing rentity occurence b1714.48-per4
 **     Processing rentity occurence b1714.57-per3
@@ -114,8 +66,6 @@ Translation count not set or invalid, counting as zero:
 **     Processing rentity occurence bpad13101715
 **     Processing rentity occurence b1731.70-per3
 ** Processing rperson record rperson$rp-234
-**     Processing rentity occurence c2-7
-**     Processing rentity occurence c2-7
 **     Processing rentity occurence b1697.17-per4
 **     Processing rentity occurence b1699.36-per4
 **     Processing rentity occurence b1700.8-per6
@@ -127,7 +77,6 @@ Translation count not set or invalid, counting as zero:
 **     Processing rentity occurence c1693.32-per6
 **     Processing rentity occurence c1693.34-per8
 **     Processing rentity occurence c1693.35-per8
-** Processing rperson record rperson$rp-56
 ** Processing rperson record rperson$rp-150
 **     Processing rentity occurence b1715.53-per1-per3
 **     Processing rentity occurence bmae07071715
@@ -155,12 +104,12 @@ Translation count not set or invalid, counting as zero:
 **     Processing rentity occurence b1715.94-per1-per2
 **     Processing rentity occurence c1686.7-per7
 **     Processing rentity occurence c1687.13-per7
-**     Processing rentity occurence obitos-1713-his3504-per1-per2
-**     Processing rentity occurence obitos-1715-his3616-per1-per2
+**     Processing rentity occurence o1713-3504-per1-per2
+**     Processing rentity occurence o1715-3616-per1-per2
 **     Processing rentity occurence c1688.4-per7
-**     Processing rentity occurence obitos-1716-his3799-per1-per2
-**     Processing rentity occurence obitos-1720-his4133-per1-per2
-**     Processing rentity occurence obitos-1720-his4143-per1-per2
+**     Processing rentity occurence o1716-3799-per1-per2
+**     Processing rentity occurence o1720-4133-per1-per2
+**     Processing rentity occurence o1720-4143-per1-per2
 **     Processing rentity occurence c1689.20-per7
 **     Processing rentity occurence b1695.62-per4
 **     Processing rentity occurence b1697.1-per4
@@ -252,7 +201,7 @@ Translation count not set or invalid, counting as zero:
 **     Processing rentity occurence b1727.64-per3
 **     Processing rentity occurence b1728.75-per5
 ** Processing rperson record rperson$rp-427
-**     Processing rentity occurence d1692-c15-per15
+**     Processing rentity occurence c1692-joao-rodrigues-isabel-joao-cons-per15
 ** Processing rperson record rperson$rp-269
 **     Processing rentity occurence b1705.13-per4
 **     Processing rentity occurence c113-7-jor
@@ -263,7 +212,7 @@ Translation count not set or invalid, counting as zero:
 ** Processing rperson record rperson$rp-145
 **     Processing rentity occurence c1718.15-per2
 **     Processing rentity occurence c180-7
-**     Processing rentity occurence obitos-1708-his3119-per1-per2
+**     Processing rentity occurence o1708-3119-per1-per2
 **     Processing rentity occurence b1695.11-per4
 **     Processing rentity occurence b1695.35-per1-per3
 **     Processing rentity occurence b1695.84-per4
@@ -286,7 +235,6 @@ Translation count not set or invalid, counting as zero:
 **     Processing rentity occurence b1718.12-per4
 **     Processing rentity occurence b1718.18-per6
 **     Processing rentity occurence b1718.88-per1-per2
-** Processing rperson record rperson$rp-347
 ** Processing rperson record rperson$rp-484
 **     Processing rentity occurence b1706.51d-per4
 **     Processing rentity occurence lmabreu
@@ -353,8 +301,8 @@ Translation count not set or invalid, counting as zero:
 **     Processing rentity occurence b1718.98-per5
 **     Processing rentity occurence b1718.104-per5
 ** Processing rperson record rperson$rp-184
-**     Processing rentity occurence b1720.9-per2
-**     Processing rentity occurence b1720.8-mn
+**     Processing rentity occurence bmae02051720
+**     Processing rentity occurence b1720.36-per1-per3
 ** Processing rperson record rperson$rp-270
 **     Processing rentity occurence b1705.13-per5
 **     Processing rentity occurence c113-7-mar
@@ -392,7 +340,6 @@ Translation count not set or invalid, counting as zero:
 **     Processing rentity occurence bpai12091707
 ** Processing rperson record rperson$rp-263
 **     Processing rentity occurence b1704.51-per1
-**     Processing rentity occurence c6-7-rod
 **     Processing rentity occurence b1705.52-per4
 **     Processing rentity occurence b1705.64-per4
 **     Processing rentity occurence b1706.53-per1
@@ -419,7 +366,7 @@ Translation count not set or invalid, counting as zero:
 **     Processing rentity occurence c1693.39-per7
 **     Processing rentity occurence sscoelho
 **     Processing rentity occurence c1694.23-per2
-**     Processing rentity occurence obitos-1708-his3139-per1
+**     Processing rentity occurence o1708-3139-per1
 ** Processing rperson record rperson$rp-76
 **     Processing rentity occurence c279-9
 **     Processing rentity occurence c278-9

@@ -1,5 +1,5 @@
-KleioTranslator - server version 2021.A4 - build 1878 (master) 25/05/2021 11:05 
-25-5-2021 5-33
+KleioTranslator - server version 2021.A4 - build 1886 (master) 26/05/2021 16:42 
+31-5-2021 15-52
 
 Processing data file mhk_identification_soure-paulo.cli
 -------------------------------------------
@@ -13,7 +13,7 @@ Structure: gacto2.str
 Prefix: 
 Autorel: 
 Translation count: 
-Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 Timestamp:2021-05-25T04:24:53.019Z
+Obs: Generated from database soure_editor by user soure, file date: +2021-05-31 Timestamp:2021-05-31T14:37:08.813Z
 Translation count not set or invalid, counting as zero: 
 ** Processing authority register identifications$real-entities-soure-paulo
 ** Processing rperson record rperson$rp-918
@@ -68,7 +68,7 @@ Translation count not set or invalid, counting as zero:
 ** Original file- /kleio-home/sources/soure-fontes/identifications/mhk_identification_soure-paulo.org
 ** Previous version- /kleio-home/sources/soure-fontes/identifications/mhk_identification_soure-paulo.old
 ** Temp file with ids- /kleio-home/sources/soure-fontes/identifications/mhk_identification_soure-paulo.ids
-** - /kleio-home/sources/soure-fontes/identifications/mhk_identification_soure-paulo.cli-renamed to- /kleio-home/sources/soure-fontes/identifications/mhk_identification_soure-paulo.org
+** - /kleio-home/sources/soure-fontes/identifications/mhk_identification_soure-paulo.cli-renamed to- /kleio-home/sources/soure-fontes/identifications/mhk_identification_soure-paulo.old
 ** - /kleio-home/sources/soure-fontes/identifications/mhk_identification_soure-paulo.ids-renamed to- /kleio-home/sources/soure-fontes/identifications/mhk_identification_soure-paulo.cli
 ** Translation files closed.
 0  errors. 
