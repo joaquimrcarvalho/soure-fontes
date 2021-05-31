@@ -1,6 +1,6 @@
-kleio$gacto2.str/authorities/Generated from database soure_editor by user soure, file date: +2021-05-25 Timestamp:2021-05-25T04:24:41.791Z/translations=1
+kleio$gacto2.str/authorities/Generated from database soure_editor by user soure, file date: +2021-05-25 Timestamp:2021-05-25T04:24:41.791Z/translations=2
 
-   identifications$real-entities-soure/Real entities, including real persons and real objects/dbase=soure_editor/user=soure/date=20210525/mode=backup
+   identifications$real-entities-soure/Real entities, including real persons and real objects/dbase=soure_editor/user=soure/date=20210525/mode=replace
 
       rperson$rp-1616/afonso joao de carvalho/m/status=N
 
