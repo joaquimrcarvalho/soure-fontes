@@ -1,5 +1,5 @@
 KleioTranslator - server version 2021.A4 - build 1886 (master) 26/05/2021 16:42 
-29-5-2021 7-5
+31-5-2021 15-34
 
 Processing data file mhk_identification_soure.cli
 -------------------------------------------
@@ -12,8 +12,9 @@ kleio translation started
 Structure: gacto2.str
 Prefix: 
 Autorel: 
-Translation count: 1
-Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 Timestamp:2021-05-25T04:24:41.791Z
+Translation count: 
+Obs: Generated from database soure_editor by user soure, file date: +2021-05-31 Timestamp:2021-05-31T14:36:58.357Z
+Translation count not set or invalid, counting as zero: 
 ** Processing authority register identifications$real-entities-soure
 ** Processing rperson record rperson$rp-1616
 **     Processing rentity occurence b1721.54-per2
@@ -169,11 +170,9 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 **     Processing rentity occurence amz44-per20
 **     Processing rentity occurence emz1-15-per20-13
 **     Processing rentity occurence amz46-per23
-** Processing rperson record rperson$rp-871
 ** Processing rperson record rperson$rp-123
 **     Processing rentity occurence c1710.26-6
 **     Processing rentity occurence c1710.25-3
-** Processing rperson record rperson$rp-850
 ** Processing rperson record rperson$rp-663
 **     Processing rentity occurence b1694.12-per1-per3
 **     Processing rentity occurence b1696.78-per1-per3
@@ -236,7 +235,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 **     Processing rentity occurence b1708.99-per5
 **     Processing rentity occurence bmae20091693
 **     Processing rentity occurence b1704.5-per1-per3
-** Processing rperson record rperson$rp-878
 ** Processing rperson record rperson$rp-22
 **     Processing rentity occurence c34-3
 **     Processing rentity occurence c19-3
@@ -336,7 +334,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 ** Processing rperson record rperson$rp-1738
 **     Processing rentity occurence b1718.71-per1-per2
 **     Processing rentity occurence b1726.91-per2
-** Processing rperson record rperson$rp-586
 ** Processing rperson record rperson$rp-1812
 **     Processing rentity occurence 1721-b59-antonia
 **     Processing rentity occurence 1721-o45-antonia
@@ -354,9 +351,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 ** Processing rperson record rperson$rp-52
 **     Processing rentity occurence c174-3
 **     Processing rentity occurence c173-3
-** Processing rperson record rperson$rp-634
-** Processing rperson record rperson$rp-842
-** Processing rperson record rperson$rp-899
 ** Processing rperson record rperson$rp-1666
 **     Processing rentity occurence b1704.50-per1
 **     Processing rentity occurence c1724.23-per4
@@ -537,7 +531,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 **     Processing rentity occurence bpai04051710
 ** Processing rperson record rperson$rp-838
 **     Processing rentity occurence cnoivo22121694
-** Processing rperson record rperson$rp-843
 ** Processing rperson record rperson$rp-89
 **     Processing rentity occurence c300-8
 **     Processing rentity occurence c299-8
@@ -654,7 +647,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 **     Processing rentity occurence emz1-3-per21-13
 **     Processing rentity occurence c1687.15-per11
 **     Processing rentity occurence amz42-per1
-** Processing rperson record rperson$rp-944
 ** Processing rperson record rperson$rp-1750
 **     Processing rentity occurence b1686.36-per6
 **     Processing rentity occurence po206-per1-per2
@@ -720,8 +712,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 **     Processing rentity occurence br18091695
 **     Processing rentity occurence b1705.61-per6
 **     Processing rentity occurence b1708.5-per4
-** Processing rperson record rperson$rp-853
-** Processing rperson record rperson$rp-898
 ** Processing rperson record rperson$rp-1710
 **     Processing rentity occurence po2-per1-per2
 **     Processing rentity occurence po61-per1-per5-per6
@@ -849,7 +839,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 ** Processing rperson record rperson$rp-67
 **     Processing rentity occurence c227-9
 **     Processing rentity occurence c226-7
-** Processing rperson record rperson$rp-801
 ** Processing rperson record rperson$rp-230
 **     Processing rentity occurence b1696.65-per6
 **     Processing rentity occurence bppad15091696
@@ -886,9 +875,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 **     Processing rentity occurence b1696.72-per6
 **     Processing rentity occurence b1709.54-per4
 **     Processing rentity occurence b1728.56-per4
-** Processing rperson record rperson$rp-593
-** Processing rperson record rperson$rp-862
-** Processing rperson record rperson$rp-901
 ** Processing rperson record rperson$rp-776
 **     Processing rentity occurence b1694.16-per1-per2
 **     Processing rentity occurence b1706.90-per7
@@ -1003,7 +989,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 ** Processing rperson record rperson$rp-429
 **     Processing rentity occurence d1692-2097a
 **     Processing rentity occurence c1692-antonio-simoes-maria-domingues-per17
-** Processing rperson record rperson$rp-602
 ** Processing rperson record rperson$rp-7
 **     Processing rentity occurence c25-2
 **     Processing rentity occurence c24-2
@@ -1169,7 +1154,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 ** Processing rperson record rperson$rp-540
 **     Processing rentity occurence b1692.5-per5
 **     Processing rentity occurence b1696.41-per5
-** Processing rperson record rperson$rp-782
 ** Processing rperson record rperson$rp-792
 **     Processing rentity occurence b1686.22-per1-per3
 **     Processing rentity occurence b1688.4-per1-per3
@@ -1225,7 +1209,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 **     Processing rentity occurence b1724.9-per4
 **     Processing rentity occurence b1725.50-per2
 **     Processing rentity occurence b1726.54-per6
-** Processing rperson record rperson$rp-738
 ** Processing rperson record rperson$rp-1687
 **     Processing rentity occurence c181-6
 **     Processing rentity occurence c1711.11-3
@@ -1337,7 +1320,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 **     Processing rentity occurence c159-1
 **     Processing rentity occurence b1702.62-per1-per2
 **     Processing rentity occurence n2.5.15-obj4-4-per3-4
-** Processing rperson record rperson$rp-943
 ** Processing rperson record rperson$rp-637
 **     Processing rentity occurence b1711.4-per4
 ** Processing rperson record rperson$rp-1855
@@ -1377,7 +1359,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 ** Processing rperson record rperson$rp-287
 **     Processing rentity occurence b1708.39-per1-per3
 **     Processing rentity occurence bmae01051708
-** Processing rperson record rperson$rp-839
 ** Processing rperson record rperson$rp-567
 **     Processing rentity occurence b1721.43-per2
 **     Processing rentity occurence b1723.67-per3
@@ -1396,11 +1377,9 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 ** Processing rperson record rperson$rp-359
 **     Processing rentity occurence b1691.72-per1-per3
 **     Processing rentity occurence bmae17091691
-** Processing rperson record rperson$rp-889
 ** Processing rperson record rperson$rp-335
 **     Processing rentity occurence b1688.52-per1-per3
 **     Processing rentity occurence bmae12091688
-** Processing rperson record rperson$rp-865
 ** Processing rperson record rperson$rp-134
 **     Processing rentity occurence b1714.85-per1-per3
 **     Processing rentity occurence bmae23121714
@@ -1529,8 +1508,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 ** Processing rperson record rperson$rp-305
 **     Processing rentity occurence b1711.67-per1-per2
 **     Processing rentity occurence bpai11071711
-** Processing rperson record rperson$rp-638
-** Processing rperson record rperson$rp-797
 ** Processing rperson record rperson$rp-148
 **     Processing rentity occurence b1715.32-per5
 **     Processing rentity occurence dggalhardo
@@ -1558,7 +1535,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 ** Processing rperson record rperson$rp-339
 **     Processing rentity occurence b1689.17-per4
 **     Processing rentity occurence bcel16890227
-** Processing rperson record rperson$rp-869
 ** Processing rperson record rperson$rp-476
 **     Processing rentity occurence bn19101710-per1
 **     Processing rentity occurence c1712.17-10
@@ -1580,7 +1556,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 ** Processing rperson record rperson$rp-370
 **     Processing rentity occurence b1693.37-per5
 **     Processing rentity occurence bpad03051693
-** Processing rperson record rperson$rp-900
 ** Processing rperson record rperson$rp-1821
 **     Processing rentity occurence b1689.63-per1-per2
 **     Processing rentity occurence b1692.47-per1-per2
@@ -1588,7 +1563,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 **     Processing rentity occurence b1698.32-per1-per2
 **     Processing rentity occurence b1702.5-per1-per2
 **     Processing rentity occurence c1713.6b-per11
-** Processing rperson record rperson$rp-652
 ** Processing rperson record rperson$rp-72
 **     Processing rentity occurence c279-5
 **     Processing rentity occurence c278-2
@@ -1608,7 +1582,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 ** Processing rperson record rperson$rp-319
 **     Processing rentity occurence b1687.80-per1-per2
 **     Processing rentity occurence bpai05111687
-** Processing rperson record rperson$rp-859
 ** Processing rperson record rperson$rp-51
 **     Processing rentity occurence c174-2
 **     Processing rentity occurence c173-2
@@ -1626,7 +1599,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 **     Processing rentity occurence c1709.10-5
 **     Processing rentity occurence c1713.9-per2
 **     Processing rentity occurence not32x
-** Processing rperson record rperson$rp-933
 ** Processing rperson record rperson$rp-1758
 **     Processing rentity occurence nm298-p1
 **     Processing rentity occurence o1713-3466-per1-per2
@@ -1635,7 +1607,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 **     Processing rentity occurence o1702-2703-per1-per2
 **     Processing rentity occurence c296-9
 **     Processing rentity occurence not38x
-** Processing rperson record rperson$rp-936
 ** Processing rperson record rperson$rp-631
 **     Processing rentity occurence n.2.4.46-per1
 **     Processing rentity occurence n.2.4.47-per1
@@ -1726,7 +1697,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 ** Processing rperson record rperson$rp-262
 **     Processing rentity occurence b1704.43-per6
 **     Processing rentity occurence bppad01061704
-** Processing rperson record rperson$rp-833
 ** Processing rperson record rperson$rp-1721
 **     Processing rentity occurence b1696.54-per1
 **     Processing rentity occurence b1698.94-per5
@@ -1752,8 +1722,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 ** Processing rperson record rperson$rp-346
 **     Processing rentity occurence b1689.92-per1-per3
 **     Processing rentity occurence bmae16891212
-** Processing rperson record rperson$rp-876
-** Processing rperson record rperson$rp-946
 ** Processing rperson record rperson$rp-503
 **     Processing rentity occurence c73-4
 **     Processing rentity occurence b1698.10-per1-per3
@@ -1775,7 +1743,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 ** Processing rperson record rperson$rp-102
 **     Processing rentity occurence c1708.7-6
 **     Processing rentity occurence c1708.6-3
-** Processing rperson record rperson$rp-682
 ** Processing rperson record rperson$rp-295
 **     Processing rentity occurence b1709.56-per1-per3
 **     Processing rentity occurence bmae24061709
@@ -1855,7 +1822,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 ** Processing rperson record rperson$rp-214
 **     Processing rentity occurence b1721.26-per6
 **     Processing rentity occurence b1723.24-per6
-** Processing rperson record rperson$rp-740
 ** Processing rperson record rperson$rp-693
 **     Processing rentity occurence b1724.68-per6
 **     Processing rentity occurence b1726.2-per5
@@ -1900,15 +1866,12 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 ** Processing rperson record rperson$rp-337
 **     Processing rentity occurence b1688.58-per5
 **     Processing rentity occurence bpad13101688
-** Processing rperson record rperson$rp-827
-** Processing rperson record rperson$rp-867
 ** Processing rperson record rperson$rp-173
 **     Processing rentity occurence opai15111714
 **     Processing rentity occurence o1714-3600-per1-per2
 ** Processing rperson record rperson$rp-350
 **     Processing rentity occurence b1690.1-per5
 **     Processing rentity occurence bppad08011690
-** Processing rperson record rperson$rp-880
 ** Processing rperson record rperson$rp-207
 **     Processing rentity occurence c1694.23-per5
 **     Processing rentity occurence b1714.76-per5
@@ -1939,7 +1902,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 ** Processing rperson record rperson$rp-353
 **     Processing rentity occurence b1690.57-per5
 **     Processing rentity occurence bmad04061690
-** Processing rperson record rperson$rp-883
 ** Processing rperson record rperson$rp-380
 **     Processing rentity occurence b1717.19-per1-per3
 **     Processing rentity occurence bmae31011717
@@ -2032,7 +1994,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 ** Processing rperson record rperson$rp-1709
 **     Processing rentity occurence po292-per1-per5
 **     Processing rentity occurence b1689.60-per5
-** Processing rperson record rperson$rp-953
 ** Processing rperson record rperson$rp-1732
 **     Processing rentity occurence c79-6
 **     Processing rentity occurence c1727.17-per9
@@ -2153,11 +2114,9 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 ** Processing rperson record rperson$rp-297
 **     Processing rentity occurence b1710.35-per1-per3
 **     Processing rentity occurence bmae04051710
-** Processing rperson record rperson$rp-844
 ** Processing rperson record rperson$rp-364
 **     Processing rentity occurence b1691.90-per1-per3
 **     Processing rentity occurence bmae12111691
-** Processing rperson record rperson$rp-894
 ** Processing rperson record rperson$rp-519
 **     Processing rentity occurence b1687.2-per1-per3
 **     Processing rentity occurence b1689.31-per1-per3
@@ -2172,7 +2131,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 ** Processing rperson record rperson$rp-17
 **     Processing rentity occurence c31-6
 **     Processing rentity occurence c30-3
-** Processing rperson record rperson$rp-612
 ** Processing rperson record rperson$rp-781
 **     Processing rentity occurence b1688.41-per1-per3
 **     Processing rentity occurence b1693.60-per5
@@ -2201,7 +2159,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 ** Processing rperson record rperson$rp-1707
 **     Processing rentity occurence po102p1-per9
 **     Processing rentity occurence 1009
-** Processing rperson record rperson$rp-951
 ** Processing rperson record rperson$rp-777
 **     Processing rentity occurence b1694.16-per1
 **     Processing rentity occurence c1724.19-per4
@@ -2242,7 +2199,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 ** Processing rperson record rperson$rp-15
 **     Processing rentity occurence c31-3
 **     Processing rentity occurence c30-6
-** Processing rperson record rperson$rp-651
 ** Processing rperson record rperson$rp-71
 **     Processing rentity occurence c279-3
 **     Processing rentity occurence c278-6
@@ -2288,7 +2244,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 ** Processing rperson record rperson$rp-355
 **     Processing rentity occurence b1691.3-per5
 **     Processing rentity occurence bpad14011691
-** Processing rperson record rperson$rp-885
 ** Processing rperson record rperson$rp-1858
 **     Processing rentity occurence emz2-3-per18-12
 **     Processing rentity occurence c1732.14-per9
@@ -2329,7 +2284,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 **     Processing rentity occurence c1713.16-per8
 **     Processing rentity occurence not2.6.108x-per3
 **     Processing rentity occurence br29101713
-** Processing rperson record rperson$rp-929
 ** Processing rperson record rperson$rp-482
 **     Processing rentity occurence c265-3
 ** Processing rperson record rperson$rp-1884
@@ -2391,14 +2345,12 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 ** Processing rperson record rperson$rp-336
 **     Processing rentity occurence b1688.52-per6
 **     Processing rentity occurence bpad12091688
-** Processing rperson record rperson$rp-866
 ** Processing rperson record rperson$rp-509
 **     Processing rentity occurence c342-2
 **     Processing rentity occurence c1725.9-per2
 ** Processing rperson record rperson$rp-311
 **     Processing rentity occurence b1687.14-per6
 **     Processing rentity occurence ppad26031687
-** Processing rperson record rperson$rp-851
 ** Processing rperson record rperson$rp-1663
 **     Processing rentity occurence c1727.27-per1
 **     Processing rentity occurence b1729.9-per1
@@ -2615,7 +2567,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 ** Processing rperson record rperson$rp-165
 **     Processing rentity occurence c1686.2-per9
 **     Processing rentity occurence ctest26011686c
-** Processing rperson record rperson$rp-591
 ** Processing rperson record rperson$rp-613
 **     Processing rentity occurence c1711.26-8
 **     Processing rentity occurence b1720.55-per2
@@ -2723,7 +2674,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 ** Processing rperson record rperson$rp-702
 **     Processing rentity occurence b1725.71-per1
 **     Processing rentity occurence b1732.32-per2
-** Processing rperson record rperson$rp-875
 ** Processing rperson record rperson$rp-118
 **     Processing rentity occurence c1710.5-9
 **     Processing rentity occurence c1710.4-8
@@ -2736,8 +2686,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 ** Processing rperson record rperson$rp-529
 **     Processing rentity occurence c1693.28-per5
 **     Processing rentity occurence c18-5
-** Processing rperson record rperson$rp-854
-** Processing rperson record rperson$rp-904
 ** Processing rperson record rperson$rp-712
 **     Processing rentity occurence emz5-4-per6-11
 **     Processing rentity occurence emz5-5-per4-11
@@ -2881,7 +2829,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 ** Processing rperson record rperson$rp-375
 **     Processing rentity occurence b1693.80-per5
 **     Processing rentity occurence bpad18101693
-** Processing rperson record rperson$rp-905
 ** Processing rperson record rperson$rp-751
 **     Processing rentity occurence b1688.24-per6
 **     Processing rentity occurence c1689.20-per5
@@ -2996,7 +2943,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 ** Processing rperson record rperson$rp-835
 **     Processing rentity occurence b1730.44-per2
 **     Processing rentity occurence o1733.39-per1-per2
-** Processing rperson record rperson$rp-935
 ** Processing rperson record rperson$rp-144
 **     Processing rentity occurence c1717.11-per9
 **     Processing rentity occurence sacrista1
@@ -3035,14 +2981,12 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 ** Processing rperson record rperson$rp-432
 **     Processing rentity occurence dev1692-per20
 **     Processing rentity occurence d1692-2103a
-** Processing rperson record rperson$rp-812
 ** Processing rperson record rperson$rp-96
 **     Processing rentity occurence c324-8
 **     Processing rentity occurence c323-8
 ** Processing rperson record rperson$rp-358
 **     Processing rentity occurence b1691.72-per1-per2
 **     Processing rentity occurence bpai17091691
-** Processing rperson record rperson$rp-888
 ** Processing rperson record rperson$rp-1830
 **     Processing rentity occurence c148-5
 **     Processing rentity occurence po198-per1-per2-per6-per7
@@ -3451,7 +3395,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 ** Processing rperson record rperson$rp-195
 **     Processing rentity occurence b1731.35-per2
 **     Processing rentity occurence b1731.34-pn
-** Processing rperson record rperson$rp-580
 ** Processing rperson record rperson$rp-119
 **     Processing rentity occurence c1710.5-per1
 **     Processing rentity occurence c1710.4-9
@@ -3517,7 +3460,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 **     Processing rentity occurence 1732-b32-josefa
 **     Processing rentity occurence 1723-b28-josefa
 **     Processing rentity occurence b1726.24-per4
-** Processing rperson record rperson$rp-789
 ** Processing rperson record rperson$rp-147
 **     Processing rentity occurence b1715.26-per4
 **     Processing rentity occurence bmpad16041715
@@ -3544,7 +3486,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 ** Processing rperson record rperson$rp-196
 **     Processing rentity occurence b1731.35-per3
 **     Processing rentity occurence b1731.34-mn
-** Processing rperson record rperson$rp-581
 ** Processing rperson record rperson$rp-1827
 **     Processing rentity occurence c148-4
 **     Processing rentity occurence b1700.85-per1-per3
@@ -3559,7 +3500,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 ** Processing rperson record rperson$rp-1772
 **     Processing rentity occurence not2.6.25x-per1
 **     Processing rentity occurence not24x
-** Processing rperson record rperson$rp-932
 ** Processing rperson record rperson$rp-1547
 **     Processing rentity occurence c247-3
 **     Processing rentity occurence o1706-3045-per1
@@ -3575,7 +3515,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 **     Processing rentity occurence emz5-12-per6-11
 **     Processing rentity occurence emz5-13-per6-11
 **     Processing rentity occurence emz5-14-per3-11
-** Processing rperson record rperson$rp-939
 ** Processing rperson record rperson$rp-1667
 **     Processing rentity occurence b1706.50-per1
 **     Processing rentity occurence c1724.25-per4
@@ -3626,8 +3565,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 ** Processing rperson record rperson$rp-360
 **     Processing rentity occurence b1691.75-per5
 **     Processing rentity occurence bpad26091691
-** Processing rperson record rperson$rp-877
-** Processing rperson record rperson$rp-890
 ** Processing rperson record rperson$rp-750
 **     Processing rentity occurence b1689.92-per4
 **     Processing rentity occurence bpad16891212b
@@ -3866,7 +3803,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 ** Processing rperson record rperson$rp-20
 **     Processing rentity occurence c40-7
 **     Processing rentity occurence c37-7
-** Processing rperson record rperson$rp-615
 ** Processing rperson record rperson$rp-752
 **     Processing rentity occurence c1690.1-per8
 **     Processing rentity occurence n.2.4.41-per1
@@ -3887,8 +3823,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 ** Processing rperson record rperson$rp-126
 **     Processing rentity occurence c1710.26-9
 **     Processing rentity occurence c1710.25-9
-** Processing rperson record rperson$rp-706
-** Processing rperson record rperson$rp-646
 ** Processing rperson record rperson$rp-66
 **     Processing rentity occurence c227-8
 **     Processing rentity occurence c226-9
@@ -3908,7 +3842,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 ** Processing rperson record rperson$rp-796
 **     Processing rentity occurence b1690.51-per1
 **     Processing rentity occurence b1703.28-per4
-** Processing rperson record rperson$rp-845
 ** Processing rperson record rperson$rp-1712
 **     Processing rentity occurence po4-1-per4
 **     Processing rentity occurence po2-per1-per5
@@ -3934,7 +3867,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 **     Processing rentity occurence b1710.22-per1
 **     Processing rentity occurence c1727.15-per4
 **     Processing rentity occurence po56-per1-per5
-** Processing rperson record rperson$rp-948
 ** Processing rperson record rperson$rp-54
 **     Processing rentity occurence c174-6
 **     Processing rentity occurence c173-6
@@ -3967,7 +3899,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 **     Processing rentity occurence po56-per1-per5-per11-per13
 **     Processing rentity occurence c1694.9-per4
 **     Processing rentity occurence 2.5.15.p1
-** Processing rperson record rperson$rp-940
 ** Processing rperson record rperson$rp-413
 **     Processing rentity occurence c1692.20-per3
 **     Processing rentity occurence xptoliv75-201v-obj1-per1
@@ -4001,7 +3932,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 ** Processing rperson record rperson$rp-53
 **     Processing rentity occurence c174-5
 **     Processing rentity occurence c173-5
-** Processing rperson record rperson$rp-595
 ** Processing rperson record rperson$rp-715
 **     Processing rentity occurence emz5-12-per7-11
 **     Processing rentity occurence emz5-13-per7-11
@@ -4122,8 +4052,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 **     Processing rentity occurence o1732.53-per1
 **     Processing rentity occurence b1718.81-per1-per2
 **     Processing rentity occurence b1720.51-per1-per2
-** Processing rperson record rperson$rp-870
-** Processing rperson record rperson$rp-938
 ** Processing rperson record rperson$rp-116
 **     Processing rentity occurence c1710.5-7
 **     Processing rentity occurence c1710.4-10
@@ -4197,7 +4125,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 ** Processing rperson record rperson$rp-674
 **     Processing rentity occurence nm212-per1-4
 **     Processing rentity occurence nm210-p1
-** Processing rperson record rperson$rp-952
 ** Processing rperson record rperson$rp-1726
 **     Processing rentity occurence o1720-4159-per1-per2
 **     Processing rentity occurence o1721.25-per1-per2
@@ -4219,7 +4146,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 ** Processing rperson record rperson$rp-312
 **     Processing rentity occurence b1687.18-per5
 **     Processing rentity occurence ro03041687
-** Processing rperson record rperson$rp-852
 ** Processing rperson record rperson$rp-218
 **     Processing rentity occurence bn11011695b-per1
 **     Processing rentity occurence bpai11011695
@@ -4254,7 +4180,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 **     Processing rentity occurence b1727.74-per6
 **     Processing rentity occurence b1728.55-per4
 **     Processing rentity occurence o1729.20-per1
-** Processing rperson record rperson$rp-848
 ** Processing rperson record rperson$rp-628
 **     Processing rentity occurence c1694.3-per7
 **     Processing rentity occurence b1685.15.4
@@ -4288,8 +4213,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 ** Processing rperson record rperson$rp-164
 **     Processing rentity occurence c1686.2-per8
 **     Processing rentity occurence ctest26011686b
-** Processing rperson record rperson$rp-589
-** Processing rperson record rperson$rp-590
 ** Processing rperson record rperson$rp-606
 **     Processing rentity occurence rb05011687
 **     Processing rentity occurence pb01041687
@@ -4319,7 +4242,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 ** Processing rperson record rperson$rp-317
 **     Processing rentity occurence b1687.51-per6
 **     Processing rentity occurence ro31071687
-** Processing rperson record rperson$rp-857
 ** Processing rperson record rperson$rp-344
 **     Processing rentity occurence b1689.88-per6
 **     Processing rentity occurence bpad16891126
@@ -4343,9 +4265,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 ** Processing rperson record rperson$rp-64
 **     Processing rentity occurence c199-9
 **     Processing rentity occurence c198-8
-** Processing rperson record rperson$rp-644
-** Processing rperson record rperson$rp-874
-** Processing rperson record rperson$rp-903
 ** Processing rperson record rperson$rp-486
 **     Processing rentity occurence c1716.14-per1
 **     Processing rentity occurence b1717.68-per1-per2
@@ -4371,28 +4290,21 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 ** Processing rperson record rperson$rp-361
 **     Processing rentity occurence b1691.77-per1-per2
 **     Processing rentity occurence bpai29091691
-** Processing rperson record rperson$rp-592
-** Processing rperson record rperson$rp-881
-** Processing rperson record rperson$rp-891
 ** Processing rperson record rperson$rp-175
 **     Processing rentity occurence c1688.26-per11
 **     Processing rentity occurence mgcarrasco
-** Processing rperson record rperson$rp-594
 ** Processing rperson record rperson$rp-396
 **     Processing rentity occurence b1732.25-per2
 **     Processing rentity occurence b1732.24-pn
 ** Processing rperson record rperson$rp-46
 **     Processing rentity occurence c147-2
 **     Processing rentity occurence c146-2
-** Processing rperson record rperson$rp-582
 ** Processing rperson record rperson$rp-315
 **     Processing rentity occurence b1687.38-per5
 **     Processing rentity occurence ro08061687
 ** Processing rperson record rperson$rp-366
 **     Processing rentity occurence b1692.29-per6
 **     Processing rentity occurence mvalente
-** Processing rperson record rperson$rp-855
-** Processing rperson record rperson$rp-896
 ** Processing rperson record rperson$rp-101
 **     Processing rentity occurence c1708.7-5
 **     Processing rentity occurence c1708.6-2
@@ -4407,11 +4319,9 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 **     Processing rentity occurence b1726.60-pn
 ** Processing rperson record rperson$rp-537
 **     Processing rentity occurence b1687.2-per6
-** Processing rperson record rperson$rp-824
 ** Processing rperson record rperson$rp-367
 **     Processing rentity occurence b1692.31-per6
 **     Processing rentity occurence casam
-** Processing rperson record rperson$rp-897
 ** Processing rperson record rperson$rp-609
 **     Processing rentity occurence c1714.12b-per7
 **     Processing rentity occurence br01121714a
@@ -4428,7 +4338,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 **     Processing rentity occurence b1722.4-per5
 **     Processing rentity occurence c1722.13-per2
 **     Processing rentity occurence c1731.14-per2
-** Processing rperson record rperson$rp-863
 ** Processing rperson record rperson$rp-1679
 **     Processing rentity occurence b1703.95-per1-per2
 **     Processing rentity occurence b1706.3-per1-per2
@@ -4565,7 +4474,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 **     Processing rentity occurence po224-per1-per2
 **     Processing rentity occurence b1696.25-per5-per1-22
 **     Processing rentity occurence not2.6.28x-per1
-** Processing rperson record rperson$rp-927
 ** Processing rperson record rperson$rp-1
 **     Processing rentity occurence c1691.6-per7
 **     Processing rentity occurence cpnoiva16021691
@@ -4597,8 +4505,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 **     Processing rentity occurence b1704.64-per5
 **     Processing rentity occurence c321-2
 **     Processing rentity occurence o1713-3484-per1
-** Processing rperson record rperson$rp-864
-** Processing rperson record rperson$rp-887
 ** Processing rperson record rperson$rp-113
 **     Processing rentity occurence c1709.28-7
 **     Processing rentity occurence c1709.22-8
@@ -4659,7 +4565,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 ** Processing rperson record rperson$rp-338
 **     Processing rentity occurence b1689.8-per4
 **     Processing rentity occurence bcel16890130
-** Processing rperson record rperson$rp-868
 ** Processing rperson record rperson$rp-1599
 **     Processing rentity occurence c240-1
 **     Processing rentity occurence b1705.32-per1-per2
@@ -4690,7 +4595,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 ** Processing rperson record rperson$rp-329
 **     Processing rentity occurence b1718.106-per3
 **     Processing rentity occurence bpad05121718
-** Processing rperson record rperson$rp-949
 ** Processing rperson record rperson$rp-98
 **     Processing rentity occurence c1708.6-7
 **     Processing rentity occurence c1708.5-7
@@ -4698,7 +4602,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 ** Processing rperson record rperson$rp-307
 **     Processing rentity occurence b1712.51-per1-per2
 **     Processing rentity occurence bpai30081712
-** Processing rperson record rperson$rp-849
 ** Processing rperson record rperson$rp-16
 **     Processing rentity occurence c31-5
 **     Processing rentity occurence c30-2
@@ -4708,12 +4611,9 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 ** Processing rperson record rperson$rp-342
 **     Processing rentity occurence b1689.61-per5
 **     Processing rentity occurence bpad16890821
-** Processing rperson record rperson$rp-611
-** Processing rperson record rperson$rp-872
 ** Processing rperson record rperson$rp-363
 **     Processing rentity occurence b1691.90-per1-per2
 **     Processing rentity occurence bpai12111691
-** Processing rperson record rperson$rp-893
 ** Processing rperson record rperson$rp-1751
 **     Processing rentity occurence po206-per1
 **     Processing rentity occurence c1692.14-per1
@@ -4758,8 +4658,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 **     Processing rentity occurence c107-9
 **     Processing rentity occurence c108-8
 **     Processing rentity occurence c109-9
-** Processing rperson record rperson$rp-578
-** Processing rperson record rperson$rp-625
 ** Processing rperson record rperson$rp-70
 **     Processing rentity occurence c279-2
 **     Processing rentity occurence c278-5
@@ -4896,7 +4794,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 **     Processing rentity occurence nm180-per1
 **     Processing rentity occurence c7-8
 **     Processing rentity occurence c28-8
-** Processing rperson record rperson$rp-584
 ** Processing rperson record rperson$rp-655
 **     Processing rentity occurence b1688.66-per1-per2
 **     Processing rentity occurence b1690.2-per1-per2
@@ -4917,7 +4814,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 **     Processing rentity occurence emz1-11-per12-13
 **     Processing rentity occurence amz34-per12
 **     Processing rentity occurence emz1-12-per12-13
-** Processing rperson record rperson$rp-930
 ** Processing rperson record rperson$rp-392
 **     Processing rentity occurence c159-8
 **     Processing rentity occurence c1717.16-per6
@@ -4961,7 +4857,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 **     Processing rentity occurence c98-8
 **     Processing rentity occurence c113-8
 **     Processing rentity occurence c114-7
-** Processing rperson record rperson$rp-661
 ** Processing rperson record rperson$rp-81
 **     Processing rentity occurence c290-7
 **     Processing rentity occurence c289-7
@@ -4992,11 +4887,9 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 **     Processing rentity occurence c97-8
 **     Processing rentity occurence c96-8
 **     Processing rentity occurence b1696.25-per6
-** Processing rperson record rperson$rp-626
 ** Processing rperson record rperson$rp-1756
 **     Processing rentity occurence 2.5.15.p2
 **     Processing rentity occurence c1694.9-per1
-** Processing rperson record rperson$rp-941
 ** Processing rperson record rperson$rp-182
 **     Processing rentity occurence on30101720b-per1
 **     Processing rentity occurence opai30101720
@@ -5051,7 +4944,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 **     Processing rentity occurence emz1-28-per23-13
 **     Processing rentity occurence emz2-1-per25-12
 **     Processing rentity occurence emz2-3-per8-12
-** Processing rperson record rperson$rp-705
 ** Processing rperson record rperson$rp-1749
 **     Processing rentity occurence bpad03051711
 ** Processing rperson record rperson$rp-12
@@ -5078,7 +4970,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 **     Processing rentity occurence c1724.11-per5
 **     Processing rentity occurence c1724.26-per2
 **     Processing rentity occurence b1689.80-per6
-** Processing rperson record rperson$rp-607
 ** Processing rperson record rperson$rp-666
 **     Processing rentity occurence o1678-31-per1-per2
 **     Processing rentity occurence b1686.8-per4
@@ -5165,7 +5056,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 ** Processing rperson record rperson$rp-1705
 **     Processing rentity occurence po289-per1-per3
 **     Processing rentity occurence po129-n
-** Processing rperson record rperson$rp-945
 ** Processing rperson record rperson$rp-4
 **     Processing rentity occurence c1694.22-per5
 **     Processing rentity occurence cpnoivo01111694
@@ -5268,7 +5158,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 ** Processing rperson record rperson$rp-1757
 **     Processing rentity occurence n2.5.15-per1-4
 **     Processing rentity occurence c159-4
-** Processing rperson record rperson$rp-942
 ** Processing rperson record rperson$rp-1764
 **     Processing rentity occurence b1689.13-per1-per3
 **     Processing rentity occurence b1692.24-per1-per3
@@ -5338,7 +5227,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 ** Processing rperson record rperson$rp-430
 **     Processing rentity occurence d1692-2097b
 **     Processing rentity occurence c1692-antonio-simoes-maria-domingues-per18
-** Processing rperson record rperson$rp-583
 ** Processing rperson record rperson$rp-1678
 **     Processing rentity occurence c98-4
 **     Processing rentity occurence b1698.86-per1-per3
@@ -5363,7 +5251,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 ** Processing rperson record rperson$rp-423
 **     Processing rentity occurence b1720.36-per1-per3
 **     Processing rentity occurence bmae02051720
-** Processing rperson record rperson$rp-585
 ** Processing rperson record rperson$rp-1877
 **     Processing rentity occurence b1689.63-per1-per3
 **     Processing rentity occurence b1692.47-per1-per3
@@ -5377,7 +5264,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 ** Processing rperson record rperson$rp-320
 **     Processing rentity occurence b1687.80-per1-per3
 **     Processing rentity occurence bmae05111687
-** Processing rperson record rperson$rp-660
 ** Processing rperson record rperson$rp-687
 **     Processing rentity occurence c1694.25-per3
 **     Processing rentity occurence c1728.13-per6
@@ -5395,7 +5281,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 **     Processing rentity occurence c281-6
 **     Processing rentity occurence c280-3
 **     Processing rentity occurence c1719.5-per6
-** Processing rperson record rperson$rp-860
 ** Processing rperson record rperson$rp-1965
 **     Processing rentity occurence po115-b1670-per1-per4
 **     Processing rentity occurence c1693.32-per5
@@ -5473,7 +5358,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 **     Processing rentity occurence c1715.2-per9
 ** Processing rperson record rperson$rp-1886
 **     Processing rentity occurence c234-4
-** Processing rperson record rperson$rp-603
 ** Processing rperson record rperson$rp-8
 **     Processing rentity occurence c25-3
 **     Processing rentity occurence c24-3
@@ -5517,7 +5401,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 ** Processing rperson record rperson$rp-1775
 **     Processing rentity occurence not2.6.38x-per1
 **     Processing rentity occurence b1714.60-per5
-** Processing rperson record rperson$rp-937
 ** Processing rperson record rperson$rp-108
 **     Processing rentity occurence c1708.27-3
 **     Processing rentity occurence c1708.26-6
@@ -5552,8 +5435,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 ** Processing rperson record rperson$rp-303
 **     Processing rentity occurence b1711.35-per1-per3
 **     Processing rentity occurence bmae06041711
-** Processing rperson record rperson$rp-579
-** Processing rperson record rperson$rp-847
 ** Processing rperson record rperson$rp-87
 **     Processing rentity occurence c300-6
 **     Processing rentity occurence c299-3
@@ -5606,7 +5487,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 ** Processing rperson record rperson$rp-362
 **     Processing rentity occurence b1691.77-per1-per3
 **     Processing rentity occurence bmae29091691
-** Processing rperson record rperson$rp-892
 ** Processing rperson record rperson$rp-736
 **     Processing rentity occurence c1688.13-per4
 **     Processing rentity occurence b1695.95-per1-per3
@@ -5647,7 +5527,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 **     Processing rentity occurence b1731.28-per2
 **     Processing rentity occurence b1691.94-per1
 **     Processing rentity occurence b1710.76-per5
-** Processing rperson record rperson$rp-840
 ** Processing rperson record rperson$rp-773
 **     Processing rentity occurence c1727.14-per4
 **     Processing rentity occurence b1730.93-per2
@@ -5739,7 +5618,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 ** Processing rperson record rperson$rp-62
 **     Processing rentity occurence c188-6
 **     Processing rentity occurence c187-3
-** Processing rperson record rperson$rp-642
 ** Processing rperson record rperson$rp-657
 **     Processing rentity occurence b1697.49-per1
 **     Processing rentity occurence c1722.17-per4
@@ -5769,7 +5647,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 ** Processing rperson record rperson$rp-291
 **     Processing rentity occurence b1709.28-per1-per2
 **     Processing rentity occurence bpai21041709
-** Processing rperson record rperson$rp-841
 ** Processing rperson record rperson$rp-443
 **     Processing rentity occurence c188-9
 **     Processing rentity occurence c187-9
@@ -5782,7 +5659,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 **     Processing rentity occurence c1693.9-per1
 **     Processing rentity occurence c1713.8-per2
 **     Processing rentity occurence c1728.5-per7
-** Processing rperson record rperson$rp-643
 ** Processing rperson record rperson$rp-390
 **     Processing rentity occurence c1714.12-per9
 **     Processing rentity occurence matcord
@@ -5835,8 +5711,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 **     Processing rentity occurence amz34-per7
 **     Processing rentity occurence amz35-per22
 **     Processing rentity occurence emz1-13-per23-13
-** Processing rperson record rperson$rp-884
-** Processing rperson record rperson$rp-902
 ** Processing rperson record rperson$rp-1577
 **     Processing rentity occurence b1686.43-per1-per2
 **     Processing rentity occurence b1690.8-per1-per2
@@ -5881,9 +5755,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 **     Processing rentity occurence b1702.113-per1-per2
 **     Processing rentity occurence c315-5
 **     Processing rentity occurence c1724.22-per2
-** Processing rperson record rperson$rp-596
-** Processing rperson record rperson$rp-604
-** Processing rperson record rperson$rp-858
 ** Processing rperson record rperson$rp-9
 **     Processing rentity occurence c25-5
 **     Processing rentity occurence c24-5
@@ -5961,8 +5832,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 ** Processing rperson record rperson$rp-431
 **     Processing rentity occurence d1692-2098a
 **     Processing rentity occurence c1692-pai-de-joao-consentidor-per19
-** Processing rperson record rperson$rp-856
-** Processing rperson record rperson$rp-873
 ** Processing rperson record rperson$rp-225
 **     Processing rentity occurence nao interessa
 **     Processing rentity occurence c1712.14-r2
@@ -5977,7 +5846,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 ** Processing rperson record rperson$rp-670
 **     Processing rentity occurence d1692-c23-per1-16
 **     Processing rentity occurence d1692-2150
-** Processing rperson record rperson$rp-723
 ** Processing rperson record rperson$rp-1556
 **     Processing rentity occurence b1685.31-per1-per2
 **     Processing rentity occurence b1689.67-per1-per2
@@ -6131,7 +5999,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 **     Processing rentity occurence o1711-3301-per1
 **     Processing rentity occurence c1712.14-r4
 **     Processing rentity occurence c1722.25-per5
-** Processing rperson record rperson$rp-882
 ** Processing rperson record rperson$rp-573
 **     Processing rentity occurence b1702.103-per4
 **     Processing rentity occurence br15011704
@@ -6250,7 +6117,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 ** Processing rperson record rperson$rp-18
 **     Processing rentity occurence c31-7
 **     Processing rentity occurence c30-7
-** Processing rperson record rperson$rp-931
 ** Processing rperson record rperson$rp-1567
 **     Processing rentity occurence b1704.49-per1
 **     Processing rentity occurence b1718.104-per4
@@ -6383,8 +6249,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 ** Processing rperson record rperson$rp-356
 **     Processing rentity occurence b1691.34-per5
 **     Processing rentity occurence bpad15041691
-** Processing rperson record rperson$rp-879
-** Processing rperson record rperson$rp-886
 ** Processing rperson record rperson$rp-437
 **     Processing rentity occurence c1719.15-per3
 **     Processing rentity occurence c68-7
@@ -6462,7 +6326,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 ** Processing rperson record rperson$rp-331
 **     Processing rentity occurence b1688.15-per5
 **     Processing rentity occurence bpad01031688
-** Processing rperson record rperson$rp-861
 ** Processing rperson record rperson$rp-502
 **     Processing rentity occurence c73-1
 **     Processing rentity occurence b1698.10-per1-per2
@@ -6533,8 +6396,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 ** Processing rperson record rperson$rp-406
 **     Processing rentity occurence b1698.35-per3
 **     Processing rentity occurence bpad26051698
-** Processing rperson record rperson$rp-679
-** Processing rperson record rperson$rp-798
 ** Processing rperson record rperson$rp-99
 **     Processing rentity occurence c1708.6-8
 **     Processing rentity occurence c1708.5-8
@@ -6720,7 +6581,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 ** Processing rperson record rperson$rp-1784
 **     Processing rentity occurence no2.6.2-per2-4
 **     Processing rentity occurence no2.6.1-p2
-** Processing rperson record rperson$rp-928
 ** Processing rperson record rperson$rp-91
 **     Processing rentity occurence c324-2
 **     Processing rentity occurence c323-2
@@ -6736,8 +6596,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 ** Processing rperson record rperson$rp-302
 **     Processing rentity occurence b1711.35-per1-per2
 **     Processing rentity occurence bpai06041711
-** Processing rperson record rperson$rp-608
-** Processing rperson record rperson$rp-846
 ** Processing rperson record rperson$rp-231
 **     Processing rentity occurence b1696.77-per6
 **     Processing rentity occurence br28101696
@@ -6825,7 +6683,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 **     Processing rentity occurence b1703.70-per5
 **     Processing rentity occurence b1704.75-per6
 **     Processing rentity occurence b1705.94-per6
-** Processing rperson record rperson$rp-950
 ** Processing rperson record rperson$rp-1570
 **     Processing rentity occurence b1718.104-per1-per3
 **     Processing rentity occurence b1723.29-per3
@@ -6838,7 +6695,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 ** Processing rperson record rperson$rp-1773
 **     Processing rentity occurence not32x-per1
 **     Processing rentity occurence c257-4
-** Processing rperson record rperson$rp-934
 ** Processing rperson record rperson$rp-1558
 **     Processing rentity occurence b1693.62-per5
 **     Processing rentity occurence c295-4
@@ -6866,7 +6722,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 **     Processing rentity occurence emz2-15-per2-12
 **     Processing rentity occurence emz2-16-per1-12
 **     Processing rentity occurence emz2-17-per5-12
-** Processing rperson record rperson$rp-947
 ** Processing rperson record rperson$rp-411
 **     Processing rentity occurence c281-1
 **     Processing rentity occurence b1705.75-per4
@@ -6945,7 +6800,6 @@ Obs: Generated from database soure_editor by user soure, file date: +2021-05-25 
 **     Processing rentity occurence emz1-24-per17-13
 **     Processing rentity occurence emz1-26-per16-13
 **     Processing rentity occurence emz1-27-per17-13
-** Processing rperson record rperson$rp-895
 ** Processing rperson record rperson$rp-791
 **     Processing rentity occurence b1694.35-per1
 **     Processing rentity occurence b1719.12-per5
