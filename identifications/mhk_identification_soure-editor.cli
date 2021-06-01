@@ -1,28 +1,6 @@
-kleio$gacto2.str/authorities/Generated from database soure_editor by user soure, file date: +2021-05-25 Timestamp:2021-05-25T04:24:49.681Z/translations=1
+kleio$gacto2.str/authorities/Generated from database soure_editor by user soure, file date: +2021-05-31 Timestamp:2021-05-31T14:37:05.647Z/translations=1
 
-   identifications$real-entities-soure-editor/Real entities, including real persons and real objects/dbase=soure_editor/user=soure-editor/date=20210525/mode=backup
-
-      rperson$rp-416/afonso de lencastre/m
-
-      rperson$rp-1618/afonso rodrigues/m/status=N
-
-      rperson$rp-816/agostinho aurelio de matos/m/status=N
-
-      rperson$rp-1624/agostinho francisco/m/status=N
-
-      rperson$rp-1714/agostinho soares coelho/m/status=N
-
-      rperson$rp-459/agueda gomes/f
-
-      rperson$rp-1637/alberto ferreira veloso/m/status=N
-
-      rperson$rp-1895/alexandra antonia de almeida do amaral/f/status=N
-
-      rperson$rp-1627/alexandre francisco/m/status=N
-
-      rperson$rp-1625/alexandre gomes/m/status=N
-
-      rperson$rp-30/alexandre mendes/m/status=N
+   identifications$real-entities-soure-editor/Real entities, including real persons and real objects/dbase=soure_editor/user=soure-editor/date=20210531/mode=backup
 
       rperson$rp-402/alexandre mendes/m/status=N
 
@@ -34,73 +12,29 @@ kleio$gacto2.str/authorities/Generated from database soure_editor by user soure,
 
          occ$amz49-per7/id=rp-402-occ4
 
-      rperson$rp-264/ambrosio pimentel/m
-
-      rperson$rp-1684/ana da silva/f/status=N
-
-      rperson$rp-308/ana dias/f
-
-      rperson$rp-255/ana gaspar/f
-
-      rperson$rp-1840/ana maria/f/status=N
-
-      rperson$rp-348/ana maria/f/status=N
-
-      rperson$rp-813/ana maria/f/status=N
-
-      rperson$rp-109/andre fernandes/m
-
-      rperson$rp-562/andre soares da paz/m
-
-      rperson$rp-561/angela luisa/f
-
-      rperson$rp-1718/angelica/f/status=N
-
-      rperson$rp-248/angelica/f/status=N
-
-      rperson$rp-1870/angelo/m/status=N
-
-      rperson$rp-621/anselmo manhos de abreu/m
-
-      rperson$rp-273/antonia/f
-
-      rperson$rp-285/antonia/f
-
-      rperson$rp-326/antonia/f
-
-      rperson$rp-656/antonia/f
-
-      rperson$rp-771/antonia/f
-
       rperson$rp-205/antonia carvalha/f/status=N
 
-         occ$1720-o43-antonia/obs=WARNING: Occurrence missing/id=rp-205-occ1
+         occ$br04081720/id=rp-205-occ1
 
-         occ$1720-b32-antonia/obs=WARNING: Occurrence missing/id=rp-205-occ2
+         occ$br04081720/id=rp-205-occ2
 
-         occ$1720-b46-antonia/obs=WARNING: Occurrence missing/id=rp-205-occ3
+         occ$b1720.78-per6/id=rp-205-occ3
 
-         occ$1720-o85-antonia/obs=WARNING: Occurrence missing/id=rp-205-occ4
+         occ$on30101720/id=rp-205-occ4
 
-         occ$1720-o86-antonia/obs=WARNING: Occurrence missing/id=rp-205-occ5
+         occ$1721-b59-antonia/id=rp-205-occ5
 
-         occ$1721-b59-antonia/id=rp-205-occ6
+         occ$1721-o45-antonia/id=rp-205-occ6
 
-         occ$1721-o45-antonia/id=rp-205-occ7
+         occ$1721-o75-antonia/id=rp-205-occ7
 
-         occ$1721-o75-antonia/id=rp-205-occ8
+         occ$1721-b111-antonia/id=rp-205-occ8
 
-         occ$1721-b111-antonia/id=rp-205-occ9
+         occ$1721-o102-antonia/id=rp-205-occ9
 
-         occ$1721-o102-antonia/id=rp-205-occ10
+         occ$1723-o3-antonia/id=rp-205-occ10
 
-         occ$1723-o3-antonia/id=rp-205-occ11
-
-         occ$c1716.21-per3/id=rp-205-occ12
-
-      rperson$rp-129/antonia carvalho/f
-
-      rperson$rp-203/antonia carvalho/f
+         occ$c1716.21-per3/id=rp-205-occ11
 
       rperson$rp-387/antonia carvalho/f/status=N
 
@@ -113,32 +47,6 @@ kleio$gacto2.str/authorities/Generated from database soure_editor by user soure,
          occ$b1719.47-per5/id=rp-387-occ4
 
          occ$b1719.86-per5/id=rp-387-occ5
-
-      rperson$rp-424/antonia carvalho/m/status=N
-
-      rperson$rp-569/antonia da costa/f
-
-      rperson$rp-1685/antonia da silva/f/status=N
-
-      rperson$rp-268/antonia ferreira/f
-
-      rperson$rp-369/antonia ferreira/f
-
-      rperson$rp-512/antonia francisca/f
-
-      rperson$rp-282/antonia gomes/f
-
-      rperson$rp-92/antonia manuel/f
-
-      rperson$rp-566/antonia rodrigues/f
-
-      rperson$rp-785/antonio/m
-
-      rperson$rp-639/antonio carvalho coelho/m
-
-      rperson$rp-636/antonio de abreu/m
-
-      rperson$rp-88/antonio de meneses/m/status=N
 
       rperson$rp-209/antonio lourenco/m/status=N
 
@@ -158,8 +66,6 @@ kleio$gacto2.str/authorities/Generated from database soure_editor by user soure,
 
          occ$c83-8/id=rp-23-occ3
 
-      rperson$rp-245/antonio manhos/m/status=N
-
       rperson$rp-274/antonio manhos/m/status=N
 
          occ$b1705.50-per1/id=rp-274-occ1
@@ -176,13 +82,11 @@ kleio$gacto2.str/authorities/Generated from database soure_editor by user soure,
 
          occ$b1718.96-per4/id=rp-274-occ7
 
-      rperson$rp-368/antonio manhos/m/status=N
-
       rperson$rp-211/bartolomeu de almeida/m/status=N
 
-         occ$o1720.12-per1/obs=WARNING: Occurrence missing/id=rp-211-occ1
+         occ$o1720-4095-per1/id=rp-211-occ1
 
-         occ$obitos-1720-his4095-per1/obs=WARNING: Occurrence missing/id=rp-211-occ2
+         occ$o1720-4095-per1/id=rp-211-occ2
 
       rperson$rp-202/bernardo de santo antonio/m/status=N
 
@@ -198,33 +102,27 @@ kleio$gacto2.str/authorities/Generated from database soure_editor by user soure,
 
       rperson$rp-234/domingos goncalves/m/status=N
 
-         occ$c2-7/obs=WARNING: Occurrence missing/id=rp-234-occ1
+         occ$b1697.17-per4/id=rp-234-occ1
 
-         occ$c2-7/obs=WARNING: Occurrence missing/id=rp-234-occ2
+         occ$b1699.36-per4/id=rp-234-occ2
 
-         occ$b1697.17-per4/id=rp-234-occ3
+         occ$b1700.8-per6/id=rp-234-occ3
 
-         occ$b1699.36-per4/id=rp-234-occ4
+         occ$b1700.62-per4/id=rp-234-occ4
 
-         occ$b1700.8-per6/id=rp-234-occ5
+         occ$b1701.9-per4/id=rp-234-occ5
 
-         occ$b1700.62-per4/id=rp-234-occ6
+         occ$b1702.72-per4/id=rp-234-occ6
 
-         occ$b1701.9-per4/id=rp-234-occ7
+         occ$b1709.23-per3/id=rp-234-occ7
 
-         occ$b1702.72-per4/id=rp-234-occ8
+         occ$c1693.31-per8/id=rp-234-occ8
 
-         occ$b1709.23-per3/id=rp-234-occ9
+         occ$c1693.32-per6/id=rp-234-occ9
 
-         occ$c1693.31-per8/id=rp-234-occ10
+         occ$c1693.34-per8/id=rp-234-occ10
 
-         occ$c1693.32-per6/id=rp-234-occ11
-
-         occ$c1693.34-per8/id=rp-234-occ12
-
-         occ$c1693.35-per8/id=rp-234-occ13
-
-      rperson$rp-56/domingos goncalves/m/status=N
+         occ$c1693.35-per8/id=rp-234-occ11
 
       rperson$rp-150/feliciana goncalves/f/status=N
 
@@ -280,17 +178,17 @@ kleio$gacto2.str/authorities/Generated from database soure_editor by user soure,
 
          occ$c1687.13-per7/id=rp-440-occ11
 
-         occ$obitos-1713-his3504-per1-per2/obs=WARNING: Occurrence missing/id=rp-440-occ12
+         occ$o1713-3504-per1-per2/id=rp-440-occ12
 
-         occ$obitos-1715-his3616-per1-per2/obs=WARNING: Occurrence missing/id=rp-440-occ13
+         occ$o1715-3616-per1-per2/id=rp-440-occ13
 
          occ$c1688.4-per7/id=rp-440-occ14
 
-         occ$obitos-1716-his3799-per1-per2/obs=WARNING: Occurrence missing/id=rp-440-occ15
+         occ$o1716-3799-per1-per2/id=rp-440-occ15
 
-         occ$obitos-1720-his4133-per1-per2/obs=WARNING: Occurrence missing/id=rp-440-occ16
+         occ$o1720-4133-per1-per2/id=rp-440-occ16
 
-         occ$obitos-1720-his4143-per1-per2/obs=WARNING: Occurrence missing/id=rp-440-occ17
+         occ$o1720-4143-per1-per2/id=rp-440-occ17
 
          occ$c1689.20-per7/id=rp-440-occ18
 
@@ -474,7 +372,7 @@ kleio$gacto2.str/authorities/Generated from database soure_editor by user soure,
 
       rperson$rp-427/joao rodrigues figueiredo/m/status=N
 
-         occ$d1692-c15-per15/obs=WARNING: Occurrence missing/id=rp-427-occ1
+         occ$c1692-joao-rodrigues-isabel-joao-cons-per15/id=rp-427-occ1
 
       rperson$rp-269/jorge de meneses/m/status=N
 
@@ -496,7 +394,7 @@ kleio$gacto2.str/authorities/Generated from database soure_editor by user soure,
 
          occ$c180-7/id=rp-145-occ2
 
-         occ$obitos-1708-his3119-per1-per2/obs=WARNING: Occurrence missing/id=rp-145-occ3
+         occ$o1708-3119-per1-per2/id=rp-145-occ3
 
          occ$b1695.11-per4/id=rp-145-occ4
 
@@ -541,8 +439,6 @@ kleio$gacto2.str/authorities/Generated from database soure_editor by user soure,
          occ$b1718.18-per6/id=rp-289-occ5
 
          occ$b1718.88-per1-per2/id=rp-289-occ6
-
-      rperson$rp-347/luis coelho/m/status=N
 
       rperson$rp-484/luis manhos/m/status=N
 
@@ -676,9 +572,9 @@ kleio$gacto2.str/authorities/Generated from database soure_editor by user soure,
 
       rperson$rp-184/maria ferreira/f/status=N
 
-         occ$b1720.9-per2/obs=WARNING: Occurrence missing/id=rp-184-occ1
+         occ$bmae02051720/id=rp-184-occ1
 
-         occ$b1720.8-mn/obs=WARNING: Occurrence missing/id=rp-184-occ2
+         occ$b1720.36-per1-per3/id=rp-184-occ2
 
       rperson$rp-270/mariana/f/status=N
 
@@ -754,43 +650,41 @@ kleio$gacto2.str/authorities/Generated from database soure_editor by user soure,
 
          occ$b1704.51-per1/id=rp-263-occ1
 
-         occ$c6-7-rod/obs=WARNING: Occurrence missing/id=rp-263-occ2
+         occ$b1705.52-per4/id=rp-263-occ2
 
-         occ$b1705.52-per4/id=rp-263-occ3
+         occ$b1705.64-per4/id=rp-263-occ3
 
-         occ$b1705.64-per4/id=rp-263-occ4
+         occ$b1706.53-per1/id=rp-263-occ4
 
-         occ$b1706.53-per1/id=rp-263-occ5
+         occ$b1707.47-per4/id=rp-263-occ5
 
-         occ$b1707.47-per4/id=rp-263-occ6
+         occ$b1708.100-per4/id=rp-263-occ6
 
-         occ$b1708.100-per4/id=rp-263-occ7
+         occ$b1709.8-per4/id=rp-263-occ7
 
-         occ$b1709.8-per4/id=rp-263-occ8
+         occ$b1709.16-per4/id=rp-263-occ8
 
-         occ$b1709.16-per4/id=rp-263-occ9
+         occ$b1709.100-per4/id=rp-263-occ9
 
-         occ$b1709.100-per4/id=rp-263-occ10
+         occ$b1710.52-per4/id=rp-263-occ10
 
-         occ$b1710.52-per4/id=rp-263-occ11
+         occ$b1710.101-per4/id=rp-263-occ11
 
-         occ$b1710.101-per4/id=rp-263-occ12
+         occ$b1713.5-per4/id=rp-263-occ12
 
-         occ$b1713.5-per4/id=rp-263-occ13
+         occ$b1714.5-per4/id=rp-263-occ13
 
-         occ$b1714.5-per4/id=rp-263-occ14
+         occ$b1714.9-per4/id=rp-263-occ14
 
-         occ$b1714.9-per4/id=rp-263-occ15
+         occ$b1714.37-per4/id=rp-263-occ15
 
-         occ$b1714.37-per4/id=rp-263-occ16
+         occ$b1714.42-per4/id=rp-263-occ16
 
-         occ$b1714.42-per4/id=rp-263-occ17
+         occ$b1714.66-per4/id=rp-263-occ17
 
-         occ$b1714.66-per4/id=rp-263-occ18
+         occ$b1718.8-per3/id=rp-263-occ18
 
-         occ$b1718.8-per3/id=rp-263-occ19
-
-         occ$b1718.56-per3/id=rp-263-occ20
+         occ$b1718.56-per3/id=rp-263-occ19
 
       rperson$rp-103/rodrigo homem/m/status=N
 
@@ -808,7 +702,7 @@ kleio$gacto2.str/authorities/Generated from database soure_editor by user soure,
 
          occ$c1694.23-per2/id=rp-3-occ3
 
-         occ$obitos-1708-his3139-per1/obs=WARNING: Occurrence missing/id=rp-3-occ4
+         occ$o1708-3139-per1/id=rp-3-occ4
 
       rperson$rp-76/simao afonso/m/status=N
 

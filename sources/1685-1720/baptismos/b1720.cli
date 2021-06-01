@@ -1,4 +1,4 @@
-kleio$gacto.str/translations=29
+kleio$gacto.str/translations=30
    fonte$baptismos 1720/tipo=reg paroquiais/localizacao=fol.?/data=17200000
 
       bap$b1720.1/1/1/1720/?/igreja de s. tiago
@@ -1216,7 +1216,7 @@ kleio$gacto.str/translations=29
             mad$antonia joao/id=b1720.59-per3
                rel$parentesco/mulher/jose mateus/bpad04081720
 
-            referido$antonia carvalho/id=br04081720
+            referida$antonia carvalho/id=br04081720
                rel$sociabilidade/procurador em baptismo/jose/bn04081720
                rel$parentesco/mulher/miguel ferreira/br04081720b
 
