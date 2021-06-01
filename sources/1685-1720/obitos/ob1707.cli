@@ -1,4 +1,4 @@
-kleio$gacto2.str/translations=12
+kleio$gacto2.str/translations=13
    fonte$obitos-1707/tipo=reg paroquiais/localizacao=27-/data=17070000/obs=padre luis alvares pinto
 
       obito$o1707-3060/11/1/1707
@@ -468,7 +468,7 @@ kleio$gacto2.str/translations=12
 
          n$maria simoes/f/id=o1707-3098-per1
             ls$ec/v
-            rel$parentesco/mae/domingos goncalves/c2-7
+            rel$parentesco/mae/domingos goncalves/o1707-3098-per1-per2
 
             referido$domingos goncalves/m/id=o1707-3098-per1-per2
                ls$residencia/casais
