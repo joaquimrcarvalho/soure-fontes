@@ -1,5 +1,5 @@
-KleioTranslator - server version 2019.A1 - build 256 07/05/2020 17:41 
-17-6-2020 18-26
+KleioTranslator - server version 2021.A4 - build 1891 (master) 01/06/2021 08:41 
+1-6-2021 9-0
 
 Processing data file po01.cli
 -------------------------------------------
@@ -12,9 +12,15 @@ kleio translation started
 Structure: gacto2.str
 Prefix: 
 Autorel: 
-Translation count: 14
+Translation count: 15
 Obs: 
 ** Processing source fonte$proc_ord_1
+** Base name of file po01.cli
+
+WARNING: po01.cli line 3 * Warning: Filename should match source Id to avoid errors. File: po01.cli Id: proc_ord_1.
+Near lines: 3 
+Near line: 4       po$po1/cx. 202, p.4/17150000/obs=ordens menores. Data de entrada do processo 19-11-1715
+
 6: po$po1
 28: po$po2
 49: po$po3
@@ -257,29 +263,15 @@ Obs:
 5880: po$po294
 *** End of File
 
-WARNING: po01.cli line 161  "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1713.42-per6) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
-Near lines: 161 Near line: 162 
+Line 162 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1713.42-per6) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 1419 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (c1727.15-per1) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 1430 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1710.22-per1) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 1437 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (c352-1) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 1449 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (c352-4) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 2656 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (1009) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 5838 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1685.21-per6) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 5845 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1689.60-per5) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
 
-WARNING: po01.cli line 1418  "SAME AS" TO EXTERNAL REFERENCE EXPORTED (c1727.15-per1) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
-Near lines: 1418 Near line: 1419 
-
-WARNING: po01.cli line 1429  "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1710.22-per1) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
-Near lines: 1429 Near line: 1430 
-
-WARNING: po01.cli line 1436  "SAME AS" TO EXTERNAL REFERENCE EXPORTED (c352-1) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
-Near lines: 1436 Near line: 1437 
-
-WARNING: po01.cli line 1448  "SAME AS" TO EXTERNAL REFERENCE EXPORTED (c352-4) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
-Near lines: 1448 Near line: 1449 
-
-WARNING: po01.cli line 2655  "SAME AS" TO EXTERNAL REFERENCE EXPORTED (1009) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
-Near lines: 2655 Near line: 2656 
-
-WARNING: po01.cli line 5837  "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1685.21-per6) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
-Near lines: 5837 Near line: 5838 
-
-WARNING: po01.cli line 5844  "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1689.60-per5) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
-Near lines: 5844 Near line: 5845 
 ** Processed file- /kleio-home/sources/soure-fontes/sources/1685-1720/ordenacoes/po01.cli
 ** Original file- /kleio-home/sources/soure-fontes/sources/1685-1720/ordenacoes/po01.org
 ** Previous version- /kleio-home/sources/soure-fontes/sources/1685-1720/ordenacoes/po01.old
@@ -288,5 +280,5 @@ Near lines: 5844 Near line: 5845
 ** - /kleio-home/sources/soure-fontes/sources/1685-1720/ordenacoes/po01.ids-renamed to- /kleio-home/sources/soure-fontes/sources/1685-1720/ordenacoes/po01.cli
 ** Translation files closed.
 0  errors. 
-8  warnings.
+1  warnings.
 Translation finished.

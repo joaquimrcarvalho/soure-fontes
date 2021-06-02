@@ -1,5 +1,5 @@
-ClioInput - version @@VERSION@@ - build @@BUILD@@ @@DATE@@
-27-4-2020 20-38
+KleioTranslator - server version 2021.A4 - build 1891 (master) 01/06/2021 08:41 
+1-6-2021 9-0
 
 Processing data file obi1723.cli
 -------------------------------------------
@@ -12,9 +12,15 @@ kleio translation started
 Structure: gacto2.str
 Prefix: 
 Autorel: 
-Translation count: 10
+Translation count: 11
 Obs: 
 ** Processing source fonte$obitos 1723
+** Base name of file obi1723.cli
+
+WARNING: obi1723.cli line 3 * Warning: Filename should match source Id to avoid errors. File: obi1723.cli Id: obitos 1723.
+Near lines: 3 
+Near line: 4       obito$o1723.01/1/1/1723/fl.88v/celebrante__ vigario manuel rodrigues
+
 6: obito$o1723.01
 22: obito$o1723.2
 40: obito$o1723.3
@@ -126,10 +132,15 @@ Obs:
 1596: obito$o1723.110
 1610: obito$o1723.111
 *** End of File
-** Processed file- /Users/jrc/mhk-home/sources/soure-fontes/sources/soure_fase2/obi1723.cli
-** Original file- /Users/jrc/mhk-home/sources/soure-fontes/sources/soure_fase2/obi1723.org
-** Previous version- /Users/jrc/mhk-home/sources/soure-fontes/sources/soure_fase2/obi1723.old
-** Temp file with ids- /Users/jrc/mhk-home/sources/soure-fontes/sources/soure_fase2/obi1723.ids
+
+
+** Processed file- /kleio-home/sources/soure-fontes/sources/1720-1732/obi1723.cli
+** Original file- /kleio-home/sources/soure-fontes/sources/1720-1732/obi1723.org
+** Previous version- /kleio-home/sources/soure-fontes/sources/1720-1732/obi1723.old
+** Temp file with ids- /kleio-home/sources/soure-fontes/sources/1720-1732/obi1723.ids
+** - /kleio-home/sources/soure-fontes/sources/1720-1732/obi1723.cli-renamed to- /kleio-home/sources/soure-fontes/sources/1720-1732/obi1723.old
+** - /kleio-home/sources/soure-fontes/sources/1720-1732/obi1723.ids-renamed to- /kleio-home/sources/soure-fontes/sources/1720-1732/obi1723.cli
+** Translation files closed.
 0  errors. 
-0  warnings.
+1  warnings.
 Translation finished.

@@ -1,4 +1,4 @@
-kleio$gacto2.str/translations=7
+kleio$gacto2.str/translations=8
    fonte$casamentos 1726/1726/paroquiais/auc/obs=em muito mau estado
 
       cas$c1726.01/7/1/1726/fol.332/local__igreja de sao tiago/celebrante__manuel rodrigues
@@ -61,7 +61,7 @@ kleio$gacto2.str/translations=7
             ls$profissao/padre
 
          test$manuel domingos/id=c1726.2-per9
-            ls$alcunha/o moco
+            ls$alcunha/moco
             ls$residencia/casais da misericordia
 
       cas$c1726.3/14/2/1726/fol.332v/local__igreja de sao tiago/celebrante__vigario jose rodrigues de carvalho
@@ -90,11 +90,11 @@ kleio$gacto2.str/translations=7
             ls$residencia/porto coelheiro
 
          test$manuel rodrigues calhau/id=c1726.3-per9
-            ls$alcunha/o velho
+            ls$alcunha/velho
             ls$residencia/porto coelheiro
 
          test$manuel rodrigues calhau/id=c1726.3-per10
-            ls$alcunha/o moco
+            ls$alcunha/moco
             ls$residencia/porto coelheiro
 
       cas$c1726.4/16/2/1726/fol.332v-333/local__igreja de sao tiago/celebrante__manuel rodrigues
@@ -245,7 +245,7 @@ kleio$gacto2.str/translations=7
             mnoiva$maria francisca/id=c1726.8-per6
 
          test$manuel jorge/id=c1726.8-per7
-            ls$alcunha/o velho
+            ls$alcunha/velho
             ls$residencia/casal de marzagao
 
          test$manuel rodrigues/id=c1726.8-per8
@@ -744,7 +744,7 @@ kleio$gacto2.str/translations=7
             ls$residencia/casais da misericordia
 
          test$manuel goncalves branco/id=c1726.22-per8
-            ls$alcunha/o moco
+            ls$alcunha/moco
             ls$residencia/mogadouro
 
          test$alexandre francisco/id=c1726.22-per9
@@ -775,11 +775,11 @@ kleio$gacto2.str/translations=7
                ls$morta/antes
 
          test$manuel goncalves branco/id=c1726.23-per7
-            ls$alcunha/o velho
+            ls$alcunha/velho
             ls$residencia/mogadouro
 
          test$manuel goncalves branco/id=c1726.23-per8
-            ls$alcunha/o moco
+            ls$alcunha/moco
             ls$residencia/mogadouro
 
          test$mateus carvalho/id=c1726.23-per9

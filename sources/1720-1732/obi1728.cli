@@ -1,4 +1,4 @@
-kleio$gacto2.str/translations=8
+kleio$gacto2.str/translations=10
    fonte$obitos 1728/1728/paroquiais/auc/obs=em muito mau estado
 
       obito$o1728.01/5/1/1728/fl.11v/celebrante__ vigario manuel rodrigues
@@ -593,7 +593,7 @@ kleio$gacto2.str/translations=8
       obito$o1728.41/8/5/1728/fl.17/celebrante__ vigario manuel rodrigues
 
          n$manuel rodrigues/m/id=o1728.41-per1
-            ls$alcunha/o mouco
+            ls$alcunha/mouco
             ls$residencia/casal das brancas
 
          locs$ermida do divino espirito santo
@@ -909,7 +909,7 @@ kleio$gacto2.str/translations=8
       obito$o1728.64/5/8/1728/fl.20v/celebrante__ vigario manuel rodrigues
 
          n$manuel rodrigues/m/id=o1728.64-per1
-            ls$alcunha/o capitao
+            ls$alcunha/capitao
             ls$residencia/porto coelheiro
 
          locs$ermida de santo ildefonso
@@ -1407,7 +1407,7 @@ kleio$gacto2.str/translations=8
       obito$o1728.99/2/12/1728/fl.25v/celebrante__ vigario manuel rodrigues
 
          n$maria joao/f/id=o1728.99-per1
-            ls$alcunha/a seguerelha
+            ls$alcunha/seguerelha
             ls$residencia/mogadouro
 
          locs$adro
@@ -1451,7 +1451,7 @@ kleio$gacto2.str/translations=8
       obito$o1728.102/19/12/1728/fl.26/celebrante__ vigario manuel rodrigues
 
          n$manuel rodrigues goncalves/m/id=o1728.102-per1
-            ls$alcunha/o moco
+            ls$alcunha/moco
             ls$residencia/paleao
 
          locs$igreja de sao joao baptista

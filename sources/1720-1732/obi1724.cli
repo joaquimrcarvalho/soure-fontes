@@ -1,4 +1,4 @@
-kleio$gacto2.str/translations=8
+kleio$gacto2.str/translations=10
    fonte$obitos 1724/1724/paroquiais/auc/obs=em mau estado
 
       obito$o1724.01/7/1/1724/fl.103v-104/celebrante__ vigario manuel rodrigues
@@ -150,7 +150,7 @@ kleio$gacto2.str/translations=8
             ls$residencia/fatacos
 
             marido$manuel goncalves/id=o1724.10-per1-per2
-               ls$alcunha/o velho
+               ls$alcunha/velho
                ls$residencia/fatacos
 
          locs$igreja de sao tiago/obs=em cova da fabrica
@@ -1086,7 +1086,7 @@ kleio$gacto2.str/translations=8
 
          n$catarina simoes/f/id=o1724.73-per1
             ls$ec/solteira
-            ls$alcunha/a poupa
+            ls$alcunha/poupa
             ls$residencia/paleao
 
          locs$sao joao baptista
@@ -1318,7 +1318,7 @@ kleio$gacto2.str/translations=8
       obito$o1724.89/15/12/1724/fl.116v-117/celebrante__ vigario manuel rodrigues
 
          n$joao martins/m/id=o1724.89-per1
-            ls$alcunha/o pissarra
+            ls$alcunha/pissarra
             ls$residencia/venda nova
 
          locs$igreja de tapeus/obs=por ter escolhido la ser sepultado

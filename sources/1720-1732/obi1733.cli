@@ -1,4 +1,4 @@
-kleio$gacto2.str/translations=10
+kleio$gacto2.str/translations=14
    fonte$obito 1733/1733/paroquiais/auc/obs=em muito mau estado
 
       obito$o1733.01/3/1/1733/fl.68/celebrante__ vigario manuel rodrigues
@@ -64,7 +64,7 @@ kleio$gacto2.str/translations=10
          locs$ermida de sao miguel
 
          referida$isabel francisca/id=o1733.4-per3
-            ls$alcunha/a pacheca
+            ls$alcunha/pacheca
             ls$ec/viuva
             ls$residencia/sobral
             rel$sociabilidade/baptizou em necessidade/maria/1733-o4-maria
@@ -251,7 +251,7 @@ kleio$gacto2.str/translations=10
             ls$residencia/soure
 
             marido$alexandre ferreira/id=o1733.17-per1-per2
-               ls$alcunha/o velho
+               ls$alcunha/velho
                ls$residencia/soure
 
          locs$igreja de sao tiago/obs=em cova da fabrica
@@ -389,7 +389,7 @@ kleio$gacto2.str/translations=10
          testamento$n
 
          referido$manuel jorge/id=o1733.26-per1
-            ls$alcunha/o raposo
+            ls$alcunha/raposo
             ls$residencia/casal de galinhas
             rel$parentesco/cunhado/josefa travassos/1733-o26-josefa
 
@@ -775,7 +775,7 @@ kleio$gacto2.str/translations=10
       obito$o1733.52/13/11/1733/fl.73/celebrante__ vigario manuel rodrigues
 
          n$manuel antunes/m/id=o1733.52-per1
-            ls$alcunha/o velho
+            ls$alcunha/velho
             ls$residencia/presa
 
          locs$ermida de santo ildefonso
@@ -855,7 +855,7 @@ kleio$gacto2.str/translations=10
       obito$o1733.58/25/11/1733/fl.73v/celebrante__ vigario manuel rodrigues
 
          n$manuel simoes/m/id=o1733.58-per1
-            ls$alcunha/o conde
+            ls$alcunha/conde
             ls$naturalidade/simoes
 
          locf$ausente a mais de 20 anos
@@ -867,7 +867,7 @@ kleio$gacto2.str/translations=10
             ls$naturalidade/simoes
 
             pai$manuel simoes/id=o1733.59-per1-per2
-               ls$alcunha/o conde
+               ls$alcunha/conde
 
          locf$hospital de evora
 

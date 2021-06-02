@@ -1,4 +1,4 @@
-kleio$gacto2.str/translations=11
+kleio$gacto2.str/translations=12
    fonte$casamentos 1729/1729/paroquiais/auc/obs=em muito mau estado
 
       cas$c1729.01/1/1/1729/fol.351v/local__igreja de sao tiago/celebrante__manuel rodrigues
@@ -249,7 +249,7 @@ kleio$gacto2.str/translations=11
             ls$residencia/porto coelheiro
 
          test$manuel rodrigues calhau/id=c1729.8-per8
-            ls$alcunha/o moco
+            ls$alcunha/moco
             ls$residencia/porto coelheiro
 
          test$simao joao/id=c1729.8-per9
@@ -329,7 +329,7 @@ kleio$gacto2.str/translations=11
             ls$residencia/barril
 
          test$joao francisco/id=c1729.10-per9
-            ls$alcunha/o moco
+            ls$alcunha/moco
             ls$residencia/barril
 
          test$antonio lopes/id=c1729.10-per10
@@ -445,11 +445,11 @@ kleio$gacto2.str/translations=11
                ls$morta/antes
 
          test$joao francisco/id=c1729.15-per7
-            ls$alcunha/o velho
+            ls$alcunha/velho
             ls$residencia/casal do barril
 
          test$joao francisco/id=c1729.15-per8
-            ls$alcunha/o moco
+            ls$alcunha/moco
             ls$residencia/casal do barrl
 
          test$domingos da gante/id=c1729.15-per9

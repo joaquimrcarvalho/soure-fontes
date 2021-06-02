@@ -1,4 +1,4 @@
-kleio$gacto2.str/translations=12
+kleio$gacto2.str/translations=13
    fonte$casamentos 1727/1727/paroquiais/auc/obs=em muito mau estado
 
       cas$c1727.01/8/1/1727/fol.337v-338/local__ermida da nossa senhora das neves/celebrante__manuel rodrigues
@@ -96,7 +96,7 @@ kleio$gacto2.str/translations=12
             ls$residencia/casal do barril
 
          test$manuel joao/id=c1727.3-per9
-            ls$alcunha/o moco
+            ls$alcunha/moco
             ls$residencia/moinho das areias dos simoes
 
       cas$c1727.4/6/2/1727/fol.338v-339/local__igreja de sao tiago/celebrante__manuel rodrigues
@@ -308,11 +308,11 @@ kleio$gacto2.str/translations=12
             mnoiva$domingas simoes/id=c1727.10-per6
 
          test$manuel goncalves branco/id=c1727.10-per7
-            ls$alcunha/o velho
+            ls$alcunha/velho
             ls$residencia/mogadouro
 
          test$manuel goncalves branco/id=c1727.10-per8
-            ls$alcunha/o moco
+            ls$alcunha/moco
             ls$residencia/mogadouro
 
          test$mateus carvalho/id=c1727.10-per9

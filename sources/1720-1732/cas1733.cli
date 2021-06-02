@@ -1,4 +1,4 @@
-kleio$gacto2.str/translations=6
+kleio$gacto2.str/translations=9
    fonte$casamentos 1733/1733/paroquiais/auc/obs=em muito mau estado
 
       cas$c1733.01/12/1/1733/fol.368/local__igreja de sao tiago/celebrante__vigario manuel rodrigues/obs=os noivos tem consanguinidade de quarto grau
@@ -286,7 +286,7 @@ kleio$gacto2.str/translations=6
             ls$residencia/casal dos guerras
 
          test$manuel domingues/id=c1733.8-per8
-            ls$alcunha/o moco
+            ls$alcunha/moco
             ls$residencia/casais da misericordia
 
          test$antonio dos santos/id=c1733.8-per9
@@ -327,7 +327,7 @@ kleio$gacto2.str/translations=6
             ls$residencia/casal do malvado
 
          test$manuel antunes/id=c1733.9-per11
-            ls$alcunha/o moco
+            ls$alcunha/moco
             ls$residencia/presa
 
          test$domingos simoes/id=c1733.9-per12
@@ -532,7 +532,7 @@ kleio$gacto2.str/translations=6
             ls$residencia/mogadouro
 
          test$antonio goncalves/id=c1733.15-per8
-            ls$alcunha/o moco
+            ls$alcunha/moco
             ls$residencia/mogadouro
 
          test$manuel domingues/id=c1733.15-per9
@@ -556,12 +556,12 @@ kleio$gacto2.str/translations=6
             ls$residencia/simoes
 
             pnoiva$antonio simoes/id=c1733.16-per5
-               ls$alcunha/o conde
+               ls$alcunha/conde
                ls$residencia/simoes
                ls$morto/antes
 
             mnoiva$maria joao/id=c1733.16-per6
-               ls$alcunha/a galega
+               ls$alcunha/galega
 
          test$manuel joao/id=c1733.16-per7
             ls$profissao/moleiro

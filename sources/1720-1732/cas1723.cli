@@ -1,4 +1,4 @@
-kleio$gacto2.str/translations=8
+kleio$gacto2.str/translations=9
    fonte$casamentos 1723/1723/paroquiais/auc/obs=em muito mau estado
 
       cas$c1723.01/11/1/1723/fol.310v311/local__igreja de sao tiago/celebrante__frei manuel duarte
@@ -281,7 +281,7 @@ kleio$gacto2.str/translations=8
             ls$residencia/vila nova de ancos
 
          test$joao rodrigues alvaro/id=c1723.8-per13
-            ls$alcunha/o moco
+            ls$alcunha/moco
             ls$residencia/soure
 
       cas$c1723.9/24/8/1723/fol.312v313/local__capela da santa casa da misericordia/celebrante__padre luis ribeiro cabral/obs=nao vale este assento que se anulou o matrimonio
@@ -400,7 +400,7 @@ kleio$gacto2.str/translations=8
             ls$residencia/pouca pena
 
             pmulher1$domingos simoes/id=c1723.12-per8
-               ls$alcunha/o luca
+               ls$alcunha/luca
                ls$residencia/pouca pena
                ls$morto/antes
 
@@ -628,5 +628,5 @@ kleio$gacto2.str/translations=8
             ls$residencia/casal de galinhas
 
          test$manuel goncalves/id=c1723.18-per9
-            ls$alcunha/o moco
+            ls$alcunha/moco
             ls$residencia/fatacos

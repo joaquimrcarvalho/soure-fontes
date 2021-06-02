@@ -1,4 +1,4 @@
-kleio$gacto2.str/translations=11
+kleio$gacto2.str/translations=13
    fonte$baptizados 1728/1728/paroquiais/auc/obs=em mau estado
 
       bap$b1728.01/1/1/1728/fol.130/igreja de sao tiago/padre manuel rodrigues alvaro
@@ -108,7 +108,7 @@ kleio$gacto2.str/translations=11
                ls$naturalidade/fonte da bica
 
             pad$manuel jorge/id=b1728.5-per4
-               ls$alcunha/o moco
+               ls$alcunha/moco
                ls$residencia/marzagao
 
             mad$isabel/id=b1728.5-per5
@@ -549,7 +549,7 @@ kleio$gacto2.str/translations=11
          n$manuel/m/id=b1728.25-per1
 
             pn$manuel joao/id=b1728.25-per2
-               ls$alcunha/o moco
+               ls$alcunha/moco
                ls$naturalidade/simoes
                ls$residencia/simoes
 
@@ -558,7 +558,7 @@ kleio$gacto2.str/translations=11
                ls$freguesia/almagreira
 
             pad$manuel domingues/id=b1728.25-per4
-               ls$alcunha/o moco
+               ls$alcunha/moco
                ls$residencia/casais da misericordia
 
             mad$maria domingues/id=b1728.25-per5
@@ -997,7 +997,7 @@ kleio$gacto2.str/translations=11
          n$josefa/f/id=1728-b44-josefa
 
             pn$manuel joao/id=b1728.44-per1
-               ls$alcunha/o marcos
+               ls$alcunha/marcos
                ls$naturalidade/simoes
                ls$residencia/simoes
 
@@ -2019,7 +2019,7 @@ kleio$gacto2.str/translations=11
             ls$ilegitimo/sim
 
             mn$maria/id=b1728.86-per2
-               ls$alcunha/a carrica
+               ls$alcunha/carrica
                ls$residencia/espirito santo
 
             pn$joao colaco de morais/obs=ele confessou ser pai de paulo/id=b1728.86-per3
@@ -2066,7 +2066,7 @@ kleio$gacto2.str/translations=11
          n$isabel/f/id=b1728.88-per1
 
             pn$manuel rodrigues/id=b1728.88-per2
-               ls$alcunha/o moco
+               ls$alcunha/moco
                ls$naturalidade/pencarpia
                ls$residencia/pencarpia
 
@@ -2179,7 +2179,7 @@ kleio$gacto2.str/translations=11
                ls$naturalidade/barrosos
 
             pad$manuel goncalves branco/id=b1728.93-per4
-               ls$alcunha/o moco
+               ls$alcunha/moco
                ls$residencia/mogadouro
 
             mad$catarina/id=b1728.93-per5
@@ -2199,7 +2199,7 @@ kleio$gacto2.str/translations=11
             mn$nome desconhecido/id=b1728.94-per2
 
             pad$manuel goncalves branco/id=b1728.94-per3
-               ls$alcunha/o moco
+               ls$alcunha/moco
                ls$residencia/mogadouro
 
             mad$ines rodrigues/id=b1728.94-per4

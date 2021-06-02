@@ -1,5 +1,5 @@
-ClioInput - version @@VERSION@@ - build @@BUILD@@ @@DATE@@
-27-4-2020 17-23
+KleioTranslator - server version 2021.A4 - build 1891 (master) 01/06/2021 08:41 
+1-6-2021 8-59
 
 Processing data file bap1732.cli
 -------------------------------------------
@@ -12,9 +12,15 @@ kleio translation started
 Structure: gacto2.str
 Prefix: 
 Autorel: 
-Translation count: 7
+Translation count: 8
 Obs: 
 ** Processing source fonte$baptizados 1732
+** Base name of file bap1732.cli
+
+WARNING: bap1732.cli line 3 * Warning: Filename should match source Id to avoid errors. File: bap1732.cli Id: baptizados 1732.
+Near lines: 3 
+Near line: 4       bap$b1732.01/1/1/1732/fol.193v/igreja de sao tiago/vigario manuel rodrigues
+
 6: bap$b1732.01
 28: bap$b1732.2
 50: bap$b1732.3
@@ -101,10 +107,15 @@ Obs:
 1914: bap$b1732.84
 1932: bap$b1732.85
 *** End of File
-** Processed file- /Users/jrc/mhk-home/sources/soure-fontes/sources/soure_fase2/bap1732.cli
-** Original file- /Users/jrc/mhk-home/sources/soure-fontes/sources/soure_fase2/bap1732.org
-** Previous version- /Users/jrc/mhk-home/sources/soure-fontes/sources/soure_fase2/bap1732.old
-** Temp file with ids- /Users/jrc/mhk-home/sources/soure-fontes/sources/soure_fase2/bap1732.ids
+
+
+** Processed file- /kleio-home/sources/soure-fontes/sources/1720-1732/bap1732.cli
+** Original file- /kleio-home/sources/soure-fontes/sources/1720-1732/bap1732.org
+** Previous version- /kleio-home/sources/soure-fontes/sources/1720-1732/bap1732.old
+** Temp file with ids- /kleio-home/sources/soure-fontes/sources/1720-1732/bap1732.ids
+** - /kleio-home/sources/soure-fontes/sources/1720-1732/bap1732.cli-renamed to- /kleio-home/sources/soure-fontes/sources/1720-1732/bap1732.old
+** - /kleio-home/sources/soure-fontes/sources/1720-1732/bap1732.ids-renamed to- /kleio-home/sources/soure-fontes/sources/1720-1732/bap1732.cli
+** Translation files closed.
 0  errors. 
-0  warnings.
+1  warnings.
 Translation finished.

@@ -1,4 +1,4 @@
-kleio$gacto2.str/translations=7
+kleio$gacto2.str/translations=9
    fonte$baptizados 1727/1727/paroquiais/auc/obs=em muito mau estado
 
       bap$b1727.01/5/1/1727/fol.113/igreja de sao tiago/padre manuel rodrigues alvaro
@@ -366,7 +366,7 @@ kleio$gacto2.str/translations=7
                ls$naturalidade/barrosos
 
             pad$manuel goncalves branco/id=b1727.17-per4
-               ls$alcunha/o moco
+               ls$alcunha/moco
                ls$residencia/mogadouro
 
             mad$maria goncalves/id=b1727.17-per5
@@ -428,7 +428,7 @@ kleio$gacto2.str/translations=7
                ls$naturalidade/delgados
 
             pad$manuel goncalves branco/id=b1727.20-per4
-               ls$alcunha/o moco
+               ls$alcunha/moco
                ls$residencia/mogadouro
 
             mad$domingas/id=b1727.20-per5
@@ -535,7 +535,7 @@ kleio$gacto2.str/translations=7
             mad$josefa lourenca/id=b1727.24-per5
 
                mrmad$antonio rodrigues/id=b1727.24-per6
-                  ls$alcunha/o gago
+                  ls$alcunha/gago
                   ls$residencia/simoes
 
       bap$b1727.25/14/4/1727/fol.117v/igreja de sao tiago/vigario manuel rodrigues
@@ -895,7 +895,7 @@ kleio$gacto2.str/translations=7
                ls$naturalidade/delgados
 
             pad$manuel goncalves branco/id=b1727.40-per4
-               ls$alcunha/o moco
+               ls$alcunha/moco
                ls$residencia/mogadouro
 
             mad$maria goncalves/id=b1727.40-per5
@@ -933,7 +933,7 @@ kleio$gacto2.str/translations=7
                ls$naturalidade/casal do justo
 
             pad$manuel goncalves branco/id=b1727.42-per4
-               ls$alcunha/o moco
+               ls$alcunha/moco
                ls$residencia/mogadouro
 
             mad$maria goncalves/id=b1727.42-per5
@@ -1154,7 +1154,7 @@ kleio$gacto2.str/translations=7
                ls$naturalidade/simoes
 
             pad$manuel goncalves branco/id=b1727.52-per3
-               ls$alcunha/o moco
+               ls$alcunha/moco
                ls$residencia/mogadouro
 
             mad$ana ferreira/id=b1727.52-per4
@@ -1163,7 +1163,7 @@ kleio$gacto2.str/translations=7
                   ls$residencia/simoes
 
             referida$maria joao/id=b1727.52-per6
-               ls$alcunha/a galega
+               ls$alcunha/galega
                ls$residencia/simoes
                rel$sociabilidade/baptizou em necessidade/manuel/1727-b52-manuel
 
@@ -1179,7 +1179,7 @@ kleio$gacto2.str/translations=7
                ls$naturalidade/barrosos
 
             pad$manuel goncalves branco/id=b1727.53-per4
-               ls$alcunha/o velho
+               ls$alcunha/velho
                ls$residencia/mogadouro
 
             mad$maria goncalves/id=b1727.53-per5
@@ -1551,7 +1551,7 @@ kleio$gacto2.str/translations=7
                   ls$residencia/mogadouro
 
             referido$manuel goncalves branco/id=b1727.68-per6
-               ls$alcunha/o moca
+               ls$alcunha/moca
                ls$residencia/mogadouro
                rel$sociabilidade/procurador/baltasar rodrigues/1727-b68-baltasar
 
@@ -1868,7 +1868,7 @@ kleio$gacto2.str/translations=7
          n$teresa/f/id=b1727.82-per1
 
             pn$manuel rodrigues/id=b1727.82-per2
-               ls$alcunha/o moco
+               ls$alcunha/moco
                ls$naturalidade/paleao
                ls$residencia/paleao
 
@@ -1918,7 +1918,7 @@ kleio$gacto2.str/translations=7
          n$isabel/f/id=b1727.84-per1
 
             pn$manuel simoes galhardo/id=b1727.84-per2
-               ls$alcunha/o moco
+               ls$alcunha/moco
                ls$naturalidade/sobral
                ls$residencia/sobral
 
@@ -1933,7 +1933,7 @@ kleio$gacto2.str/translations=7
                ls$residencia/sobral
 
                pmad$manuel simoes galhardo/id=b1727.84-per6
-                  ls$alcunha/o velho
+                  ls$alcunha/velho
                   ls$residencia/sobral
 
       bap$b1727.85/22/11/1727/fol.128/igreja de sao tiago/padre frei gaspar

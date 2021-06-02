@@ -1,5 +1,5 @@
-KleioTranslator - server version 2019.A2 - build 274 (Import-identifications) 22/07/2020 19:36 
-30-7-2020 9-45
+KleioTranslator - server version 2021.A4 - build 1891 (master) 01/06/2021 08:41 
+1-6-2021 9-8
 
 Processing data file bap1722.cli
 -------------------------------------------
@@ -12,9 +12,15 @@ kleio translation started
 Structure: gacjo2.str
 Prefix: 
 Autorel: 
-Translation count: 7
+Translation count: 9
 Obs: 
 ** Processing source fonte$baptizados 1722
+** Base name of file bap1722.cli
+
+WARNING: bap1722.cli line 3 * Warning: Filename should match source Id to avoid errors. File: bap1722.cli Id: baptizados 1722.
+Near lines: 3 
+Near line: 4       bap$b1722.01/4/1/1721/fol.21v-22/local__igreja de sao tiago/celebrante__antonio de sousa
+
 6: bap$b1722.01
 27: bap$b1722.2
 61: bap$b1722.3
@@ -137,5 +143,5 @@ Obs:
 ** - /kleio-home/sources/soure-fontes/sources/1720-1732/bap1722.ids-renamed to- /kleio-home/sources/soure-fontes/sources/1720-1732/bap1722.cli
 ** Translation files closed.
 0  errors. 
-0  warnings.
+1  warnings.
 Translation finished.

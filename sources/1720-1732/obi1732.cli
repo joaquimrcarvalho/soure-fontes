@@ -1,4 +1,4 @@
-kleio$gacto2.str/translations=10
+kleio$gacto2.str/translations=12
    fonte$obito 1732/1732/paroquiais/auc/obs=em muito mau estado
 
       obito$o1732.01/1/1/1732/fl.58/celebrante__ vigario manuel rodrigues
@@ -263,7 +263,7 @@ kleio$gacto2.str/translations=10
             ls$residencia/casal de montais
 
             marido$manuel joao/id=o1732.19-per1-per2
-               ls$alcunha/o ruivo
+               ls$alcunha/ruivo
                ls$residencia/casalinhos
 
          locs$ermida de sao miguel arcanjo em sobral
@@ -352,7 +352,7 @@ kleio$gacto2.str/translations=10
             ls$residencia/paleao
 
             marido$manuel rodrigues/id=o1732.25-per1-per2
-               ls$alcunha/o moco
+               ls$alcunha/moco
                ls$residencia/paleao
 
          locs$ermida de sao joao baptista
@@ -743,7 +743,7 @@ kleio$gacto2.str/translations=10
       obito$o1732.49/7/6/1732/fl.63/celebrante__ vigario manuel rodrigues
 
          n$maria marques/f/id=o1732.49-per1
-            ls$alcunha/a ferradora
+            ls$alcunha/ferradora
             ls$ec/viuva
             ls$residencia/soure
 
@@ -1401,7 +1401,7 @@ kleio$gacto2.str/translations=10
       obito$o1732.92/30/12/1732/fl.67v-68/celebrante__ vigario manuel rodrigues
 
          n$maria goncalves/f/id=o1732.92-per1
-            ls$alcunha/a ligeira
+            ls$alcunha/ligeira
             ls$residencia/simoes
 
          locs$ermida de sao lourenco

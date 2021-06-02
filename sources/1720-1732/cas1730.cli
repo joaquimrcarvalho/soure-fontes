@@ -1,4 +1,4 @@
-kleio$gacto2.str/translations=7
+kleio$gacto2.str/translations=8
    fonte$casamentos 1730/1730/paroquiais/auc/obs=em muito mau estado
 
       cas$c1730.01/16/1/1730/fol.356v/local__ermida de sao miguel em sobral/celebrante__manuel rodigues alvaro
@@ -128,11 +128,11 @@ kleio$gacto2.str/translations=7
             ls$residencia/paleao
 
          test$manuel rodrigues calhau/id=c1730.4-per9
-            ls$alcunha/o velho
+            ls$alcunha/velho
             ls$residencia/porto coelheiro
 
          test$manuel rodrigues calhau/id=c1730.4-per10
-            ls$alcunha/o novo
+            ls$alcunha/novo
             ls$residencia/porto coelheiro
 
       cas$c1730.5/13/2/1730/fol.357/local__igreja de sao tiago/celebrante__manuel rodrigues

@@ -1,4 +1,4 @@
-kleio$gacto2.str/translations=8
+kleio$gacto2.str/translations=9
    fonte$obito 1734/1734/paroquiais/auc/obs=em muito mau estado
 
       obito$o1734.01/6/1/1734/fl.74/celebrante__ vigario manuel rodrigues
@@ -416,7 +416,7 @@ kleio$gacto2.str/translations=8
       obito$o1734.29/19/7/1734/fl.76v/celebrante__ vigario manuel rodrigues
 
          n$manuel madeira/m/id=o1734.29-per1
-            ls$alcunha/o velho
+            ls$alcunha/velho
             ls$residencia/alencarce de cima
 
          locs$igreja de sao tiago/obs=em cova da fabrica
@@ -898,7 +898,7 @@ kleio$gacto2.str/translations=8
             ls$residencia/pinheiro
 
             pai$manuel rodrigues/id=o1734.60-per1-per2
-               ls$alcunha/o moco
+               ls$alcunha/moco
                ls$residencia/pinheiro
 
          locs$ermida de sao jose

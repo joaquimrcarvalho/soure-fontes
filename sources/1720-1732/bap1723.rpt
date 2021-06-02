@@ -1,5 +1,5 @@
-ClioInput - version @@VERSION@@ - build @@BUILD@@ @@DATE@@
-20-4-2020 21-36
+KleioTranslator - server version 2021.A4 - build 1891 (master) 01/06/2021 08:41 
+1-6-2021 9-8
 
 Processing data file bap1723.cli
 -------------------------------------------
@@ -12,9 +12,15 @@ kleio translation started
 Structure: gacto2.str
 Prefix: 
 Autorel: 
-Translation count: 8
+Translation count: 11
 Obs: 
 ** Processing source fonte$baptizados 1723
+** Base name of file bap1723.cli
+
+WARNING: bap1723.cli line 3 * Warning: Filename should match source Id to avoid errors. File: bap1723.cli Id: baptizados 1723.
+Near lines: 3 
+Near line: 4       bap$b1723.01/4/1/1723/fol.42/local__igreja de sao tiago/celebrante__padre antonio da cruz
+
 6: bap$b1723.01
 28: bap$b1723.2
 51: bap$b1723.3
@@ -110,10 +116,15 @@ Obs:
 2133: bap$b1723.92
 2163: bap$b1723.93
 *** End of File
-** Processed file- /Users/jrc/mhk-home/sources/soure-fontes/sources/soure_fase2/bap1723.cli
-** Original file- /Users/jrc/mhk-home/sources/soure-fontes/sources/soure_fase2/bap1723.org
-** Previous version- /Users/jrc/mhk-home/sources/soure-fontes/sources/soure_fase2/bap1723.old
-** Temp file with ids- /Users/jrc/mhk-home/sources/soure-fontes/sources/soure_fase2/bap1723.ids
+
+
+** Processed file- /kleio-home/sources/soure-fontes/sources/1720-1732/bap1723.cli
+** Original file- /kleio-home/sources/soure-fontes/sources/1720-1732/bap1723.org
+** Previous version- /kleio-home/sources/soure-fontes/sources/1720-1732/bap1723.old
+** Temp file with ids- /kleio-home/sources/soure-fontes/sources/1720-1732/bap1723.ids
+** - /kleio-home/sources/soure-fontes/sources/1720-1732/bap1723.cli-renamed to- /kleio-home/sources/soure-fontes/sources/1720-1732/bap1723.old
+** - /kleio-home/sources/soure-fontes/sources/1720-1732/bap1723.ids-renamed to- /kleio-home/sources/soure-fontes/sources/1720-1732/bap1723.cli
+** Translation files closed.
 0  errors. 
-0  warnings.
+1  warnings.
 Translation finished.

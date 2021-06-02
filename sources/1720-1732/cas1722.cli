@@ -1,4 +1,4 @@
-kleio$gacto2.str/translations=8
+kleio$gacto2.str/translations=9
    fonte$casamentos 1722/1722/paroquiais/auc/obs=em muito mau estado
 
       cas$c1722.01/5/1/1722/fol.303v/local__igreja de sao tiago/celebrante__manuel rodrigues
@@ -228,7 +228,7 @@ kleio$gacto2.str/translations=8
             ls$residencia/alencarce de cima
 
          test$manuel madeira/id=c1722.7-per9
-            ls$alcunha/o velho
+            ls$alcunha/velho
             ls$residencia/alencarce de cima
 
          test$antonio rodrigues/id=c1722.7-per10
@@ -483,7 +483,7 @@ kleio$gacto2.str/translations=8
             ls$residencia/presa
 
          test$manuel antonio/id=c1722.15-per10
-            ls$alcunha/o moco
+            ls$alcunha/moco
             ls$residencia/presa
 
       cas$c1722.16/9/11/1722/fol.307v/local__igreja de sao tiago/celebrante__manuel rodrigues
@@ -776,7 +776,7 @@ kleio$gacto2.str/translations=8
             ls$residencia/baixos
 
          test$jose duarte/id=c1722.24-per8
-            ls$alcunha/o novo
+            ls$alcunha/novo
             ls$residencia/tapeus
 
          test$manuel rodrigues calhau/id=c1722.24-per9
@@ -863,7 +863,7 @@ kleio$gacto2.str/translations=8
 
             pnoivo$manuel gomes/id=c1722.27-per2
                ls$residencia/casa velha
-               ls$alcunha/o perseguido
+               ls$alcunha/perseguido
 
             mnoivo$maria soares/id=c1722.27-per3
                ls$morta/antes

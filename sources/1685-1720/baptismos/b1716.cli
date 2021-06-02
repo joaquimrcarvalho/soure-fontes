@@ -1,4 +1,4 @@
-kleio$gacto.str/translations=37
+kleio$gacto.str/translations=38
    fonte$baptismos 1716/tipo=reg paroquiais/localizacao=fol.430/data=17160000
 
       bap$b1716.1/5/1/1716/?/igreja de s. tiago
@@ -274,7 +274,12 @@ kleio$gacto.str/translations=37
       bap$b1716.14/9/2/1716/?/igreja de s. tiago
 
          n$francisca/f/id=b1716.14-per1
-            ls$enjeitado/sim#se achou na casa velha desta freguesia e a esta criando por ordem da camara maria gomes, mulher de manuel simoes o conde de soure. E trazia um escrito pelo qual constava ter sido baptizado.
+            ls$enjeitado/sim/obs="""
+            se achou na casa velha desta freguesia e a 
+            esta criando por ordem da camara maria gomes, 
+            mulher de manuel simoes o conde de soure. 
+            E trazia um escrito pelo qual constava ter sido baptizado.
+            """
 
             pad$jose/id=b1716.14-per2
 

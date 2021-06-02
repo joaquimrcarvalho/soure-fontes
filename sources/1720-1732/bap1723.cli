@@ -1,4 +1,4 @@
-kleio$gacto2.str/translations=9
+kleio$gacto2.str/translations=12
    fonte$baptizados 1723/1723/paroquiais/auc/obs=em mau estado
 
       bap$b1723.01/4/1/1723/fol.42/local__igreja de sao tiago/celebrante__padre antonio da cruz
@@ -68,7 +68,7 @@ kleio$gacto2.str/translations=9
                   ls$residencia/simoes
 
             referida$maria joao/id=b1723.3-per6
-               ls$alcunha/a galega
+               ls$alcunha/galega
                ls$residencia/simoes
                rel$sociabilidade/baptizou em necessidade/maria/1723-b3-maria
 
@@ -385,7 +385,7 @@ kleio$gacto2.str/translations=9
             pn$manuel simoes cabeca/id=b1723.17-per1
                ls$naturalidade/chao de lamas
                ls$freguesia/espirito santo de lamas
-               ls$alcunha/o moco
+               ls$alcunha/moco
                ls$residencia/soure
 
             mn$luisa da silva/id=b1723.17-per2
@@ -418,7 +418,7 @@ kleio$gacto2.str/translations=9
                ls$residencia/simoes
 
                pmn$antonio simoes/id=b1723.18-per2
-                  ls$alcunha/o conde
+                  ls$alcunha/conde
                   ls$residencia/simoes
 
             pad$domingos da silva/id=1723-b18-domingos
@@ -627,7 +627,7 @@ kleio$gacto2.str/translations=9
                ls$naturalidade/bonitos
 
             pad$manuel goncalves branco/id=b1723.27-per4
-               ls$alcunha/o velho
+               ls$alcunha/velho
                ls$residencia/mogadouro
 
             mad$iria jacques/id=1723-b27-iria
@@ -1992,7 +1992,7 @@ kleio$gacto2.str/translations=9
                ls$naturalidade/casa velha
 
             pad$manueljorge/id=b1723.85-per4
-               ls$alcunha/o moco
+               ls$alcunha/moco
                ls$residencia/casa velha
 
             mad$maria lopes/id=b1723.85-per5
@@ -2007,7 +2007,7 @@ kleio$gacto2.str/translations=9
          n$maria/f/id=b1723.86-per1
 
             pn$manuel goncalves/id=b1723.86-per2
-               ls$alcunha/o moco
+               ls$alcunha/moco
                ls$naturalidade/olho marinho
                ls$residencia/soure
 
@@ -2059,7 +2059,7 @@ kleio$gacto2.str/translations=9
                ls$naturalidade/barrosos
 
             pad$manuel goncalves branco/id=b1723.88-per4
-               ls$alcunha/o velho
+               ls$alcunha/velho
                ls$residencia/mogadouro
 
             mad$maria goncalves/id=b1723.88-per5
