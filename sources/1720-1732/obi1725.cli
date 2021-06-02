@@ -1,4 +1,4 @@
-kleio$gacto2.str/translations=10
+kleio$gacto2.str/translations=12
    fonte$obitos 1725/1725/paroquiais/auc/obs=em mau estado
 
       obito$o1725.01/9/1/1725/fl.117v/celebrante__ vigario manuel rodrigues
@@ -360,7 +360,7 @@ kleio$gacto2.str/translations=10
          locs$ermida de sao joao baptista
 
          referida$maria gomes/id=o1725.25-per2
-            ls$alcunha/a triga
+            ls$alcunha/triga
             ls$residencia/paleao
             rel$sociabilidade/baptizou em necessidade/nome desconhecido/1725-o25-nome
 
@@ -904,7 +904,7 @@ kleio$gacto2.str/translations=10
       obito$o1725.63/31/10/1725/fl.126v/celebrante__ vigario manuel rodrigues
 
          n$maria francisca/f/id=o1725.63-per1
-            ls$alcunha/a branca
+            ls$alcunha/branca
             ls$residencia/casa velha
 
             marido$antonio rodrigues/id=o1725.63-per1-per2
@@ -999,7 +999,7 @@ kleio$gacto2.str/translations=10
       obito$o1725.69/20/11/1725/fl.127v/celebrante__ vigario manuel rodrigues
 
          n$antonio domingues/m/id=o1725.69-per1
-            ls$alcunha/o malhado
+            ls$alcunha/malhado
             ls$residencia/casais da misericordia
 
          locs$ermida de sao sebastiao no mogadouro
@@ -1180,7 +1180,7 @@ kleio$gacto2.str/translations=10
       obito$o1725.81/29/12/1725/fl.129/celebrante__ vigario manuel rodrigues
 
          n$maria rodrigues/f/id=o1725.81-per1
-            ls$alcunha/a naba
+            ls$alcunha/naba
             ls$residencia/cascao
 
          locs$ermida do divino espirito santo

@@ -1,4 +1,4 @@
-kleio$gacto2.str/translations=12
+kleio$gacto2.str/translations=15
    fonte$baptizados 1721/1721/paroquiais/auc/obs=em mau estado
 
       bap$b1721.01/4/1/1721/fol.2/local__igreja de sao tiago/celebrante__manuel rodrigues
@@ -158,7 +158,7 @@ kleio$gacto2.str/translations=12
                ls$residencia/simoes
 
                pmad$antonio simoes/id=b1721.7-per6
-                  ls$alcunha/o conde
+                  ls$alcunha/conde
                   ls$residencia/simoes
 
       bap$b1721.8/5/2/1721/fol.3/local__igreja de sao tiago/celebrante__manuel rodrigues
@@ -440,7 +440,7 @@ kleio$gacto2.str/translations=12
          n$francisco/m/id=1721-b21-francisco
 
             pn$antonio mateus/id=b1721.21-per1
-               ls$alcunha/o velho
+               ls$alcunha/velho
                ls$naturalidade/casal cimeiro
                ls$freguesia/figueiro do campo
                ls$residencia/soure
@@ -523,7 +523,7 @@ kleio$gacto2.str/translations=12
 
                mmad$maria joao/id=b1721.24-per5
                   ls$residencia/simoes
-                  ls$alcunha/a galega
+                  ls$alcunha/galega
 
       bap$b1721.25/17/4/1721/fol.5v/local__igreja de sao tiago/celebrante__padre manuel rodrigues alvaro
 
@@ -665,7 +665,7 @@ kleio$gacto2.str/translations=12
                ls$residencia/simoes
 
                mmad$maria joao/id=b1721.30-per6
-                  ls$alcunha/a galega
+                  ls$alcunha/galega
                   ls$residencia/simoes
 
       bap$b1721.31/2/4/1721/fol.6v-7/local__igreja de sao tiago/celebrante__frei joao cristovao
@@ -757,7 +757,7 @@ kleio$gacto2.str/translations=12
 
             mn$maria gomes/id=b1721.35-per1
                ls$ec/viuva
-               ls$alcunha/a condessa
+               ls$alcunha/condessa
                ls$naturalidade/casal do justo
                ls$residencia/soure
 
@@ -827,7 +827,7 @@ kleio$gacto2.str/translations=12
 
             mn$maria salvadora/id=b1721.38-per2
                ls$ec/solteira
-               ls$alcunha/a condessa
+               ls$alcunha/condessa
                ls$naturalidade/soure
                ls$residencia/bechos
 
@@ -1057,7 +1057,7 @@ kleio$gacto2.str/translations=12
          n$maria/f/id=b1721.48-per1
 
             pn$manuel domingues/id=b1721.48-per2
-               ls$alcunha/o moco
+               ls$alcunha/moco
                ls$naturalidade/casais da misericordia
                ls$residencia/casais da misericordia/obs=por cima dos simoes
 
@@ -1289,7 +1289,7 @@ kleio$gacto2.str/translations=12
                ls$freguesia/ega
 
             pad$antonio martins/id=b1721.58-per4
-               ls$alcunha/o moco
+               ls$alcunha/moco
                ls$profissao/ferreiro
                ls$residencia/soure
 
@@ -1435,7 +1435,7 @@ kleio$gacto2.str/translations=12
                ls$naturalidade/casais da misericordia
 
             pad$manuel goncalves branco/id=b1721.64-per4
-               ls$alcunha/o velho
+               ls$alcunha/velho
                ls$residencia/mogadouro
 
             mad$antonia goncalves/id=b1721.64-per5
@@ -2026,7 +2026,7 @@ kleio$gacto2.str/translations=12
                ls$residencia/espirito santo
 
                mrmad$manuel antunes/id=b1721.88-per5
-                  ls$alcunha/o moco
+                  ls$alcunha/moco
                   ls$residencia/espirito santo
 
             referido$domingos joao/id=b1721.88-per6
@@ -2188,7 +2188,7 @@ kleio$gacto2.str/translations=12
                ls$naturalidade/lousoes
 
             pad$manuel rodrigues/id=b1721.95-per3
-               ls$alcunha/o moco
+               ls$alcunha/moco
                ls$residencia/pancarpia
 
             mad$antonia cardosa/id=b1721.95-per4
@@ -2522,7 +2522,7 @@ kleio$gacto2.str/translations=12
                ls$naturalidade/alencarce de cim
 
             pad$manuel antunes/id=b1721.110-per4
-               ls$alcunha/o moco
+               ls$alcunha/moco
                ls$residencia/espirito santo
 
             mad$francisca leoa/id=b1721.110-per5
@@ -2706,6 +2706,6 @@ kleio$gacto2.str/translations=12
                rel$parentesco/pai/maria/1721-b117-maria
 
             referida$isabel raposa/id=b1721.117-per5
-               ls$alcunha/a labias
+               ls$alcunha/labias
                ls$residencia/soure
                rel$parentesco/mae/margarida/1721-b117-margarida

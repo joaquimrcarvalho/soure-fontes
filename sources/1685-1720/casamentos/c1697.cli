@@ -1,4 +1,4 @@
-kleio$gacto.str/gactoxml.str/translations=10
+kleio$gacto.str/gactoxml.str/translations=11
    fonte$casamentos 1697/tipo=reg paroquiais/data=16970000/localizacao=fol.?
 
       cas$c1697-47/14/1/1697/igreja matriz/luis alvares pinto
@@ -510,7 +510,7 @@ kleio$gacto.str/gactoxml.str/translations=10
 
          test$manuel domingues/id=c64-7
             ls$residencia/casconho
-            ls$alcunha/o mais velho
+            ls$alcunha/mais velho
 
          test$marcos joao/id=c64-8/obs=possivelmente filho de c64-2
             ls$residencia/simoes

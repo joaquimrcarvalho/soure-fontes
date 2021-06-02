@@ -1,4 +1,4 @@
-kleio$gacto2.str/translations=9
+kleio$gacto2.str/translations=11
    fonte$obitos 1722/1722/paroquiais/auc/obs=em mau estado
 
       obito$o1722.01/3/1/1722/fl.74/celebrante__ vigario manuel rodrigues
@@ -473,7 +473,7 @@ kleio$gacto2.str/translations=9
       obito$o1722.37/10/4/1722/fl.78v/celebrante__ vigario manuel rodrigues
 
          n$joao luis/m/id=o1722.37-per1
-            ls$alcunha/o moco
+            ls$alcunha/moco
             ls$residencia/vale da borra
 
          locs$adro
@@ -549,7 +549,7 @@ kleio$gacto2.str/translations=9
       obito$o1722.43/5/5/17122/fl.79v/celebrante__ vigario manuel rodrigues
 
          n$simao domingues/m/id=o1722.43-per1
-            ls$alcunha/o velho
+            ls$alcunha/velho
             ls$residencia/casconho
 
          locs$redinha
@@ -628,7 +628,7 @@ kleio$gacto2.str/translations=9
       obito$o1722.49/23/5/1722/fl.80/celebrante__ vigario manuel rodrigues
 
          n$manuel duarte/m/id=o1722.49-per1
-            ls$alcunha/o velho
+            ls$alcunha/velho
             ls$residencia/migalho
 
          locs$ermida de santo andre
@@ -991,7 +991,7 @@ kleio$gacto2.str/translations=9
       obito$o1722.77/13/9/1722/fl.83v/celebrante__ vigario manuel rodrigues
 
          n$manuel martins/id=o1722.77-per1
-            ls$alcunha/o moco
+            ls$alcunha/moco
             ls$residencia/cascao
 
          locs$igreja de sao tiago/obs=em cova da fabrica
@@ -1130,7 +1130,7 @@ kleio$gacto2.str/translations=9
       obito$o1722.86/13/10/1722/fl.84v-85/celebrante__ vigario manuel rodrigues
 
          n$isabel rodrigues/f/id=o1722.86-per1
-            ls$alcunha/a abegoa
+            ls$alcunha/abegoa
             ls$ec/viuva
             ls$residencia/soure
 

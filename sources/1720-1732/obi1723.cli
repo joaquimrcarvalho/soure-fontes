@@ -1,4 +1,4 @@
-kleio$gacto2.str/translations=11
+kleio$gacto2.str/translations=12
    fonte$obitos 1723/1723/paroquiais/auc/obs=em mau estado
 
       obito$o1723.01/1/1/1723/fl.88v/celebrante__ vigario manuel rodrigues
@@ -143,7 +143,7 @@ kleio$gacto2.str/translations=11
       obito$o1723.9/4/2/1723/fl.90/celebrante__ vigario manuel rodrigues
 
          n$antonio rodrigues/m/id=o1723.9-per1
-            ls$alcunha/o moco
+            ls$alcunha/moco
             ls$residencia/paleao
 
          locs$ermida de sao joao baptista
@@ -157,7 +157,7 @@ kleio$gacto2.str/translations=11
       obito$o1723.10/6/2/1723/fl.90/celebrante__ vigario manuel rodrigues
 
          n$joao simoes/id=o1723.10-per1
-            ls$alcunha/o montenegro
+            ls$alcunha/montenegro
             ls$residencia/casa velha
 
          locs$ermida na nossa senhora das neves
@@ -911,7 +911,7 @@ kleio$gacto2.str/translations=11
       obito$o1723.63/8/9/1723/fl.__96v/celebrante__ vigario manuel rodrigues
 
          n$antonio rodrigues/m/id=o1723.63-per1
-            ls$alcunha/o moco
+            ls$alcunha/moco
             ls$residencia/quinta da telhada
 
          locs$adro
@@ -1304,7 +1304,7 @@ kleio$gacto2.str/translations=11
             ls$residencia/lagem
 
             pai$manuel de oliveira/id=o1723.90-per1-per2
-               ls$alcunha/o moco
+               ls$alcunha/moco
                ls$residencia/lagem
 
             mae$isabel rodrigues/id=o1723.90-per1-per3
@@ -1523,7 +1523,7 @@ kleio$gacto2.str/translations=11
       obito$o1723.105/17/12/1723/fl.102v/celebrante__ vigario manuel rodrigues
 
          n$domingos alves/m/id=o1723.105-per1
-            ls$alcunha/o velho
+            ls$alcunha/velho
             ls$residencia/casalinhos
 
          locs$igreja de soa tiago/obs=em cova da fabrica

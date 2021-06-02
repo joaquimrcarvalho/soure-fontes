@@ -1,4 +1,4 @@
-kleio$gacto2.str/translations=21
+kleio$gacto2.str/translations=22
    fonte$n2.23/loc=AUC D-8-2-4/tipo=livro de notas/data=14031691/obs=legivel
 
       escritura$n.2.4.1/00/03/1691/obrigacao/fol=52-2v/loc=pousadas do tabeliao, em soure/obs= por eles foi dito que tinham umas terras no sitio do longa(?) termo da vila da ega - e nas quais terras tinham os orfaos seus filhos de sua primeira mulher isabel luis 7000 reis pouco mais ou menos
@@ -124,7 +124,7 @@ kleio$gacto2.str/translations=21
          test$inacio coelho de sequeira/m/id=n.2.4.9bis-per4
             ls$residencia/soure
             ls$assina/s
-            ls$alcunha/o moco
+            ls$alcunha/moco
 
       escritura$n.2.4.10bisbis/03/05/1691/procuracao/fol=510v-11/loc=moradas do tabeliao, em soure/obs= em especial confere poder para procurar numa causa de agravo crime que ele interpos do doutor corregedor dessa comarca de leiria que foi para a relacao da corte e cidade de lisboa o qual crime resulta duma devassa feita na dita vila de soure por provisao de sua magestade para saber um caso de morte que tinha acontecido em soure
 
@@ -140,7 +140,7 @@ kleio$gacto2.str/translations=21
          test$inacio coelho de sequeira/m/id=n.2.4.10bisbis-per3
             ls$residencia/soure
             ls$assina/s
-            ls$alcunha/o moco
+            ls$alcunha/moco
 
          test$manuel carvalho/m/id=n.2.4.10bisbis-per4
             ls$assina/+
@@ -386,7 +386,7 @@ kleio$gacto2.str/translations=21
          test$manuel simoes/m/id=n.2.4.21-per3
             ls$residencia/casa velha, termo de soure
             ls$assina/s
-            ls$alcunha/o velho
+            ls$alcunha/velho
 
          test$simao vaz/m/id=n.2.4.21-per4
             ls$assina/s

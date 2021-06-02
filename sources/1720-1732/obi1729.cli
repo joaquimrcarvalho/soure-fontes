@@ -1,4 +1,4 @@
-kleio$gacto2.str/translations=11
+kleio$gacto2.str/translations=13
    fonte$obito 1729/1729/paroquiais/auc/obs=em mau estado
 
       obito$o1729.01/2/1/1729/fl.26-26v/celebrante__ vigario manuel rodrigues
@@ -421,7 +421,7 @@ kleio$gacto2.str/translations=11
       obito$o1729.29/20/5/1729/fl.30v/celebrante__ vigario manuel rodrigues
 
          n$jose martins/m/id=o1729.29-per1
-            ls$alcunha/o carrapato
+            ls$alcunha/carrapato
             ls$residencia/soure
 
          locs$igreja de sao tiago/obs=em cova da fabrica
@@ -484,7 +484,7 @@ kleio$gacto2.str/translations=11
       obito$o1729.33/14/6/1729/fl.31/celebrante__ vigario manuel rodrigues
 
          n$manuel goncalves branco/id=o1729.33-per1
-            ls$alcunha/o velho
+            ls$alcunha/velho
             ls$residencia/mogadouro
 
          locs$igreja de sao tiago/obs=em cova da fabrica
@@ -1002,7 +1002,7 @@ kleio$gacto2.str/translations=11
       obito$o1729.66/1/11/1729/fl.35/celebrante__ vigario manuel rodrigues
 
          n$catarina rodrigues/f/id=o1729.66-per1
-            ls$alcunha/a belchiora
+            ls$alcunha/belchiora
             ls$ec/solteira
             ls$residencia/soure
 
@@ -1093,7 +1093,7 @@ kleio$gacto2.str/translations=11
             ls$residencia/paleao
 
             pai$manuel rodrigues/id=o1729.72-per1-per2
-               ls$alcunha/o moco
+               ls$alcunha/moco
                ls$residencia/paleao
                ls$morto/antes
 
@@ -1303,7 +1303,7 @@ kleio$gacto2.str/translations=11
       obito$o1729.86/29/12/1729/fl.37v/celebrante__ vigario manuel rodrigues
 
          n$joao da costa/m/id=o1729.86-per1
-            ls$alcunha/o velho
+            ls$alcunha/velho
             ls$residencia/casa de santo ildefonso
 
          locs$ermida de santo ildefonso

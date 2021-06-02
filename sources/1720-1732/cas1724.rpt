@@ -1,5 +1,5 @@
-ClioInput - version @@VERSION@@ - build @@BUILD@@ @@DATE@@
-27-4-2020 20-39
+KleioTranslator - server version 2021.A4 - build 1891 (master) 01/06/2021 08:41 
+1-6-2021 8-59
 
 Processing data file cas1724.cli
 -------------------------------------------
@@ -12,9 +12,15 @@ kleio translation started
 Structure: gacto2.str
 Prefix: 
 Autorel: 
-Translation count: 8
+Translation count: 9
 Obs: 
 ** Processing source fonte$casamentos 1724
+** Base name of file cas1724.cli
+
+WARNING: cas1724.cli line 3 * Warning: Filename should match source Id to avoid errors. File: cas1724.cli Id: casamentos 1724.
+Near lines: 3 
+Near line: 4       cas$c1724.01/2/1/1724/fol.315v/local__igreja de sao tiago/celebrante__vigario manuel rodrigues
+
 6: cas$c1724.01
 41: cas$c1724.2
 73: cas$c1724.3
@@ -48,10 +54,15 @@ Obs:
 1128: cas$c1724.31
 1165: cas$c1724.32
 *** End of File
-** Processed file- /Users/jrc/mhk-home/sources/soure-fontes/sources/soure_fase2/cas1724.cli
-** Original file- /Users/jrc/mhk-home/sources/soure-fontes/sources/soure_fase2/cas1724.org
-** Previous version- /Users/jrc/mhk-home/sources/soure-fontes/sources/soure_fase2/cas1724.old
-** Temp file with ids- /Users/jrc/mhk-home/sources/soure-fontes/sources/soure_fase2/cas1724.ids
+
+
+** Processed file- /kleio-home/sources/soure-fontes/sources/1720-1732/cas1724.cli
+** Original file- /kleio-home/sources/soure-fontes/sources/1720-1732/cas1724.org
+** Previous version- /kleio-home/sources/soure-fontes/sources/1720-1732/cas1724.old
+** Temp file with ids- /kleio-home/sources/soure-fontes/sources/1720-1732/cas1724.ids
+** - /kleio-home/sources/soure-fontes/sources/1720-1732/cas1724.cli-renamed to- /kleio-home/sources/soure-fontes/sources/1720-1732/cas1724.old
+** - /kleio-home/sources/soure-fontes/sources/1720-1732/cas1724.ids-renamed to- /kleio-home/sources/soure-fontes/sources/1720-1732/cas1724.cli
+** Translation files closed.
 0  errors. 
-0  warnings.
+1  warnings.
 Translation finished.

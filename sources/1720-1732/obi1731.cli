@@ -1,4 +1,4 @@
-kleio$gacto2.str/translations=10
+kleio$gacto2.str/translations=11
    fonte$obito 1731/1731/paroquiais/auc/obs=em mau estado
 
       obito$o1731.01/14/1/1731/fl.46v-47/celebrante__ vigario manuel rodrigues
@@ -388,7 +388,7 @@ kleio$gacto2.str/translations=10
             ls$residencia/marzagao
 
             pai$manuel goncalves/id=o1731.27-per1-per2
-               ls$alcunha/o moco
+               ls$alcunha/moco
                ls$residencia/marzagao
 
          locs$ermida de sao miguel em sobral
@@ -404,7 +404,7 @@ kleio$gacto2.str/translations=10
             ls$residencia/pancarpia
 
             pai$manuel rodrigues/id=o1731.28-per1-per2
-               ls$alcunha/o moco
+               ls$alcunha/moco
                ls$residencia/o moco
 
          locs$igreja de sao tiago/obs=em cova da fabrica
@@ -957,7 +957,7 @@ kleio$gacto2.str/translations=10
             ls$residencia/presa
 
             pai$manuel antunes/id=o1731.66-per1-per2
-               ls$alcunha/o moco
+               ls$alcunha/moco
                ls$residencia/presa
 
             mae$catarina rodrigues/id=o1731.66-per1-per3
@@ -1033,7 +1033,7 @@ kleio$gacto2.str/translations=10
             ls$naturalidade/oureca
 
             pai$manuel simoes/id=1731-o71-simoes
-               ls$alcunha/o moco
+               ls$alcunha/moco
                ls$residencia/oureca
 
             mae$natalia rodrigues/id=1731-o71-manuel-per1

@@ -1,4 +1,4 @@
-kleio$gacto2.str/translations=6
+kleio$gacto2.str/translations=8
    fonte$baptizados 1726/1726/paroquiais/auc/obs=em muito mau estado
 
       bap$b1726.01/3/1/1726/fol.95v/igreja de sao tiago/vigario manuel rodrigues
@@ -297,7 +297,7 @@ kleio$gacto2.str/translations=6
 
             mn$isabel/id=b1726.13-per2
                ls$ec/solteira
-               ls$alcunha/a amara
+               ls$alcunha/amara
                ls$naturalidade/paleao
                ls$residencia/paleao
 
@@ -1556,7 +1556,7 @@ kleio$gacto2.str/translations=6
             mad$maria francisca/id=b1726.67-per4
 
                mrmad$manuel jorge/id=b1726.67-per5
-                  ls$alcunha/o moco
+                  ls$alcunha/moco
                   ls$residencia/marzagao
 
             referido$joao gaspar/id=b1726.67-per6
@@ -1769,7 +1769,7 @@ kleio$gacto2.str/translations=6
                ls$naturalidade/simoes
 
             pad$manuel goncalves branco/id=b1726.76-per4
-               ls$alcunha/o moco
+               ls$alcunha/moco
                ls$residencia/mogadouro
 
             mad$maria/id=b1726.76-per5
@@ -1792,7 +1792,7 @@ kleio$gacto2.str/translations=6
                ls$naturalidade/presa
 
             pad$manuel antunes/id=b1726.77-per4
-               ls$alcunha/o moco
+               ls$alcunha/moco
                ls$residencia/presa
 
             mad$luisa/id=b1726.77-per5
@@ -1800,7 +1800,7 @@ kleio$gacto2.str/translations=6
                ls$residencia/presa
 
                pmad$manuel antunes/id=b1726.77-per6
-                  ls$alcunha/o velho
+                  ls$alcunha/velho
                   ls$residencia/presa
 
       bap$b1726.78/22/9/1726/fol.108v-109/igreja de sao tiago/padre joao gaspar
@@ -1892,7 +1892,7 @@ kleio$gacto2.str/translations=6
                ls$naturalidade/lousoes
 
             pad$manuel rodrigues/id=b1726.81-per4
-               ls$alcunha/o moco
+               ls$alcunha/moco
                ls$residencia/pencarpia
 
             mad$esperanca/id=b1726.81-per5
@@ -1979,7 +1979,7 @@ kleio$gacto2.str/translations=6
                ls$freguesia/lourical
 
             pad$manuel goncalves branco/id=b1726.85-per4
-               ls$alcunha/o moco
+               ls$alcunha/moco
                ls$residencia/mogadouro
 
             mad$antonia/id=b1726.85-per5

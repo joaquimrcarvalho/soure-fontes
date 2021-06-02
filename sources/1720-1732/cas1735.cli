@@ -1,4 +1,4 @@
-kleio$gacto2.str/translations=7
+kleio$gacto2.str/translations=9
    fonte$casamentos 1735/1735/paroquiais/auc/obs=em muito mau estado
 
       cas$c1735.01/3/1/1735/fol.376/local__igreja de sao tiago/celebrante__vigario manuel rodrigues
@@ -88,7 +88,7 @@ kleio$gacto2.str/translations=7
             mnoiva$antonia goncalves/id=c1735.2-per6
 
          test$manuel/id=c1735.2-per7
-            ls$alcunha/o moco
+            ls$alcunha/moco
             ls$residencia/vale da borra
 
          test$luis goncalves/id=c1735.2-per8
@@ -703,7 +703,7 @@ kleio$gacto2.str/translations=7
             ls$residencia/simoes
 
             mnoiva$maria joao/id=c1735.19-per5
-               ls$alcunha/a galega
+               ls$alcunha/galega
                ls$ec/solteira
                ls$residencia/simoes
 
@@ -1057,11 +1057,11 @@ kleio$gacto2.str/translations=7
             ls$residencia/carvalheira de cima
 
          test$manuel rodrigues calhau/id=c1735.29-per8
-            ls$alcunha/o moco
+            ls$alcunha/moco
             ls$residencia/porto coelheiro
 
          test$manuel rodrigues calhau/id=c1735.29-per9
-            ls$alcunha/o velho
+            ls$alcunha/velho
             ls$residencia/porto coelheiro
 
          test$manuel lourenco/id=c1735.29-per10
@@ -1257,7 +1257,7 @@ kleio$gacto2.str/translations=7
             ls$residencia/vale do nabal
 
          test$antinio marques/id=c1735.35-per10
-            ls$alcunha/o moco
+            ls$alcunha/moco
             ls$residencia/vale do nabal
 
       cas$c1735.36/8/10/1735/fol.382v/local__igreja de sao tiago/celebrante__vigario manuel rodrigues/obs=os noivos tem quarto grau de consanguinidade
@@ -1449,7 +1449,7 @@ kleio$gacto2.str/translations=7
             ls$residencia/casconho
 
          test$manuel joao/id=c1735.41-per10
-            ls$alcunha/o moco
+            ls$alcunha/moco
             ls$residencia/casconho
 
       cas$c1735.42/7/11/1735/fol.384v/local__ermida de sao miguel em sobral/celebrante__padre jose mendes

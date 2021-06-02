@@ -1,4 +1,4 @@
-kleio$gacto2.str/translations=7
+kleio$gacto2.str/translations=8
    fonte$casamentos 1725/1725/paroquiais/auc/obs=em muito mau estado
 
       cas$c1725.01/8/1/1725/fol.324/local__igreja de sao tiago/celebrante__manuel rodrigues
@@ -839,7 +839,7 @@ kleio$gacto2.str/translations=7
                ls$residencia/mogadouro
 
          test$manuel goncalves branco/id=1725-c26-manuel
-            ls$alcunha/o moco
+            ls$alcunha/moco
             ls$residencia/mogadouro
 
          test$clara rodrigues/id=c1725.26-per7

@@ -1,4 +1,4 @@
-kleio$gacto2.str/translations=11
+kleio$gacto2.str/translations=14
    fonte$obitos 1721/1721/paroquiais/auc/obs=em mau estado
 
       obito$o1721.01/4/1/1721/fl.60v/celebrante__ vigario manuel rodrigues
@@ -148,7 +148,7 @@ kleio$gacto2.str/translations=11
       obito$o1721.13/9/4/1721/fl.62/celebrante__ vigario manuel rodrigues
 
          n$maria francisca/f/id=o1721.13-per1
-            ls$alcunha/a canhenha
+            ls$alcunha/canhenha
             ls$ec/viuva
             ls$residencia/simoes
 
@@ -163,7 +163,7 @@ kleio$gacto2.str/translations=11
       obito$o1721.14/13/4/1721/fl.62/celebrante__ vigario manuel rodrigues
 
          n$maria simoes/f/id=o1721.14-per1
-            ls$alcunha/a manca
+            ls$alcunha/manca
             ls$residencia/barrosos
 
          locs$ermida de sao sabastiao no mogadouro
@@ -790,7 +790,7 @@ kleio$gacto2.str/translations=11
             ls$residencia/casais da misericordia
 
             pai$manuel domingues/id=o1721.58-per1-per2
-               ls$alcunha/o moco
+               ls$alcunha/moco
                ls$residencia/casais da misericordia
 
          locs$igreja de sao tiago/obs=em cova da fabrica
@@ -1074,7 +1074,7 @@ kleio$gacto2.str/translations=11
       obito$o1721.80/17/11/1721/fl.71/celebrante__ vigario manuel rodrigues
 
          n$antonio simoes/id=o1721.80-per1
-            ls$alcunha/o conde
+            ls$alcunha/conde
             ls$residencia/simoes
 
          locs$adro

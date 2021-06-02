@@ -1,4 +1,4 @@
-kleio$acto2.str/translations=9
+kleio$acto2.str/translations=10
    fonte$baptizados 1731/1731/paroquiais/auc/obs=em muito mau estado
 
       bap$b1731.01/7/1/1731/fol.181/igreja de sao tiago/padre manuel rodrigues alvaro
@@ -496,7 +496,7 @@ kleio$acto2.str/translations=9
             mad$francisca/id=b1731.23-per5
 
                pmad$manuel rodrigues/id=b1731.23-per6
-                  ls$alcunha/o velho
+                  ls$alcunha/velho
                   ls$residencia/pencarpia
 
       bap$b1731.24/17/4/1731/fol.184v-185/igreja de sao tiago/vigario manuel rodrigues
@@ -1423,7 +1423,7 @@ kleio$acto2.str/translations=9
          n$leonel/m/id=b1731.71-per1
 
             pn$manuel joao/id=b1731.71-per2
-               ls$alcunha/o moco
+               ls$alcunha/moco
                ls$naturalidade/areias
                ls$residencia/areias
 
@@ -1438,7 +1438,7 @@ kleio$acto2.str/translations=9
                ls$ec/solteira
 
                pmad$manuel joao/id=b1731.71-per6
-                  ls$alcunha/o velho
+                  ls$alcunha/velho
 
       bap$b1731.72/20/10/1731/fol.192/igreja de sao tiago/padre joao gaspar
 
