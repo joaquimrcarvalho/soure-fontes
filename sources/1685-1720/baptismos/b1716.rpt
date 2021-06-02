@@ -1,5 +1,5 @@
-KleioTranslator - server version 2019.A2 - build 290 (Import-identifications) 18/08/2020 17:07 
-18-8-2020 16-15
+KleioTranslator - server version 2021.A4 - build 1891 (master) 01/06/2021 08:41 
+2-6-2021 5-5
 
 Processing data file b1716.cli
 -------------------------------------------
@@ -12,9 +12,15 @@ kleio translation started
 Structure: gacto.str
 Prefix: 
 Autorel: 
-Translation count: 36
+Translation count: 37
 Obs: 
 ** Processing source fonte$baptismos 1716
+** Base name of file b1716.cli
+
+WARNING: b1716.cli line 3 * Warning: Filename should match source Id to avoid errors. File: b1716.cli Id: baptismos 1716.
+Near lines: 3 
+Near line: 4       bap$b1716.1/5/1/1716/?/igreja de s. tiago
+
 6: bap$b1716.1
 18: bap$b1716.2
 35: bap$b1716.3
@@ -29,98 +35,98 @@ Obs:
 237: bap$b1716.12
 255: bap$b1716.13
 276: bap$b1716.14
-290: bap$b1716.15
-310: bap$b1716.16
-328: bap$b1716.17
-345: bap$b1716.18
-367: bap$b1716.19
-391: bap$b1716.20
-411: bap$b1716.21
-435: bap$b1716.22
-455: bap$b1716.23
-476: bap$b1716.24
-493: bap$b1716.25
-516: bap$b1716.26
-537: bap$b1716.27
-555: bap$b1716.28
-576: bap$b1716.28b
-595: bap$b1716.28c
-616: bap$b1716.29
-637: bap$b1716.30
-659: bap$b1716.31
-679: bap$b1716.32
-698: bap$b1716.33
-716: bap$b1716.34
-744: bap$b1716.35
-762: bap$b1716.36
-783: bap$b1716.37
-807: bap$b1716.38
-830: bap$b1716.39
-850: bap$b1716.40
-872: bap$b1716.41
-886: bap$b1716.42
-907: bap$b1716.43
-934: bap$b1716.44
-954: bap$b1716.45
-972: bap$b1716.46
-993: bap$b1716.47
-1012: bap$b1716.48
-1031: bap$b1716.49
-1053: bap$b1716.50
-1071: bap$b1716.51
-1089: bap$b1716.52
-1109: bap$b1716.53
-1128: bap$b1716.54
-1158: bap$b1716.55
-1182: bap$b1716.56
-1201: bap$b1716.57
-1218: bap$b1716.58
-1235: bap$b1716.59
-1256: bap$b1716.60
-1276: bap$b1716.61
-1294: bap$b1716.62
-1314: bap$b1716.63
-1333: bap$b1716.64
-1355: bap$b1716.65
-1375: bap$b1716.66
-1399: bap$b1716.67
-1419: bap$b1716.68
-1433: bap$b1716.69
-1451: bap$b1716.70
-1477: bap$b1716.71
-1500: bap$b1716.72
-1523: bap$b1716.73
-1543: bap$b1716.74
-1563: bap$b1716.75
-1590: bap$b1716.76
-1608: bap$b1716.77
-1628: bap$b1716.78
-1646: bap$b1716.79
-1665: bap$b1716.80
-1685: bap$b1716.81
-1705: bap$b1716.82
-1721: bap$b1716.83
-1740: bap$b1716.84
-1756: bap$b1716.85
-1774: bap$b1716.86
-1794: bap$b1716.87
-1815: bap$b1716.88
-1835: bap$b1716.89
-1854: bap$b1716.90
-1874: bap$b1716.91
-1909: bap$b1716.92
-1926: bap$b1716.93
-1945: bap$b1716.94
-1964: bap$b1716.95
-1988: bap$b1716.96
-2012: bap$b1716.97
+295: bap$b1716.15
+315: bap$b1716.16
+333: bap$b1716.17
+350: bap$b1716.18
+372: bap$b1716.19
+396: bap$b1716.20
+416: bap$b1716.21
+440: bap$b1716.22
+460: bap$b1716.23
+481: bap$b1716.24
+498: bap$b1716.25
+521: bap$b1716.26
+542: bap$b1716.27
+560: bap$b1716.28
+581: bap$b1716.28b
+600: bap$b1716.28c
+621: bap$b1716.29
+642: bap$b1716.30
+664: bap$b1716.31
+684: bap$b1716.32
+703: bap$b1716.33
+721: bap$b1716.34
+749: bap$b1716.35
+767: bap$b1716.36
+788: bap$b1716.37
+812: bap$b1716.38
+835: bap$b1716.39
+855: bap$b1716.40
+877: bap$b1716.41
+891: bap$b1716.42
+912: bap$b1716.43
+939: bap$b1716.44
+959: bap$b1716.45
+977: bap$b1716.46
+998: bap$b1716.47
+1017: bap$b1716.48
+1036: bap$b1716.49
+1058: bap$b1716.50
+1076: bap$b1716.51
+1094: bap$b1716.52
+1114: bap$b1716.53
+1133: bap$b1716.54
+1163: bap$b1716.55
+1187: bap$b1716.56
+1206: bap$b1716.57
+1223: bap$b1716.58
+1240: bap$b1716.59
+1261: bap$b1716.60
+1281: bap$b1716.61
+1299: bap$b1716.62
+1319: bap$b1716.63
+1338: bap$b1716.64
+1360: bap$b1716.65
+1380: bap$b1716.66
+1404: bap$b1716.67
+1424: bap$b1716.68
+1438: bap$b1716.69
+1456: bap$b1716.70
+1482: bap$b1716.71
+1505: bap$b1716.72
+1528: bap$b1716.73
+1548: bap$b1716.74
+1568: bap$b1716.75
+1595: bap$b1716.76
+1613: bap$b1716.77
+1633: bap$b1716.78
+1651: bap$b1716.79
+1670: bap$b1716.80
+1690: bap$b1716.81
+1710: bap$b1716.82
+1726: bap$b1716.83
+1745: bap$b1716.84
+1761: bap$b1716.85
+1779: bap$b1716.86
+1799: bap$b1716.87
+1820: bap$b1716.88
+1840: bap$b1716.89
+1859: bap$b1716.90
+1879: bap$b1716.91
+1914: bap$b1716.92
+1931: bap$b1716.93
+1950: bap$b1716.94
+1969: bap$b1716.95
+1993: bap$b1716.96
+2017: bap$b1716.97
 *** End of File
 
-Line 919 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (c6-7-anta) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
-Line 1619 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (c1708.23-8) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
-Line 1621 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (c6-7-josa) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
-Line 1999 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (c1708.23-8) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
-Line 2001 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (c6-7-josa) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 924 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (c6-7-anta) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 1624 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (c1708.23-8) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 1626 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (c6-7-josa) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 2004 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (c1708.23-8) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
+Line 2006 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (c6-7-josa) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
 
 ** Processed file- /kleio-home/sources/soure-fontes/sources/1685-1720/baptismos/b1716.cli
 ** Original file- /kleio-home/sources/soure-fontes/sources/1685-1720/baptismos/b1716.org
@@ -130,5 +136,5 @@ Line 2001 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (c6-7-josa) CHECK IF IT EXIST
 ** - /kleio-home/sources/soure-fontes/sources/1685-1720/baptismos/b1716.ids-renamed to- /kleio-home/sources/soure-fontes/sources/1685-1720/baptismos/b1716.cli
 ** Translation files closed.
 0  errors. 
-0  warnings.
+1  warnings.
 Translation finished.
