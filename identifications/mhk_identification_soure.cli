@@ -1,6 +1,6 @@
-kleio$gacto2.str/authorities/Generated from database soure_editor by user soure, file date: +2021-05-31 Timestamp:2021-05-31T14:36:58.357Z/translations=1
+kleio$gacto2.str/authorities/Generated from database soure_editor by user soure, file date: +2021-06-03 Timestamp:2021-06-03T08:31:55.603Z/translations=1
 
-   identifications$real-entities-soure/Real entities, including real persons and real objects/dbase=soure_editor/user=soure/date=20210531/mode=backup
+   identifications$real-entities-soure/Real entities, including real persons and real objects/dbase=soure_editor/user=soure/date=20210603/mode=backup
 
       rperson$rp-1616/afonso joao de carvalho/m/status=N
 
@@ -637,6 +637,18 @@ kleio$gacto2.str/authorities/Generated from database soure_editor by user soure,
          occ$b1718.71-per1-per2/id=rp-1738-occ1
 
          occ$b1726.91-per2/id=rp-1738-occ2
+
+      rperson$rp-4356/antonia carvalho/f/status=N
+
+         occ$b1720.78-per6/id=rp-4356-occ1
+
+         occ$br04081720/id=rp-4356-occ2
+
+      rperson$rp-4357/antonia carvalho/f/status=N
+
+         occ$1720-o85-antonia/id=rp-4357-occ1
+
+         occ$on30101720-per1/id=rp-4357-occ2
 
       rperson$rp-1812/antonia de carvalho/f/status=N
 
@@ -1936,6 +1948,12 @@ kleio$gacto2.str/authorities/Generated from database soure_editor by user soure,
 
          occ$amz10-per7/id=rp-645-occ7
 
+      rperson$rp-11665/antonio simoes/m/status=N
+
+         occ$o1700-2550-per1-per2/id=rp-11665-occ1
+
+         occ$c310-2/id=rp-11665-occ2
+
       rperson$rp-216/antonio simoes/m
 
          occ$b1694.55-per5/id=rp-216-occ1
@@ -1947,6 +1965,10 @@ kleio$gacto2.str/authorities/Generated from database soure_editor by user soure,
          occ$d1692-2097a/id=rp-429-occ1
 
          occ$c1692-antonio-simoes-maria-domingues-per17/id=rp-429-occ2
+
+         occ$b1689.94-per6/id=rp-429-occ3
+
+         occ$c1694.8-per4/id=rp-429-occ4
 
       rperson$rp-7/antonio simoes/m
 
@@ -3669,6 +3691,12 @@ kleio$gacto2.str/authorities/Generated from database soure_editor by user soure,
          occ$c1708.24-7/id=rp-104-occ2
 
          occ$c1708.26-8/id=rp-104-occ3
+
+      rperson$rp-11672/franciso antonio soares coelho/m/status=N/obs=teve dispensa de terceiro grau de consanguinidade para casar
+
+         occ$b1712.16-per1/id=rp-11672-occ1
+
+         occ$po58-per1-per2/id=rp-11672-occ2
 
       rperson$rp-692/gabriel da costa gramaxo/m
 
@@ -5746,6 +5774,12 @@ kleio$gacto2.str/authorities/Generated from database soure_editor by user soure,
 
          occ$n.2.4.10bisbis-per1/id=rp-587-occ1
 
+      rperson$rp-11667/joao rodrigues/m/status=N
+
+         occ$d1692-2098/id=rp-11667-occ1
+
+         occ$cnoivo21021694/id=rp-11667-occ2
+
       rperson$rp-1774/joao rodrigues/m/status=N
 
          occ$not32x-per2/id=rp-1774-occ1
@@ -7030,11 +7064,23 @@ kleio$gacto2.str/authorities/Generated from database soure_editor by user soure,
 
          occ$emz1-5-per12-13/id=rp-821-occ2
 
-      rperson$rp-1569/lourenco brandao/m/status=N
+      rperson$rp-11670/lourenco brandao/m/status=N
 
-         occ$b1696.69-per4/id=rp-1569-occ1
+         occ$b1696.69-per4/id=rp-11670-occ1
 
-         occ$bpad01031712/id=rp-1569-occ2
+         occ$bpad01031712/id=rp-11670-occ2
+
+         occ$cnoivo04111694/id=rp-11670-occ3
+
+         occ$b1695.81-per1-per2/id=rp-11670-occ4
+
+         occ$b1710.73-per5/id=rp-11670-occ5
+
+         occ$b1711.88-per4/id=rp-11670-occ6
+
+         occ$o1715-3641-per1-per2/id=rp-11670-occ7
+
+         occ$o1718-3935-per1/id=rp-11670-occ8
 
       rperson$rp-1587/luis/m/status=N
 
@@ -7642,12 +7688,6 @@ kleio$gacto2.str/authorities/Generated from database soure_editor by user soure,
 
          occ$b502051720b/id=rp-1782-occ2
 
-      rperson$rp-298/luisa/f
-
-         occ$b1710.73-per6/id=rp-298-occ1
-
-         occ$bmpad17081710/id=rp-298-occ2
-
       rperson$rp-796/luisa/f
 
          occ$b1690.51-per1/id=rp-796-occ1
@@ -7686,15 +7726,23 @@ kleio$gacto2.str/authorities/Generated from database soure_editor by user soure,
 
       rperson$rp-743/luisa maria/f
 
-         occ$b1690.51-per5/id=rp-743-occ1
+         occ$b1710.73-per6/id=rp-743-occ1
 
-         occ$b1692.42-per5/id=rp-743-occ2
+         occ$bmpad17081710/id=rp-743-occ2
 
-         occ$b1693.39-per5/id=rp-743-occ3
+         occ$b1690.51-per5/id=rp-743-occ3
 
-         occ$b1694.9-per5/id=rp-743-occ4
+         occ$b1692.42-per5/id=rp-743-occ4
 
-         occ$c1694.23-per1/id=rp-743-occ5
+         occ$b1693.39-per5/id=rp-743-occ5
+
+         occ$b1694.9-per5/id=rp-743-occ6
+
+         occ$c1694.23-per1/id=rp-743-occ7
+
+         occ$b1695.81-per1-per3/id=rp-743-occ8
+
+         occ$b1712.16-per5/id=rp-743-occ9
 
       rperson$rp-547/luisa maria de oliveira/f
 
@@ -8220,6 +8268,54 @@ kleio$gacto2.str/authorities/Generated from database soure_editor by user soure,
 
          occ$nm210-p1/id=rp-674-occ2
 
+      rperson$rp-11674/manuel dias/m/status=N
+
+         occ$b1686.39-per1-per2/id=rp-11674-occ1
+
+         occ$c1714.9-per2/id=rp-11674-occ2
+
+      rperson$rp-11675/manuel dias/m/status=N
+
+         occ$b1719.13-per1-per2/id=rp-11675-occ1
+
+         occ$b1724.30-per2/id=rp-11675-occ2
+
+         occ$b1727.15-per2/id=rp-11675-occ3
+
+         occ$b1730.01-per2/id=rp-11675-occ4
+
+         occ$b1732.18-per2/id=rp-11675-occ5
+
+         occ$b1721.39-per2/id=rp-11675-occ6
+
+      rperson$rp-11676/manuel dias/m/status=N
+
+         occ$b1689.70-per1-per2/id=rp-11676-occ1
+
+         occ$b1693.25-per1-per2/id=rp-11676-occ2
+
+         occ$b1700.46-per1-per2/id=rp-11676-occ3
+
+      rperson$rp-11677/manuel dias/m/status=N
+
+         occ$b1702.56-per1-per2/id=rp-11677-occ1
+
+         occ$bpai23051702/id=rp-11677-occ2
+
+         occ$b1696.14-per1-per2/id=rp-11677-occ3
+
+         occ$b1699.74-per1-per2/id=rp-11677-occ4
+
+         occ$b1706.9-per1-per2/id=rp-11677-occ5
+
+         occ$c1721.12-per2/id=rp-11677-occ6
+
+      rperson$rp-11678/manuel dias/m/status=N
+
+         occ$po24-per1-per2-per3/id=rp-11678-occ1
+
+         occ$po27-per1-per2-per3/id=rp-11678-occ2
+
       rperson$rp-1726/manuel dias/m/status=N
 
          occ$o1720-4159-per1-per2/id=rp-1726-occ1
@@ -8234,11 +8330,7 @@ kleio$gacto2.str/authorities/Generated from database soure_editor by user soure,
 
          occ$c1729.15-per5/id=rp-1726-occ6
 
-      rperson$rp-246/manuel dias/m
-
-         occ$b1702.56-per1-per2/id=rp-246-occ1
-
-         occ$bpai23051702/id=rp-246-occ2
+         occ$b1718.83-per1-per2/id=rp-1726-occ7
 
       rperson$rp-753/manuel dias duqueso/m
 
@@ -9478,6 +9570,16 @@ kleio$gacto2.str/authorities/Generated from database soure_editor by user soure,
 
          occ$emz5-7-per4-11/id=rp-716-occ4
 
+      rperson$rp-11673/manuel rodrigues/m/status=N
+
+         occ$c191-7/id=rp-11673-occ1
+
+         occ$o1706-3036-per1-per2/id=rp-11673-occ2
+
+         occ$o1715-3687-per1-per2/id=rp-11673-occ3
+
+         occ$o1717-3924-per1/id=rp-11673-occ4
+
       rperson$rp-130/manuel rodrigues/m
 
          occ$b1714.78e-per1-per2/id=rp-130-occ1
@@ -9862,6 +9964,18 @@ kleio$gacto2.str/authorities/Generated from database soure_editor by user soure,
 
          occ$bpad03051711/id=rp-1749-occ1
 
+      rperson$rp-11668/manuel simoes/m/status=N
+
+         occ$b1710.73-per1-per2/id=rp-11668-occ1
+
+         occ$b1715.55-per1-per2/id=rp-11668-occ2
+
+         occ$or21121715b/id=rp-11668-occ3
+
+         occ$c310-1/id=rp-11668-occ4
+
+         occ$c1729.3-per2/id=rp-11668-occ5
+
       rperson$rp-12/manuel simoes/m/obs=provavelmente o mesmo que c7-7
 
          occ$c29-8/id=rp-12-occ1
@@ -10075,6 +10189,14 @@ kleio$gacto2.str/authorities/Generated from database soure_editor by user soure,
          occ$emz1-28-per5-13/id=rp-742-occ62
 
          occ$emz2-3-per3-12/id=rp-742-occ63
+
+         occ$br17101695/id=rp-742-occ64
+
+         occ$not2.6.22x-per1/id=rp-742-occ65
+
+         occ$not2.6.116x-per1/id=rp-742-occ66
+
+         occ$po59-per1-per2-per3/id=rp-742-occ67
 
       rperson$rp-1705/manuel soares galvao/m/status=N
 
@@ -10543,6 +10665,18 @@ kleio$gacto2.str/authorities/Generated from database soure_editor by user soure,
          occ$c25-6/id=rp-10-occ1
 
          occ$c24-6/id=rp-10-occ2
+
+      rperson$rp-11669/maria gomes/f/status=N
+
+         occ$c310-4/id=rp-11669-occ1
+
+         occ$b1710.73-per1-per3/id=rp-11669-occ2
+
+         occ$b1715.55-per1-per3/id=rp-11669-occ3
+
+         occ$or21121715/id=rp-11669-occ4
+
+         occ$c1729.3-per3/id=rp-11669-occ5
 
       rperson$rp-1633/maria gomes/f/status=N
 
@@ -11534,6 +11668,20 @@ kleio$gacto2.str/authorities/Generated from database soure_editor by user soure,
 
          occ$o1724.62-per1/id=rp-1550-occ2
 
+      rperson$rp-11671/micaela josefa de andrade/f/status=N
+
+         occ$b1689.38-per5/id=rp-11671-occ1
+
+         occ$not2.6.22x-per1-per2/id=rp-11671-occ2
+
+         occ$not2.6.116x-per1-per2/id=rp-11671-occ3
+
+         occ$po60-per1-per2-per6/id=rp-11671-occ4
+
+         occ$po59-per1-per2-per4/id=rp-11671-occ5
+
+         occ$po58-per1-per2-per6/id=rp-11671-occ6
+
       rperson$rp-1566/micaela luisa de almeida/f/status=N
 
          occ$b1707.53-per5/id=rp-1566-occ1
@@ -12217,6 +12365,10 @@ kleio$gacto2.str/authorities/Generated from database soure_editor by user soure,
          occ$b1723.50-per4/id=rp-1567-occ5
 
          occ$1725-b57-placido/id=rp-1567-occ6
+
+         occ$po60-per1-per2/id=rp-1567-occ7
+
+         occ$po59-per1-per2/id=rp-1567-occ8
 
       rperson$rp-250/placido/m
 
@@ -13287,6 +13439,12 @@ kleio$gacto2.str/authorities/Generated from database soure_editor by user soure,
          occ$b1732.40-per2/id=rp-1549-occ5
 
          occ$b1728.92-per3/id=rp-1549-occ6
+
+      rperson$rp-11666/teresa de encarnacao/f/status=N
+
+         occ$d1692-2097/id=rp-11666-occ1
+
+         occ$c1694.8-per3/id=rp-11666-occ2
 
       rperson$rp-1682/teresa de jesus/f/status=N
 

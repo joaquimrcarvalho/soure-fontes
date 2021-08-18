@@ -1,4 +1,3 @@
-
-*.old
-*.ids
 .DS_Store
+.vscode/settings.json
+notebooks/__pycache__
