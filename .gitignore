@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 
 *.old
 *.ids
 .DS_Store
+=======
+.DS_Store
+.vscode/settings.json
+notebooks/__pycache__
+>>>>>>> 2f16a12fba109162b1cad82fb76aa7b07f0fddaa
