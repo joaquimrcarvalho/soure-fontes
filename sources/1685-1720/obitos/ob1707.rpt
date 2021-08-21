@@ -1,5 +1,5 @@
-KleioTranslator - server version 2021.A4 - build 1889 (master) 31/05/2021 11:52 
-31-5-2021 10-22
+KleioTranslator - server version 2021.A4 - build 1967 (master) 18/08/2021 22:05 
+21-8-2021 8-34
 
 Processing data file ob1707.cli
 -------------------------------------------
@@ -12,15 +12,10 @@ kleio translation started
 Structure: gacto2.str
 Prefix: 
 Autorel: 
-Translation count: 12
+Translation count: 13
 Obs: 
-** Processing source fonte$obitos-1707
-** Base name of file ob1707.cli
-
-WARNING: ob1707.cli line 3 * Warning: Filename should match source Id to avoid errors. File: ob1707.cli Id: obitos-1707.
-Near lines: 3 
-Near line: 4       obito$o1707-3060/11/1/1707
-
+** Processing source fonte$ob1707
+** Base name of file ob1707 in ob1707.cli
 6: obito$o1707-3060
 19: obito$o1707-3061
 32: obito$o1707-3062
@@ -85,5 +80,5 @@ Near line: 4       obito$o1707-3060/11/1/1707
 ** - /kleio-home/sources/soure-fontes/sources/1685-1720/obitos/ob1707.ids-renamed to- /kleio-home/sources/soure-fontes/sources/1685-1720/obitos/ob1707.cli
 ** Translation files closed.
 0  errors. 
-1  warnings.
+0  warnings.
 Translation finished.

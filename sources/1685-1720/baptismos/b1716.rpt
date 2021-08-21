@@ -1,5 +1,5 @@
-KleioTranslator - server version 2021.A4 - build 1891 (master) 01/06/2021 08:41 
-2-6-2021 5-5
+KleioTranslator - server version 2021.A4 - build 1967 (master) 18/08/2021 22:05 
+21-8-2021 8-29
 
 Processing data file b1716.cli
 -------------------------------------------
@@ -12,15 +12,10 @@ kleio translation started
 Structure: gacto.str
 Prefix: 
 Autorel: 
-Translation count: 37
+Translation count: 38
 Obs: 
-** Processing source fonte$baptismos 1716
-** Base name of file b1716.cli
-
-WARNING: b1716.cli line 3 * Warning: Filename should match source Id to avoid errors. File: b1716.cli Id: baptismos 1716.
-Near lines: 3 
-Near line: 4       bap$b1716.1/5/1/1716/?/igreja de s. tiago
-
+** Processing source fonte$b1716
+** Base name of file b1716 in b1716.cli
 6: bap$b1716.1
 18: bap$b1716.2
 35: bap$b1716.3
@@ -136,5 +131,5 @@ Line 2006 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (c6-7-josa) CHECK IF IT EXIST
 ** - /kleio-home/sources/soure-fontes/sources/1685-1720/baptismos/b1716.ids-renamed to- /kleio-home/sources/soure-fontes/sources/1685-1720/baptismos/b1716.cli
 ** Translation files closed.
 0  errors. 
-1  warnings.
+0  warnings.
 Translation finished.

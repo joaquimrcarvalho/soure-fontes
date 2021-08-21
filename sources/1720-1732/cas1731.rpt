@@ -1,5 +1,5 @@
-KleioTranslator - server version 2019.A1 - build 256 07/05/2020 17:41 
-13-5-2020 21-12
+KleioTranslator - server version 2021.A4 - build 1967 (master) 18/08/2021 22:05 
+21-8-2021 9-3
 
 Processing data file cas1731.cli
 -------------------------------------------
@@ -12,9 +12,10 @@ kleio translation started
 Structure: gacto2.str
 Prefix: 
 Autorel: 
-Translation count: 7
+Translation count: 8
 Obs: 
-** Processing source fonte$casamentos 1731
+** Processing source fonte$cas1731
+** Base name of file cas1731 in cas1731.cli
 6: cas$c1731.01
 39: cas$c1731.2
 72: cas$c1731.3
@@ -31,6 +32,8 @@ Obs:
 475: cas$c1731.14
 517: cas$c1731.15
 *** End of File
+
+
 ** Processed file- /kleio-home/sources/soure-fontes/sources/1720-1732/cas1731.cli
 ** Original file- /kleio-home/sources/soure-fontes/sources/1720-1732/cas1731.org
 ** Previous version- /kleio-home/sources/soure-fontes/sources/1720-1732/cas1731.old

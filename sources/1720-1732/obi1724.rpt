@@ -1,5 +1,5 @@
-KleioTranslator - server version 2021.A4 - build 1891 (master) 01/06/2021 08:41 
-1-6-2021 9-9
+KleioTranslator - server version 2021.A4 - build 1967 (master) 18/08/2021 22:05 
+21-8-2021 9-6
 
 Processing data file obi1724.cli
 -------------------------------------------
@@ -12,15 +12,10 @@ kleio translation started
 Structure: gacto2.str
 Prefix: 
 Autorel: 
-Translation count: 9
+Translation count: 10
 Obs: 
-** Processing source fonte$obitos 1724
-** Base name of file obi1724.cli
-
-WARNING: obi1724.cli line 3 * Warning: Filename should match source Id to avoid errors. File: obi1724.cli Id: obitos 1724.
-Near lines: 3 
-Near line: 4       obito$o1724.01/7/1/1724/fl.103v-104/celebrante__ vigario manuel rodrigues
-
+** Processing source fonte$obi1724
+** Base name of file obi1724 in obi1724.cli
 6: obito$o1724.01
 22: obito$o1724.2
 45: obito$o1724.3
@@ -125,5 +120,5 @@ Near line: 4       obito$o1724.01/7/1/1724/fl.103v-104/celebrante__ vigario manu
 ** - /kleio-home/sources/soure-fontes/sources/1720-1732/obi1724.ids-renamed to- /kleio-home/sources/soure-fontes/sources/1720-1732/obi1724.cli
 ** Translation files closed.
 0  errors. 
-1  warnings.
+0  warnings.
 Translation finished.

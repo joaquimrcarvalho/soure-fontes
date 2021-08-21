@@ -1,5 +1,5 @@
-KleioTranslator - server version 2021.A4 - build 1830 (master) 23/05/2021 17:33 
-23-5-2021 23-23
+KleioTranslator - server version 2021.A4 - build 1967 (master) 18/08/2021 22:05 
+21-8-2021 8-45
 
 Processing data file dev1705.cli
 -------------------------------------------
@@ -12,16 +12,11 @@ kleio translation started
 Structure: gacto2.str
 Prefix: 
 Autorel: 
-Translation count: 2
+Translation count: 3
 Obs: 
-** Processing source fonte$vp-1705
-** Base name of file dev1705.cli
-
-WARNING: dev1705.cli line 3 * Warning: Filename should match source Id to avoid errors. File: dev1705.cli Id: vp-1705.
-Near lines: 3 
-Near line: 4       devassa$dev1705/5/10/1705/fol=?/visdor=manuel freitas de oliveira/secretario=manuel de freitas/folio=?
-
-6: devassa$dev1705
+** Processing source fonte$dev1705
+** Base name of file dev1705 in dev1705.cli
+6: devassa$devassa1705
 *** End of File
 
 
@@ -33,5 +28,5 @@ Near line: 4       devassa$dev1705/5/10/1705/fol=?/visdor=manuel freitas de oliv
 ** - /kleio-home/sources/soure-fontes/sources/1685-1720/devassas/dev1705.ids-renamed to- /kleio-home/sources/soure-fontes/sources/1685-1720/devassas/dev1705.cli
 ** Translation files closed.
 0  errors. 
-1  warnings.
+0  warnings.
 Translation finished.

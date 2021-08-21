@@ -1,7 +1,7 @@
-kleio$gacto2.str/translations=22
-   fonte$visita1690/1690/devassa/loc=AUC III-d,1,5,4,24
+kleio$gacto2.str/translations=24
+   fonte$dev1690/1690/devassa/loc=AUC III-d,1,5,4,24
 
-      devassa$dev1690/7/9/1690/fol=?/visdor=luis alves pinto/obs=luis alves pinto%o visitador assina a sua propria residencia#o visitador e o paroco sao a mesma pessoa
+      devassa$devassa1690/7/9/1690/fol=?/visdor=luis alves pinto/obs=luis alves pinto%o visitador assina a sua propria residencia#o visitador e o paroco sao a mesma pessoa
 
          testo$manuel fernandes/id=dev1690-per1
             ls$profissao/serralheiro

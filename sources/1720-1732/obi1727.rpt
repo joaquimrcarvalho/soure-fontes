@@ -1,5 +1,5 @@
-ClioInput - version @@VERSION@@ - build @@BUILD@@ @@DATE@@
-28-4-2020 14-41
+KleioTranslator - server version 2021.A4 - build 1967 (master) 18/08/2021 22:05 
+21-8-2021 9-13
 
 Processing data file obi1727.cli
 -------------------------------------------
@@ -12,9 +12,10 @@ kleio translation started
 Structure: gacto2.str
 Prefix: 
 Autorel: 
-Translation count: 9
+Translation count: 10
 Obs: 
-** Processing source fonte$obito 1727
+** Processing source fonte$obi1727
+** Base name of file obi1727 in obi1727.cli
 6: obito$o1727.01
 24: obito$o1727.2
 35: obito$o1727.3
@@ -73,10 +74,15 @@ Obs:
 821: obito$o1727.56
 837: obito$o1727.57
 *** End of File
-** Processed file- /Users/jrc/mhk-home/sources/soure-fontes/sources/soure_fase2/obi1727.cli
-** Original file- /Users/jrc/mhk-home/sources/soure-fontes/sources/soure_fase2/obi1727.org
-** Previous version- /Users/jrc/mhk-home/sources/soure-fontes/sources/soure_fase2/obi1727.old
-** Temp file with ids- /Users/jrc/mhk-home/sources/soure-fontes/sources/soure_fase2/obi1727.ids
+
+
+** Processed file- /kleio-home/sources/soure-fontes/sources/1720-1732/obi1727.cli
+** Original file- /kleio-home/sources/soure-fontes/sources/1720-1732/obi1727.org
+** Previous version- /kleio-home/sources/soure-fontes/sources/1720-1732/obi1727.old
+** Temp file with ids- /kleio-home/sources/soure-fontes/sources/1720-1732/obi1727.ids
+** - /kleio-home/sources/soure-fontes/sources/1720-1732/obi1727.cli-renamed to- /kleio-home/sources/soure-fontes/sources/1720-1732/obi1727.old
+** - /kleio-home/sources/soure-fontes/sources/1720-1732/obi1727.ids-renamed to- /kleio-home/sources/soure-fontes/sources/1720-1732/obi1727.cli
+** Translation files closed.
 0  errors. 
 0  warnings.
 Translation finished.

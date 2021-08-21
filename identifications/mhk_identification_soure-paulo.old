@@ -1,0 +1,57 @@
+kleio$gacto2.str/translator=authorities/obs=Generated from database soure_editor by user soure, file date: +2021-05-31 Timestamp:2021-05-31T14:37:08.813Z
+
+   identifications$real-entities-soure-paulo/Real entities, including real persons and real objects
+      /dbase=soure_editor
+      /user=soure-paulo
+      /date=20210531
+      /mode=backup
+
+      rperson$rp-918/angelica pereira/f/status=N
+         occ$c1717.6-per4
+         occ$b1718.23-per1-per3
+         occ$b1719.72-per1-per3
+         occ$bn04091720-per2
+         occ$b1722.16-per3
+         occ$b1726.83-per3
+         occ$b1728.80-per2
+         occ$b1731.19-per3
+
+      rperson$rp-917/isabel maria pedroso/f/status=N
+         occ$c1713.14-per4
+         occ$o1714-3553-per1
+
+      rperson$rp-916/joao henriques cavaco/m/status=N
+         occ$b1718.23-per1-per2
+         occ$b1719.72-per1-per2
+         occ$bn04091720-per1
+         occ$b1722.16-per2
+         occ$b1726.83-per2
+         occ$b1728.80-per1
+         occ$b1731.19-per2
+         occ$c1713.14-per1
+         occ$c1714.10-per7
+         occ$b1716.17-per3
+         occ$b1716.24-per4
+         occ$b1716.90-per4
+         occ$b1717.7-per4
+         occ$b1717.19-per4
+         occ$c1717.6-per1
+         occ$b1718.99-per4
+         occ$c1719.12-per7
+
+      rperson$rp-919/manuel monteiro/m/status=N
+         occ$c148-1
+         occ$b1700.85-per1-per2
+         occ$b1703.46-per1-per2
+         occ$b1706.95-per1-per2
+         occ$b1709.93-per1-per2
+         occ$b1713.40-per1-per2
+         occ$o1723.97-per1-per2
+         occ$c1725.24-per2
+         occ$c196-8
+         occ$nm118-per1
+         occ$c318-9
+         occ$amz58-per25
+         occ$emz1-21-per25-13
+         occ$o1713-3493-per1
+

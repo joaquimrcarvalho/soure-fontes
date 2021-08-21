@@ -1,5 +1,5 @@
-KleioTranslator - server version 2021.A4 - build 1891 (master) 01/06/2021 08:41 
-1-6-2021 9-0
+KleioTranslator - server version 2021.A4 - build 1967 (master) 18/08/2021 22:05 
+21-8-2021 9-4
 
 Processing data file cas1734.cli
 -------------------------------------------
@@ -12,15 +12,10 @@ kleio translation started
 Structure: gacto2.str
 Prefix: 
 Autorel: 
-Translation count: 9
+Translation count: 10
 Obs: 
-** Processing source fonte$casamentos 1734
-** Base name of file cas1734.cli
-
-WARNING: cas1734.cli line 3 * Warning: Filename should match source Id to avoid errors. File: cas1734.cli Id: casamentos 1734.
-Near lines: 3 
-Near line: 4       cas$c1734.01/11/1/1734/fol.371v/local__igreja de sao tiago/celebrante__vigario manuel rodrigues
-
+** Processing source fonte$cas1734
+** Base name of file cas1734 in cas1734.cli
 6: cas$c1734.01
 40: cas$c1734.2
 72: cas$c1734.3
@@ -59,5 +54,5 @@ Near line: 4       cas$c1734.01/11/1/1734/fol.371v/local__igreja de sao tiago/ce
 ** - /kleio-home/sources/soure-fontes/sources/1720-1732/cas1734.ids-renamed to- /kleio-home/sources/soure-fontes/sources/1720-1732/cas1734.cli
 ** Translation files closed.
 0  errors. 
-1  warnings.
+0  warnings.
 Translation finished.

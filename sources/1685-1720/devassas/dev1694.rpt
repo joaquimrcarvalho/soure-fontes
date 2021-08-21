@@ -1,5 +1,5 @@
-ClioInput - version 2019.A1 - build 235 28/04/2020 17:05 
-29-4-2020 18-37
+KleioTranslator - server version 2021.A4 - build 1967 (master) 18/08/2021 22:05 
+21-8-2021 8-45
 
 Processing data file dev1694.cli
 -------------------------------------------
@@ -12,15 +12,21 @@ kleio translation started
 Structure: gacto2.str
 Prefix: 
 Autorel: 
-Translation count: 19
+Translation count: 21
 Obs: 
-** Processing source fonte$visita1694
-6: devassa$dev1694
+** Processing source fonte$dev1694
+** Base name of file dev1694 in dev1694.cli
+6: devassa$devassa1694
 *** End of File
-** Processed file- /kleio-home/sources/soure-fontes/sources/soure_fase1/devassas/dev1694.cli
-** Original file- /kleio-home/sources/soure-fontes/sources/soure_fase1/devassas/dev1694.org
-** Previous version- /kleio-home/sources/soure-fontes/sources/soure_fase1/devassas/dev1694.old
-** Temp file with ids- /kleio-home/sources/soure-fontes/sources/soure_fase1/devassas/dev1694.ids
+
+
+** Processed file- /kleio-home/sources/soure-fontes/sources/1685-1720/devassas/dev1694.cli
+** Original file- /kleio-home/sources/soure-fontes/sources/1685-1720/devassas/dev1694.org
+** Previous version- /kleio-home/sources/soure-fontes/sources/1685-1720/devassas/dev1694.old
+** Temp file with ids- /kleio-home/sources/soure-fontes/sources/1685-1720/devassas/dev1694.ids
+** - /kleio-home/sources/soure-fontes/sources/1685-1720/devassas/dev1694.cli-renamed to- /kleio-home/sources/soure-fontes/sources/1685-1720/devassas/dev1694.old
+** - /kleio-home/sources/soure-fontes/sources/1685-1720/devassas/dev1694.ids-renamed to- /kleio-home/sources/soure-fontes/sources/1685-1720/devassas/dev1694.cli
+** Translation files closed.
 0  errors. 
 0  warnings.
 Translation finished.

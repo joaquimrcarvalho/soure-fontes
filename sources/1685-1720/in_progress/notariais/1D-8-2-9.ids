@@ -1,0 +1,286 @@
+kleio$gacto2.str/translations=1
+   fonte$n2.9/cota=1D-8-2-9/arquivo=AUC/tipo=livro de notas/notario=jose marques/inicio=19011725/fim=02051725/obs=legivel
+
+      escritura$n2.9.1/juro/data=19011725/fol=1-1v/local=residencia do vigario frei joao dos santos, lugar de tapeus, freguesia da redinha./obs= Duracao-um ano Juro- seis e quarto por cento ou seja 625 reis Quantia-10000 reis Recepcao- em presenca Moeda- boas moedas de ouro e prata correntes neste reino Condicoes- com a possibilidade de prolongar o prazo do juro  Hipoteca- uma courela de terra que possuem nas vendas novas, por detras daestalagem de maria da silva (que parte de uma banda com maria da silva e da outracom manuel jorge, ambos do mesmo lugar)-uma courela na ribeira da urjari?a, termoda vila do soure (parte com manuel rodrigues lourenco, de porto coelheiro, termoda vila da redinha, e com manuel rodrigues, quinteiro dos casais de sao mateus,termo da vila de soure Testemunhas- ass a rogo da mulher antonio dos santos, cirurgiao de soure;  ass antonio da costa solteiro  filho que ficou de manuel da costa das vendas novas; ass antonio rodrigues da paz de tapeus
+
+         test$antonio dos santos/id=n2.9.1-per1
+            ls$profissao/cirurgiao
+            ls$residencia/soure
+
+         credor$joao dos santos/id=n2.9.1-per2
+            ls$profissao/padre
+            ls$cargo/vigario de tapeus
+            ls$titulo/frei
+            ls$residencia/tapeus, freguesia de tapeus
+            ls$freguesia/tapeus
+            ls$concelho/redinha
+            ls$ec/s
+            ls$assinatura/s
+
+         devedor$joao rodrigues falcao/id=n2.9.1-per3
+            ls$residencia/vendas novas, freguesia de tapeus
+            ls$freguesia/vendas novas
+            ls$concelho/redinha
+            ls$ec/c
+            ls$assinatura/+
+            ls$assinatura/+/domingas da silva
+            ls$residencia/vendas novas, freguesia de tapeus
+            ls$freguesia/tapeus
+            ls$concelho/redinha
+            ls$ec/c
+            ls$assinatura/n
+
+      escritura$n2.9.2/juro/data=19011725/fol=1v-2v/local=residencia do vigario joao dos santos, em tapeus, termo da vila de redinha/obs= repete a de cima?  Duracao- um ano Juro- seis e quarto por cento, 1500 reis Quantia- 24000 reis Recepcao- ja receberam Moeda- moedas de ouro e prata correntes neste reino Condicoes- o prazo pode ser prolongado  Hipoteca- uma courela de terra na urjarissa pequena, termo da vila de soure(parte com a viuva de francisco lopes t(?)obias da vila de soure e com manuelgaspar de porto coelheiro- uma courela de terra ali mesmo (parte com rodrigohomem de quadros da dita vila e com o dito manuel gaspar- uma courela no mesmositio (parte com manuel lourenco de porto coelheiro, termo de redinha, e comfazenda de manuel marques galvao Testemunhas-  ass antonio dos santos, cirurgiao de soure, a rogo da mulher -  ass antonio da costa,  filho que ficou de manuel da costa, das vendas novas -  ass antonio rodrigues da paz de tapeus
+
+         test$antonio dos santos/id=n2.9.2-per1
+            ls$profissao/cirurgiao
+            ls$residencia/soure
+
+         credor$joao dos santos/id=n2.9.2-per2
+            ls$profissao/padre
+            ls$cargo/vigario de tapeus
+            ls$titulo/frei
+            ls$residencia/tapeus, freguesia de tapeus
+            ls$freguesia/tapeus
+            ls$concelho/redinha
+            ls$ec/s
+            ls$assinatura/s
+
+         devedor$manuel cardoso/id=n2.9.2-per3
+            ls$residencia/porto coelheiro
+            ls$ec/c
+            ls$assinatura/s
+            ls$assinatura/s/maria joao
+            ls$residencia/porto coelheiro
+            ls$assinatura/n
+            ls$ec/c
+
+      escritura$N2.9.3/juro/data=22011725/fol=2v-3v/local=residencia de antonio carvalho, da redinha/obs=  Duracao- um ano.  Juro- seis e quarto por cento, 1875 reis.  Quantia- 30000 reis.  Recepcao- em presenca  Moeda- boas moedas de ouro e prata correntes neste reino.  Condicoes- prorrogavel o prazo.  Hipoteca- uma terra sita nos cortinhais na ribeira de cima, limite da vila daredinha, (parte com manuel joao da estrada, alfaiate, e com simao joao cabrita(?)dos pojos, desse termo) - uma terra sita nas cancelas na mesma ribeira (parte commanuel joao dos pojos o pequeno e com manuel martins o mosso que veio do outeiro,tudo deste termo) - uma terra no sitio da porqueira proxima do moinho novo nomesmo limite (parte com domingos leitao da venda do rangel e com domingos martinsda charneca, tudo deste termo). Docin- uma procuracao do credor para o seu procurador, seu sobrinho.  Testemunhas- padre joao martins, do pe da ladeira deste termo, a rogo damulher - ass manuel rodrigues calhau o moco, de porto coelheiro, termo de soure -ass manuel joao, da vila da redinha.
+
+         credor$martinho de carvalho/m/id=N2.9.3.p1
+            ls$profissao/padre
+            ls$cargo$prior de alvaiazere
+            ls$titulo/frei
+            ls$residencia/alvaiazere, freguesia de alvaiazere
+            ls$freguesia/alvaiazere
+            ls$ec/s
+            ls$assinatura/n
+            rel$parentesco/tio/joao manso de carvalho/N2.9.3.p0
+
+         procurador$joao manso de carvalho%joao man,co de carvalho/id=N2.9.3.p0
+            ls$profissao/padre
+            ls$residencia/redinha, freguesia da redinha
+            ls$freguesia/redinha
+            ls$concelho/redinha
+            ls$ec/s
+            ls$assinatura/s
+            rel$parentesco/sobrinho/martinho de carvalho/N2.9.3.p1
+
+         devedor$gaspar martins/id=N2.9.3-per1
+            ls$residencia/pojos, freguesia da redinha
+            ls$concelho/redinha
+            ls$ec/desc
+            ls$assinatura/s
+            rel$parentesco/irmao/mariana da encarnacao/N2.9.3.p3
+
+         devedora$mariana da encarnacao/id=N2.9.3.p3
+            ls$residencia/pojos, termo da redinha
+            ls$concelho/redinha
+            ls$ec/desc
+            ls$assinatura/n
+
+         test$manuel rodrigues calhau/id=N2.9.3-per2
+            ls$residencia/porto coelheiro
+            ls$alcunha/moco
+
+      escritura$n.2.9.4/doacao satisfatoria/data=22011725/fol=3v-4/local=residencia de luis da silva, na redinha/obs=   caso- o doador fora casado pela primeira vez com catarina martins, jadefunta, de quem teve uma filha, a doada, a quem deve obrigacoes. Por ter vendidoalgumas fazendas, que pertenciam tambem a sua filha, vem agora retribuir-lhe bensdoados- uma casa de palheiro com suas serventias que esta no lugar da charnecaque parte com vinha da cama (sic) - uma parte de um quarto de vinha da cama queparte do nascente com os orfaos da cama e de poente com antonio roiz, filho dejoao roiz do lugar da charneca - mais um pedaco de vinha no sitio da carvalheiracom suas testadas de matos que parte do poente com domingos martins dali mesmo edo nascente com herdeiros de manuel domingues dali) - e mais uma talhinha quelevara tres almudes de vinho - mais na orta do ribeiro um bocado de terra queparte com o ribeiro e com herdeiros de jose de sa da estrada e do nascente comherdeiros da mesma cama com seus matos - mais duas oliveiras de tran?cha ao pe daporta no lugar da charneca, tudo termo da vila da redinha testemunhas-  ass luis da silva pereira, da redinha, a rogo da mulher -  ass o capitao antonio galvao soutomaior, da redinha -  + jose roiz fresco, da redinha
+
+         doador$antonio rodrigues/id=n.2.9.4-per1
+            ls$residencia/charneca, termo da redinha
+            ls$concelho/redinha
+            ls$assinatura/+
+            rel$parentesco/pai/mariana rodrigues/id=n.2.9.4
+            rel$parentesco/pai/mariana rodrigues/catarina martins/id=n.2.9.4
+            ls$morta/antes
+            ls$morta/antes/mariana rodrigues/id=n.2.9.4
+            ls$residencia/charneca, freguesia da redinha
+            ls$concelho/redinha
+            ls$assinatura/n
+
+      escritura$n.2.9.5/patrimonio para beneficio de ordens sacras/data=23011725/fol=4-6/local=residencia do padre clemente martins da costa, no lugar do pinheiro,termo da vila de soure./obs=caso- o ordinando fizera peticao ao juiz pela ordenacao da vila de soure,joao da costa de vasconcelos, para nomear dois louvados, a fim de avaliar os bensa integrar o seu patrimonio que o seu irmao, o padre clemente, queria doar. Foramnomeados joao madeira da carvalheira de baixo e a manuel de sam miguel do lugardo pinheiro, tudo termo de soure. No dia 22, perante o dito juiz apresentaram oresultado da sua avaliacao. bens dotados e avaliados - uma casa de sobrado em que o dotador vive com suaterra e oliveiras no mesmo sitio que parte do norte com manuel de oliveira dodito lugar e do sul e poente e nascente com o dotador com valor de 55000 reis  - duas partes de uma terra no sitio da lagem que partem com o dito manuel deoliveira e com manuel ferreira das areias, tudo do mesmo termo, a qual terra temsuas oliveiras em valia de 30.000 reis  - uma terra no mesmo sitio da lagem queparte do nascente com o ribeiro e do sul com o dito manuel de oliveira e do nortecom o padre sebastiao ferreira das areias, deste termo, com valor de 20.000 reis  - uma terra com suas oliveiras adonde chamam o porto de martim de da?remlimite dathelhada, tudo deste termo, que parte com caminho do concelho do nascente epoente e do norte com fazenda da misericordia de soure e do sul com fazenda queficou de gaspar da costa maquines que leva de semeadura 18 alqueires de trigo comvalor de 150.000 reis  - uma terra no mesmo sitio que parte com fazenda do ditogaspar da costa maquines da banda do norte do sul com o mesmo manuel ferreiradas areias do mesmo termo e leva de semeadura 6 alqueires de trigo com valor de60.000 reis valor total do dote- 315.000 reis renda anual- mais de 20.000 reis pessoas presentes no louvamento do dia 22-  padre sebastiao ferreira das areias e  jose velho barbeiro de soure com testemunhas;  o tabeliao alberto ferreira veloso que fez os autos testemunhas - ass manuel de sam miguel, louvado  - + joao madeira, louvado e viuvo  - n catarina de jesus, mulher de manuel de sam miguel  - ass o padre joao marques de deus, filho do tabeliao, a rogo da mulher  - ass padre sebastiao ferreira das areias do mesmo termo  - ass jose velho barbeiro de soure
+
+         test$manuel de s.miguel/id=n.2.9.5-per1
+            ls$cargo/louvado/obs=nesta escritura
+            ls$residencia/pinheiro
+
+         test$joao madeira/id=n.2.9.5-per2
+            ls$cargo/louvado
+            ls$residencia/carvalheira de baixo
+
+         doador$clemente martins da costa/id=n.2.9.5-per3
+            ls$profissao$padre
+            ls$residencia/pinheiro
+            ls$ec/s
+            ls$assinatura/s
+            rel$parentesco/irmao/manuel martins/n2.9.5-p1
+
+            pai$antonio matrins/id=n.2.9.5-per3-per4
+               ls$morto/antes
+
+            mae$maria da costa/id=n.2.9.5-per3-per5
+               ls$morta/antes
+               ls$morta/antes/manuel martins/id=n2.9.5-p1
+               ls$profissao/clerigo de ordem menores
+               ls$residencia/pinheiro
+               ls$ec/s
+               ls$assinatura/s
+
+      escritura$n.2.9.6/compra e venda./data=25011725/fol=6-7/local=residencia de paulo da silva pereira, na vila da redinha./obs=não está caderno bem vendido- uma terra no limite das lagoas, que parte de uma banda comele comprador e da outra com jose martins, ferreiro da redinha preco- 17.000 reis.  sisa- 3.400 reis, paga pelo comprador  recepcao- em presenca.  docin- certidao das sisas, passado pelo vereador mais velho e juiz pelaordenacao da vila da redinha, manuel martins branco, e recebida pelo depositariodos bens de raiz da vila, lazaro rodrigues manso, com o tabeliao do judicialpaulo da silva pereira. testemunhas - ass paulo da silva pereira, a rogo da mulher  - ass manuel domingues do carvalhal, do termo de redinha  - ass manuel mendes dai mesmo, termo de redinha
+
+         comprador$manuel rodrigues calhau/id=n.2.9.6-per1
+            ls$residencia/porto coelheiro
+            ls$assinatura/+
+
+         vendedor$antonio martins/id=n.2.9.7-p1
+            ls$residencia/alem da ponte, freguesia da redinha
+            ls$concelho/redinha
+            ls$ec/c
+            ls$assinatura/s
+            ls$assinatura/s/paula da costa
+            ls$residencia/alem da ponte, freguesia da redinha
+            ls$concelho/redinha
+            ls$ec/c
+
+      escritura$n.2.9.7/compra e venda/data=27011725/fol=7-8v/local=residencia de josefa maria, viuva que ficou de antonio rodrigues preto,  na vila da redinha/obs=nao está caderno bem vendido- uma terra sita adonde chamam barbosa, na ribeira de cima, limite da vila da redinha, que parte de nascente com caminho do concelho que vaida dita vila para o lugar de ancos deste termo, e do poente entesta no rio deancos, e do norte parte com terra de manuel cardoso de alvito deste termo, e dosul parte com a barbosa de joao da costa de vasconcelos, capitao-mor da vila desoure, a qual fazenda e de rega e tem seu cabeceiro de sequeiro com suasoliveiras - esta terra, como consta da certidao das sisas, tem um talho de terrano meio dos herdeiros de manuel pires o rijo dos poios. valor da venda- 450.000 reis  recepcao- em presenca  moeda- boas moedas de ouro e prata correntes neste reino  valor da sisa- 90.000 reis, paga pelo comprador  docin- certidao das sisas, passado pelo vereador mais velho e juiz pelaordenacao da vila da redinha, manuel martins branco, e recebida pelo depositariodos bens de raiz da vila, lazaro rodrigues manso, com o tabeliao do judicial edas sisas, paulo da silva pereira docin- a procuracao testemunhas - ass joao rodrigues manso, da redinha, a rogo das mulheres  - ass paulo pereira, do lugar dos montais deste termo  - ass gaspar mendes da costa, do couto de verride, termo de montemor o velho  - + jose lopes, termo de redinha - + manuel domingues, do termo de redinha
+
+         vendedor$jose rodrigues leao%roiz liao/id=n.2.9.7-per1
+            ls$residencia/redinha, rua do rio, freguesia da redinha
+            ls$freguesia/redinha
+            ls$concelho/redinha
+            ls$assinatura/+
+            rel$familiar/pai dos outros vendedores e sogro de suas mulheres
+
+         vendedor$lazaro roiz manso/m/id=n.2.9.7-per2
+            ls$residencia/redinha, rua do rio, freguesia da redinha
+            ls$freguesia/redinha
+            ls$concelho/redinha
+            ls$assinatura/s
+            ls$ec/c
+
+         vendedor$jose roiz manso/m/id=n.2.9.7-per3
+            ls$residencia/redinha, rua do rio, freguesia da redinha
+            ls$freguesia/redinha
+            ls$concelho/redinha
+            ls$assinatura/+
+            ls$ec/c
+            ls$ec/c/joana rodrigues
+            ls$residencia/redinha, rua do rio, freguesia da redinha
+            ls$freguesia/redinha
+            ls$concelho/redinha
+            ls$ec/s
+            rel$familiar/filha de jose roiz liao, irma dos outros vendedores
+
+         vendedora$cecilia rodrigues/id=n.2.9.7-per4
+            ls$residencia/redinha, rua do rio
+            ls$freguesia/redinha
+            ls$concelho/redinha
+            ls$ec/s
+            rel$familiar/filha de jose roiz liao, irma dos outros vendedores
+
+         comprador$miguel manso preto/id=n.2.9.7-per5
+            ls$profissao/desembargador na relacao do porto
+            ls$assinatura/n
+            ls$titulo/doutor
+
+         procurador$manuel rodrigues de carvalho/m/id=n.2.9.7-per6
+            ls$profissao/padre
+            ls$residencia/galiana, freguesia da redinha
+            ls$freguesia/redinha
+            ls$concelho/redinha
+            ls$assinatura/s
+            ls$ec/s
+
+      escritura$n.2.9.8/procuracao/data=28011725/fol=8v-9/local=residencia do tabeliao, em soure/obs= causa- em especial no juizo da vila de soure, poder cobrar e arrecadar todas as dividas que lhe deverem e podera cobrar de manuel fernandes bulhao 10.100 reis, procedidos de 3 reses que lhe vendeu testemunhas-  ass paulo da silva pereira, da redinha -  ass antonio de cristo, filho do tabeliao
+
+      escritura$n.2.9.8/manuel francisco/procuracao/data=28011725/fol=8v-9/local=residencia do tabeliao, em soure/obs= causa- em especial no juizo da vila de soure, poder cobrar e arrecadar todas as dividas que lhe deverem e podera cobrar de manuel fernandes bulhao 10.100 reis, procedidos de 3 reses que lhe vendeu testemunhas-  ass paulo da silva pereira, da redinha -  ass antonio de cristo, filho do tabeliao
+         ls$residencia/paliao
+         ls$ec/s
+         ls$assinatura/+
+
+         procurador$domingos rodrigues senteiro/m/id=n.2.9.8-per1
+            ls$residencia/cavaleiros
+
+            referido$manuel fernandes bulhao/id=n.2.9.8-per1-per2
+               rel$economica/devedor/manuel francisco/n.2.9.8.p1
+
+      escritura$n.2.9.9/juro/data=28011725/fol=9--9v/local=quinta da capa rota, termo da vila de soure/obs= duracao- um ano juro- seis e quarto por cento, 30.000 reis anuais valor- 480.000 reis recepcao- em presenca moeda- moedas de ouro e prata correntes neste reino condicao- prorrogavel o prazo hipoteca- todas as propriedades e fazendas que os sobreditos tem em mocate,limite da dita vila testemunhas-  ass padre joao marques de deus, a rogo da mulher, filho do tabeliao -  ass joao liao, da casa velha, termo de soure -  ass joao alvares, da casa velha, termo de soure
+
+         test$joao leao/id=n.2.9.9-per1
+            ls$residencia/casa velha
+
+         test$joao alvares/id=n.2.9.9-per2
+            ls$residencia/casa velha
+
+         credor$agostinho luis de ataide/id=n.2.9.9-per3
+            ls$assinatura/s
+
+         devedor$jacinto da costa de vasconcelos/id=n.2.9.9-per4
+
+         devedor$jacinto da costa de vasconcelos/devedor/id=n.2.9.9-per5
+            ls$titulo/doutor
+            ls$ec/c
+            ls$assinatura/s
+            ls$assinatura/s/alexandra antonia cabral/sexo=f
+            ls$titulo/dona
+
+         procurador$joao marques de deus/id=n.2.9.9-per6
+            ls$profissao/padre
+            ls$ec/s
+            ls$residencia/soure
+            ls$assinatura/s
+
+      escritura$n.2.9.10/aforamento/data=29011725/fol=10-10v/local=casa de mateus goncalves de alem da ponte, na vila de redinha/obs= duracao- 3 vidas bens aforados - uma terra chamada o seixo, limite da estrada, tero da dita vila, tapada sobre si  - uma terra no mesmo limite chamada arencada que parte com os mesmos foreiros e com manuel rodrigues morgado dos poios deste termo  - mais outro pedaco de terra no mesmo limite adonde chamam  o serrado do ai? que parte com antonia cardosa da estrada e com quem deva de partir  - mais outro pedaco de terra no mesmo limite que chamam os feijoes que parte com simao joao da venda do rangel, tudo deste termo com os herdeiros que ficaram de manuel roiz da charneca deste termo foro anual- 17 alqueires de trigo bom limpo e de receber medido em casa deles foreiros  - uma leitoa que tenha de peso meia arroba, paga no dia de natal primeiro pagamento- este ano de 1725 docin- procuracao testemunhas-  ass manuel goncalves pedrosa, a rogo da mulher  -+ jose martins o luitano, ferreiro, redinha  - manuel martins o moco, redinha
+
+         senhorio$luis francisco de assis sanches baena/id=n.2.9.10.p1
+            ls$cargo/morgado de ?
+            ls$residencia/lisboa, freguesia de ?
+            ls$concelho/lisboa
+            ls$concelho/lisboa/antonio sanches pereira/UNDEFINED=m/funcao=tutor do senhorio
+            rel$sociabilidade/tutor/luis francisco de assis sanches baena/n.2.9.10.p1
+            ls$profissao/desembargador da relacao de lisboa
+            ls$residencia/lisboa, freguesia de ?
+            ls$concelho/lisboa
+            ls$titulo/doutor
+
+         procurador$mateus goncalves/id=n.2.9.10-per1
+            ls$residencia/redinha, freguesia da redinha
+            ls$concelho/redinha
+            ls$assinatura/s
+
+         foreiro$melchior francisco/id=n.2.9.10-per2
+            ls$residencia/pousadas vedras, freguesia de redinha
+            ls$concelho/redinha
+            ls$ec/c
+            ls$assinatura/s
+            ls$assinatura/s/maria joao
+            ls$assinatura/s/maria joao/UNDEFINED=foreiro
+            ls$residencia/pousadas vedras, freguesia de redinha
+            ls$concelho/redinha
+
+      escritura$n.2.9.11/doacao entre vivos/data=29011725/fol=11-12/local=casa de mateus goncalves de alem da ponte, na vila de redinha/obs= caso- nao tem filhos condicoes- na morte do primeiro, fara o segundo os bens da alma do falecido,mandando dizer do que ficar 50 missas por uma so vez e esmola que lhe parecer, noprazo de um ano apos a morte  - pelas obriga?oes que deviam a sua irma e cunhada,domingas, pelas soldadas de que alguns tempos os serviu, a nomeavam, por morte deambos, herdeira de uma courela de terra adonde chamam a vacarica, termo deredinha testemunhas -  - ass manuel goncalves pedrosa, da redinha, a rogo da mulher  - ass paulo da silva pereira, redinha  - ass mateus goncalves de alem da ponte, redinha
+
+      escritura$n.2.9.12/compra e venda/data=31011725/fol=12-12v/local=casa do padre sebastiao ferreira, em soure/obs= bem vendido-  dois pedacos de terra que esta no limite da telhada onde chamam o porto de martim de ourem, que partem com o mesmo comprador de uma outra banda e com fazendas da misericordia de soure valor- 24.000 reis moeda- boas moedas de ouro e prata correntes no reino recepcao- ja recebido condicao- forros de sisa para o vendedor sisa- nao pagou porque sao os dois eclesiasticos e ser a dita venda para sua congrua e sustentacao certidao da sisa-  passada por joao da costa vasconcelos, vereador mais velho e juiz pela ordenacao em soure, sendo tabeliao joao henriques testemunhas - ass padre sebastiao dos olivais deste termo  - ass padre joao marques de deus, filho do tabeliao
+
+         comprador$clemente martins da costa/m/id=n.2.9.12-per1
+            ls$profissao/padre
+            ls$residencia/pinheiro
+            ls$ec/s
+            ls$assinatura/s
+
+         vendedor$paulo antunes/m/id=n.2.9.12-per2
+            ls$profissao/padre
+            ls$residencia/assamassa
+            ls$ec/s
+            ls$assinatura/s
+
+      escritura$n.2.9.13/juro/data=04021725/fol=13-13v/local=casa do tabeliao, em soure
