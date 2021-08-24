@@ -17,7 +17,8 @@ configuration files, and various auxiliary functions.
 To install the required packages open the terminal in VSCode: Command+j or menu `Terminal` -> `New terminal`
 
 Type 
-    ``pip install -r notebooks/requirements.txt``
+    
+    pip install -r notebooks/requirements.txt
 
 
 # Optional packages
