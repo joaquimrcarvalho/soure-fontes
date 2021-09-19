@@ -1,5 +1,5 @@
-KleioTranslator - server version 2021.A4 - build 1967 (master) 18/08/2021 22:05 
-21-8-2021 8-59
+KleioTranslator - server version 2021.A4 - build 1981 (clio-as-submodule) 19/09/2021 10:17 
+19-9-2021 2-20
 
 Processing data file bap1729.cli
 -------------------------------------------
@@ -12,7 +12,7 @@ kleio translation started
 Structure: gacto2.str
 Prefix: 
 Autorel: 
-Translation count: 13
+Translation count: 14
 Obs: 
 ** Processing source fonte$bap1729
 ** Base name of file bap1729 in bap1729.cli
