@@ -1,4 +1,4 @@
-kleio$gacto2.str/translations=9
+kleio$gacto2.str/translations=8
    fonte$n2.5/loc=AUC D-8-2-5/tipo=livro de notas/data=17000203/obs=legivel o livro nao tem os primeiros 23 folios, a contagem a partir do um ? provisoria , o local passa a registar a origem dos contratantes , todo levantado no caderno azul. tabeliao jose barbosa canais
 
       escritura$n.2.5.1/0/0/0/fol=(1)/loc=/obs=truncado
@@ -113,7 +113,7 @@ kleio$gacto2.str/translations=9
 
             mulher$maria luisa/id=n2.5.7-per1-4-per2-4
 
-         bem$casal/n2.5.7-obj1-6/n2.5.7-obj1-8/obs=casas com suas serventias
+         bem$casal/n2.5.7-obj1-6/obs=casas com suas serventias/id=n2.5.7-obj1-8
          ls$local/casa velha
          ls$valor/50.000 reis
          ls$confronta/domingos lopes e sua mulher maria pereira

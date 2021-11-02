@@ -1,5 +1,5 @@
-KleioTranslator - server version 2021.A4 - build 1967 (master) 18/08/2021 22:05 
-21-8-2021 9-7
+KleioTranslator - server version 2021.A5 - build 1984 (master) 13/10/2021 20:51 
+2-11-2021 11-4
 
 Processing data file 1D-8-2-4.cli
 -------------------------------------------
@@ -12,10 +12,9 @@ kleio translation started
 Structure: gacto2.str
 Prefix: 
 Autorel: 
-Translation count: 22
+Translation count: 23
 Obs: 
 ** Processing source fonte$1D-8-2-4
-** Base name of file 1D-8-2-4 in 1D-8-2-4.cli
 6: escritura$n.2.4.1
 17: escritura$n.2.4.2
 22: escritura$n.2.4.3
@@ -96,8 +95,6 @@ Obs:
 ** Previous version- /kleio-home/sources/soure-fontes/sources/1685-1720/notariais/1D-8-2-4.old
 ** Temp file with ids- /kleio-home/sources/soure-fontes/sources/1685-1720/notariais/1D-8-2-4.ids
 ** - /kleio-home/sources/soure-fontes/sources/1685-1720/notariais/1D-8-2-4.cli-renamed to- /kleio-home/sources/soure-fontes/sources/1685-1720/notariais/1D-8-2-4.old
-** - /kleio-home/sources/soure-fontes/sources/1685-1720/notariais/1D-8-2-4.ids-renamed to- /kleio-home/sources/soure-fontes/sources/1685-1720/notariais/1D-8-2-4.cli
-** Translation files closed.
 0  errors. 
 0  warnings.
 Translation finished.
