@@ -1,5 +1,5 @@
-KleioTranslator - server version 2021.A4 - build 1891 (master) 01/06/2021 08:41 
-1-6-2021 9-0
+KleioTranslator - server version 2021.A4 - build 1967 (master) 18/08/2021 22:05 
+21-8-2021 9-9
 
 Processing data file po01.cli
 -------------------------------------------
@@ -12,15 +12,10 @@ kleio translation started
 Structure: gacto2.str
 Prefix: 
 Autorel: 
-Translation count: 15
+Translation count: 17
 Obs: 
-** Processing source fonte$proc_ord_1
-** Base name of file po01.cli
-
-WARNING: po01.cli line 3 * Warning: Filename should match source Id to avoid errors. File: po01.cli Id: proc_ord_1.
-Near lines: 3 
-Near line: 4       po$po1/cx. 202, p.4/17150000/obs=ordens menores. Data de entrada do processo 19-11-1715
-
+** Processing source fonte$po01
+** Base name of file po01 in po01.cli
 6: po$po1
 28: po$po2
 49: po$po3
@@ -280,5 +275,5 @@ Line 5845 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (b1689.60-per5) CHECK IF IT E
 ** - /kleio-home/sources/soure-fontes/sources/1685-1720/ordenacoes/po01.ids-renamed to- /kleio-home/sources/soure-fontes/sources/1685-1720/ordenacoes/po01.cli
 ** Translation files closed.
 0  errors. 
-1  warnings.
+0  warnings.
 Translation finished.

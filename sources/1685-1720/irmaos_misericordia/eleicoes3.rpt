@@ -1,5 +1,5 @@
-KleioTranslator - server version 2021.A4 - build 1830 (master) 23/05/2021 17:33 
-23-5-2021 12-59
+KleioTranslator - server version 2021.A4 - build 1967 (master) 18/08/2021 22:05 
+21-8-2021 8-37
 
 Processing data file eleicoes3.cli
 -------------------------------------------
@@ -12,15 +12,10 @@ kleio translation started
 Structure: gacto2.str
 Prefix: 
 Autorel: 
-Translation count: 16
+Translation count: 17
 Obs: 
-** Processing source fonte$mis mesa3
-** Base name of file eleicoes3.cli
-
-WARNING: eleicoes3.cli line 3 * Warning: Filename should match source Id to avoid errors. File: eleicoes3.cli Id: mis mesa3.
-Near lines: 3 
-Near line: 4       amz$emz3-1/02/07/1853/11/resumo=termo de eleicao de irmaos da mesa/obs=por nao ser suficiente o numerode irmaos para a eleicao continua a mesma mesa para mais um ano menos o escrivao joseteodorico barbosa pelos seus muitos afazeres
-
+** Processing source fonte$eleicoes3
+** Base name of file eleicoes3 in eleicoes3.cli
 6: amz$emz3-1
 49: amz$emz3-2
 90: amz$emz3-3
@@ -40,5 +35,5 @@ Near line: 4       amz$emz3-1/02/07/1853/11/resumo=termo de eleicao de irmaos da
 ** - /kleio-home/sources/soure-fontes/sources/1685-1720/irmaos_misericordia/eleicoes3.ids-renamed to- /kleio-home/sources/soure-fontes/sources/1685-1720/irmaos_misericordia/eleicoes3.cli
 ** Translation files closed.
 0  errors. 
-1  warnings.
+0  warnings.
 Translation finished.

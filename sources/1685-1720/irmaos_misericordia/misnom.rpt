@@ -1,7 +1,7 @@
-KleioTranslator - server version 2021.A4 - build 1830 (master) 23/05/2021 17:33 
-23-5-2021 12-59
+KleioTranslator - server version 2021.A4 - build 1967 (master) 18/08/2021 22:05 
+21-8-2021 8-40
 
-Processing data file misNomIrmaos.cli
+Processing data file misnom.cli
 -------------------------------------------
 Generic Act translation module with geoentities (XML).
      Joaquim Ramos de Carvalho (joaquim@uc.pt) 
@@ -12,15 +12,10 @@ kleio translation started
 Structure: gacto.str
 Prefix: 
 Autorel: 
-Translation count: 5
+Translation count: 6
 Obs: 
 ** Processing source fonte$misnom
-** Base name of file misNomIrmaos.cli
-
-WARNING: misNomIrmaos.cli line 3 * Warning: Filename should match source Id to avoid errors. File: misNomIrmaos.cli Id: misnom.
-Near lines: 3 
-Near line: 4       nom$nm1/0/0/0/20/0/0
-
+** Base name of file misnom in misnom.cli
 6: nom$nm1
 11: nom$nm2
 16: nom$nm3
@@ -360,13 +355,13 @@ Near line: 4       nom$nm1/0/0/0/20/0/0
 *** End of File
 
 
-** Processed file- /kleio-home/sources/soure-fontes/sources/1685-1720/irmaos_misericordia/misNomIrmaos.cli
-** Original file- /kleio-home/sources/soure-fontes/sources/1685-1720/irmaos_misericordia/misNomIrmaos.org
-** Previous version- /kleio-home/sources/soure-fontes/sources/1685-1720/irmaos_misericordia/misNomIrmaos.old
-** Temp file with ids- /kleio-home/sources/soure-fontes/sources/1685-1720/irmaos_misericordia/misNomIrmaos.ids
-** - /kleio-home/sources/soure-fontes/sources/1685-1720/irmaos_misericordia/misNomIrmaos.cli-renamed to- /kleio-home/sources/soure-fontes/sources/1685-1720/irmaos_misericordia/misNomIrmaos.old
-** - /kleio-home/sources/soure-fontes/sources/1685-1720/irmaos_misericordia/misNomIrmaos.ids-renamed to- /kleio-home/sources/soure-fontes/sources/1685-1720/irmaos_misericordia/misNomIrmaos.cli
+** Processed file- /kleio-home/sources/soure-fontes/sources/1685-1720/irmaos_misericordia/misnom.cli
+** Original file- /kleio-home/sources/soure-fontes/sources/1685-1720/irmaos_misericordia/misnom.org
+** Previous version- /kleio-home/sources/soure-fontes/sources/1685-1720/irmaos_misericordia/misnom.old
+** Temp file with ids- /kleio-home/sources/soure-fontes/sources/1685-1720/irmaos_misericordia/misnom.ids
+** - /kleio-home/sources/soure-fontes/sources/1685-1720/irmaos_misericordia/misnom.cli-renamed to- /kleio-home/sources/soure-fontes/sources/1685-1720/irmaos_misericordia/misnom.org
+** - /kleio-home/sources/soure-fontes/sources/1685-1720/irmaos_misericordia/misnom.ids-renamed to- /kleio-home/sources/soure-fontes/sources/1685-1720/irmaos_misericordia/misnom.cli
 ** Translation files closed.
 0  errors. 
-1  warnings.
+0  warnings.
 Translation finished.

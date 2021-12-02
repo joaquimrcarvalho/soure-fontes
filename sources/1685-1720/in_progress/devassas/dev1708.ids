@@ -1,0 +1,491 @@
+kleio$gacto2.str/translations=1
+   fonte$visitas1708/III/D,1,4,4,50/tipo=devassa de visita/data=17080718/loc=AUC
+
+      devassa$dev1708/18/7/1708/visdor=jose freire de faria/fol=?/obs=secretario jose coelho,pronuncia transcrita aqui junto com os casos com os elementos pronuncia e resultado. Termos iloc. Na pronuncia de Soure sao referidos manuel rodrigues ligeiro do casal dos vascos, freguesia da Almagreira e  sua mulher maria goncalves
+
+         testo$manuel rodrigues pena#ou perna/m/id=1708-t1
+            ls$residencia/casal do mogadouro
+            ls$profissao/trabalhador
+            ls$idade/40
+            ls$assina/+
+            ls$assina/+/1708-c1/UNDEFINED=violf/obs=na pronuncia sao setenciados a fazerem vida marital e ele a a tratar bem. pronuncia: admoestacao,resultado: fez termo
+            ls$assina/+/1708-c1/UNDEFINED=violf/obs=na pronuncia sao setenciados a fazerem vida marital e ele a a tratar bem. pronuncia: admoestacao,resultado: fez termo/id=1708-a1/nome=jose gomes/sexo=m
+            ls$profissao/sapateiro/obs=profissao referida na pronuncia
+            ls$naturalidade/casal dos simoes
+            ls$residencia/redinha, freguesia da redinha
+            rel$parentesco/marido/maria do espirito santo/1708-a1a
+
+            referida$maria do espirito santo/id=1708-a1a
+
+            acus$1708-c1/literal=da ma vida a sua mulher/id=1708-t1-obj1
+
+               caso$1708-c2/nfvida/UNDEFINED=maria goncalves/UNDEFINED=1708-a2/descricao=vive separada do marido
+
+                  acusada$maria goncalves/f/id=1708-a2
+                     ls$residencia/mogadouro
+                     ls$naturalidade/almagreira
+                     ls$freguesia/almagreira
+
+            acus$1/1708-c2/UNDEFINED=nfvida/literal=vive separada do marido/id=1708-t1-obj2
+
+         testo$domingos carvalho/id=1708-t2
+            ls$ec/c
+            ls$profissao/trabalhador
+            ls$residencia/mogadouro
+            ls$idade/30
+            ls$assina/+
+
+         testo$manuel francisco/id=1708-t3
+            ls$ec/v
+            ls$residencia/casal dos simoes
+            ls$idade/70
+            ls$assina/m
+
+            acus$3/1708-c1/UNDEFINED=violf/id=1708-t3-obj3
+
+         testo$manuel jorge/id=1708-t4
+            ls$ec/c
+            ls$profissao/lavrador
+            ls$residencia/casal do sobral
+            ls$idade/50
+            ls$assina/m
+
+         testo$joao rodrigues/id=1708-t5
+            ls$ec/c
+            ls$profissao/trabalhador
+            ls$idade/23
+            ls$assina/b
+
+         testo$jose rodrigues/id=1708-t6
+            ls$ec/c
+            ls$profissao/alfaiate
+            ls$residencia/casal do sobral
+            ls$idade/26
+            ls$assina/b
+
+         testo$manuel francisco/id=1708-t7
+            ls$ec/c
+            ls$profissao/trabalhador
+            ls$residencia/casal do sobral
+            ls$idade/40
+            ls$assina/+
+
+         testo$manuel joao/id=1708-t8
+            ls$ec/c
+            ls$profissao/lavrador
+            ls$residencia/casal dos casalinhos
+            ls$idade/80
+            rel$parentesco/primo direito/maria goncalves/1708-a6
+            rel$vizinhanca/vizinho/maria goncalves/1708-a6
+
+            acus$8/1708-c3/UNDEFINED=amanc/literal=ver acusacao ao caso 1708-c5/id=1708-t8-obj4
+
+            acus$8/1708-c4/UNDEFINED=amanc/literal=ver acusacao ao caso 1708-c5/id=1708-t8-obj5
+
+            acus$8/1708-c5/UNDEFINED=cons/literal=o padre entra de dia e de noite em casa dela tendo ela duas filhas mocas chamadas maria e isabel "e que a dita maria goncalves se saia muitas vezes para fora a buscar vinho e outras coisas que eram necessarias para comerem e beberem e que ao dito padre deixava em casa com as ditas suas filhas como ele testemunha tinha visto, por ser seu vizinho/origem=pelo ver, e�vizinho/id=1708-t8-obj6
+
+               caso$1708-c3/amanc/UNDEFINED=antonio goncalves;maria/UNDEFINED=1708-a3;1708-a4/pronuncia=livrem seguros/resultado=foram notificados em 28 de Julho
+
+                  acusado$1708-a3/antonio goncalves/UNDEFINED=m/id=1708-c3-per1
+                     ls$profissao/padre
+                     ls$residencia/casal novo
+
+                  acusada$1708-a4/maria/UNDEFINED=f/id=1708-c3-per2
+                     rel$parentesco/filha/maria goncalves/1708-a6
+
+               caso$1708-c4/amanc/UNDEFINED=antonio goncalves;isabel/UNDEFINED=1708-a3;1708-a5/pronuncia=livrem seguros/resultado=foram notificados em 28 de Julho
+
+                  acusada$1708-a5/isabel/UNDEFINED=f/id=1708-c4-per3
+                     rel$parentesco/filha/maria goncalves/1708-a6
+
+               caso$1708-c5/cons/UNDEFINED=maria goncalves/UNDEFINED=1708-a6/descricao=das filhas maria e isabel/pronuncia=livrem seguros/resultado=foram notificados em 28 de Julho
+
+                  acusada$1708-a6/maria goncalves/UNDEFINED=f/id=1708-c5-per4
+                     ls$residencia/casal novo
+                     ls$ec/v
+
+         testo$manuel da fonseca/id=1708-t9
+            ls$ec/c
+            ls$profissao/trabalhador
+            ls$residencia/casal dos casalinhos
+            ls$idade/60
+            ls$assina/+
+
+         testo$manuel simoes/id=1708-t10
+            ls$ec/c
+            ls$profissao/trabalhador
+            ls$residencia/casal dos casalinhos
+            ls$idade/17
+            ls$assina/+
+
+            acus$10/1708-c3/UNDEFINED=amanc/id=1708-t10-obj7
+
+            acus$10/1708-c4/UNDEFINED=amanc/id=1708-t10-obj8
+
+            acus$10/1708-c5/UNDEFINED=cons/id=1708-t10-obj9
+
+         testo$manuel simoes/id=1708-t11
+            ls$ec/c
+            ls$profissao/lavrador
+            ls$residencia/casalinhos
+            ls$idade/40
+            ls$assina/+
+
+            acus$11/1708-c3/UNDEFINED=amanc/id=1708-t11-obj10
+
+            acus$11/1708-c4/UNDEFINED=amanc/id=1708-t11-obj11
+
+            acus$11/1708-c5/UNDEFINED=cons/id=1708-t11-obj12
+
+         testo$domingos rodrigues/id=1708-t12
+            ls$ec/c
+            ls$profissao/trabalhador
+            ls$residencia/casal dos casalinhos
+            ls$idade/30
+            ls$assina/+
+
+            acus$12/1708-c3/UNDEFINED=amanc/literal=ver acusacao ao caso 1708-c5/id=1708-t12-obj13
+
+            acus$12/1708-c4/UNDEFINED=amanc/literal=ver acusacao ao caso 1708-c5/id=1708-t12-obj14
+
+            acus$12/1708-c5/UNDEFINED=cons/literal="em uma ocasiao... o viu entrar na dita casa de tarde e sabia que ele dormira aquela noite o que sabia porque no dia seguinte foi a filha mais velha da dita Maria Goncalves chamada Maria, solteira, pedir a ele testemunha que  lhe desse uma pouca de palha que era para a [?] do dito padre Antonio Goncalves."/id=1708-t12-obj15
+
+         testo$jose gomes/id=1708-t13
+            ls$ec/c
+            ls$profissao/trabalhador
+            ls$residencia/casal dos casalinhos
+            ls$idade/20
+            ls$assina/+
+
+            acus$13/1708-c3/UNDEFINED=amanc/id=1708-t13-obj16
+
+            acus$13/1708-c4/UNDEFINED=amanc/id=1708-t13-obj17
+
+            acus$13/1708-c5/UNDEFINED=cons/id=1708-t13-obj18
+
+               caso$1708-c6/ma lin/UNDEFINED=isabel goncalves/UNDEFINED=1708-a7/pronuncia=admoestacao/resultado=fez termo
+
+                  acusada$1708-a7/isabel goncalves/UNDEFINED=f/id=1708-c6-per5
+                     ls$ec/c
+                     ls$residencia/casal de baixo
+                     rel$parentesco/mulher/jose rodrigues/1708-a7b
+
+                     referido$jose rodrigues/id=1708-a7b
+                        ls$residencia/casal de baixo
+
+            acus$13/1708-c6/UNDEFINED=ma lin/literal="descompor com nomes afrontosos as pessoas e mulheres honradas de sorte que ate sua enteada micalea mendes, mulher dele testemunha tinha descomposto de nomes afrontosos chamando-lhe desavergonhada, massana [mafana] e puta surrada, e filha de um cornudo [...] e a catarina rodrigues, viuva do mesmo casal, sendo mulher honrada e sua comadre, descompos de amancebada e levantando-lhe o testemunho falso de que andava prenhe [ver testemunha 46]"/id=1708-t13-obj19
+
+            referida$1708-t13a/micaela mendes/UNDEFINED=f/id=1708-t13-per6
+               ls$ec/c
+               rel$parentesco/mulher/jose gomes/1708-t13
+               rel$parentesco/enteada/isabel goncalves/1708-a7
+               rel$parentesco/filha/jose rodrigues/1708-a7b
+
+            referida$1708-a7c/catarina rodrigues/UNDEFINED=f/id=1708-t13-per7
+               ls$ec/v
+               rel$parentesco/comadre/isabel goncalves/1708-a7
+               ls$residencia/casal de baixo
+
+         testo$joao goncalves/id=1708-t14
+            ls$ec/c
+            ls$profissao/trabalhador
+            ls$residencia/casal dos beltroes
+            ls$idade/20
+            ls$assina/+
+
+         testo$agostinho simoes/id=1708-t15
+            ls$ec/c
+            ls$profissao/pastor
+            ls$residencia/casalinhos
+            ls$idade/28
+            ls$assina/+
+
+            acus$15/1708-c3/UNDEFINED=amanc/id=1708-t15-obj20
+
+            acus$15/1708-c4/UNDEFINED=amanc/id=1708-t15-obj21
+
+            acus$15/1708-c5/UNDEFINED=cons/literal=disseram a ele testemunha os proprios que eram parentes/id=1708-t15-obj22
+
+         testo$domingos alves/id=1708-t16
+            ls$ec/c
+            ls$profissao/lavrador
+            ls$residencia/beltroes
+            ls$idade/60
+            ls$assina/+
+
+         testo$lourenco dias/id=1708-t17
+            ls$ec/c
+            ls$profissao/trabalhador
+            ls$residencia/casal da borra
+            ls$idade/30
+            ls$assina/+
+
+         testo$manuel luis/id=1708-t18
+            ls$ec/c
+            ls$profissao/seareiro
+            ls$residencia/casal do vale da borra
+            ls$idade/30
+            ls$assina/+
+
+         testa$maria francisca/id=1708-t19
+            ls$ec/c
+            ls$residencia/casal dos casalinhos
+            ls$idade/35
+            rel$vizinhanca/vizinha/maria goncalves/1708-a6
+            rel$parentesco/mulher/manuel simoes/1708-t19a
+
+            referido$manuel simoes/id=1708-t19a
+               ls$residencia/casal dos casalinhos
+
+            acus$19/1708-c3/UNDEFINED=amanc/literal=ver acusacao no caso 1708-c5/id=1708-t19-obj23
+
+            acus$19/1708-c4/UNDEFINED=amanc/literal=ver acusacao no caso 1708-c5/id=1708-t19-obj24
+
+            acus$19/1708-c5/UNDEFINED=cons/literal=o padre ia dizer missa 'a capela de N.a S.a do Bom sucesso e volta a casa delas. Apesar de Maria Goncalves dizer que sao parentes. Ela testemunha, que nasceu ali, nunca tal tinha ouvido/id=1708-t19-obj25
+
+            referido$nome desconhecido/id=1708-t19b
+               rel$parentesco/pai/maria francisca/1708-t19
+               rel$parentesco/primo direito/maria goncalves/1708-a6
+
+            referida$1708-t19c/nome desconhecido/UNDEFINED=f/id=1708-t19-per8
+               rel$parentesco/mulher/nome desconhecido/1708-t19b
+               rel$parentesco/mae/maria francisca/1708-t19
+               rel$parentesco/prima direita/nome desconhecido/1708-t19d
+
+            referida$1708-t19d/nome desconhecido/UNDEFINED=f/id=1708-t19-per9
+               rel$parentesco/mae/antonio goncalves/1708-a3
+
+         testo$joao fernandes/id=1708-t20
+            ls$ec/c
+            ls$profissao/trabalhador
+            ls$residencia/casal da borra
+            ls$idade/35
+            ls$assina/+
+
+         testo$manuel fernandes/id=1708-t21
+            ls$ec/c
+            ls$profissao/trabalhador
+            ls$residencia/casal do vale da borra
+            ls$idade/30
+            ls$assina/+
+
+         testo$manuel rodrigues tome/id=1708-t22
+            ls$ec/c
+            ls$profissao/lavrador
+            ls$residencia/casal da borra
+            ls$idade/50
+            ls$assina/+
+
+         testo$manuel jorge/id=1708-t23
+            ls$ec/c
+            ls$profissao/lavrador/obs=homem que foi lavrador
+            ls$residencia/casal do vale da borra
+            ls$idade/76
+            ls$assina/+
+
+         testo$joao luis/id=1708-t24
+            ls$ec/c
+            ls$profissao/lavrador
+            ls$residencia/casal do vale da borra
+            ls$idade/35
+            ls$assina/b
+
+         testo$manuel jorge/id=1708-t25
+            ls$ec/v
+            ls$residencia/casal da corujeira
+            ls$idade/75
+            ls$assina/+
+
+         testo$manuel gomes/id=1708-t26
+            ls$ec/c
+            ls$profissao/trabalhador
+            ls$residencia/casal da corujeira
+            ls$idade/20
+            ls$assina/+
+            ls$assina/+/1708-c7/UNDEFINED=violf/UNDEFINED=manuel rodrigues/UNDEFINED=1708-a8/descricao=ma vida a sua mulher
+            ls$assina/+/1708-c7/UNDEFINED=violf/UNDEFINED=manuel rodrigues/UNDEFINED=1708-a8/UNDEFINED=1708-a8/UNDEFINED=manuel rodrigues/UNDEFINED=m/descricao=ma vida a sua mulher
+            ls$alcunha/moco
+            ls$freguesia/almagreira
+            rel$parentesco/marido/maria goncalves/1708-a8a
+
+            referida$1708-a8a/maria goncalves/UNDEFINED=f/id=1708-t26-per10
+               ls$residencia/estercadas
+               rel$parentesco/prima direita/manuel gomes/1708-t26
+
+            acus$26/1708-c7/UNDEFINED=violf/literal= havera 4 ou 5 anos viu ele a bater nela e por isso desde ai ela vive nas estercadas/id=1708-t26-obj26
+
+         testo$joao coelho/id=1708-t27
+            ls$ec/c
+            ls$profissao/trabalhador
+            ls$residencia/casal da corujeira
+            ls$idade/40
+            ls$assina/m
+
+         testo$manuel jorge/id=1708-t28
+            ls$ec/c
+            ls$profissao/lavrador
+            ls$residencia/corujeira
+            ls$idade/20
+            ls$assina/+
+
+         testa$maria rodrigues/id=1708-t29
+            ls$residencia/casal do espirito santo
+            ls$ec/v
+            ls$idade/60
+            rel$parentesco/foi mulher/domingos rodrigues/1708-t29a
+
+            referido$domingos rodrigues/id=1708-t29a
+               ls$morto/antes
+
+         testa$maria antunes/id=1708-t30
+            ls$ec/v
+            ls$residencia/casal do espirito santo
+            ls$idade/60
+            rel$parentesco/foi mulher/domingos pires/1708-t30a
+
+            referido$domingos pires/id=1708-t30a
+               ls$morto/antes
+
+         testo$luis de andrade/id=1708-t31
+            ls$ec/c
+            ls$profissao/trabalhador
+            ls$residencia/casal das brancas
+            ls$idade/45
+            ls$assina/+
+
+         testo$mateus carvalho/id=1708-t32
+            ls$ec/c
+            ls$profissao/trabalhador
+            ls$idade/45
+            ls$residencia/casal das brancas
+            ls$assina/+
+
+         testo$paulo antunes/id=1708-t33
+            ls$ec/c
+            ls$profissao/trabalhador
+            ls$residencia/casal das brancas
+            ls$idade/45
+            ls$assina/+
+
+         testo$antonio de andrade/id=1708-t34
+            ls$ec/c
+            ls$profissao/trabalhador
+            ls$residencia/casal das brancas
+            ls$idade/50
+            ls$assina/+
+
+         testo$antonio goncalves/id=1708-t35
+            ls$ec/c
+            ls$profissao/lavrador
+            ls$residencia/casal da assamassa
+            ls$idade/40
+            ls$assina/+
+
+         testo$joao antunes/id=1708-t36
+            ls$ec/c
+            ls$profissao/sapateiro
+            ls$residencia/casal da assamassa
+            ls$idade/35
+            ls$assina/+
+
+         testo$manuel antunes/id=1708-t37
+            ls$ec/c
+            ls$profissao/lavrador
+            ls$residencia/casal da assamassa
+            ls$idade/80
+            ls$assina/+
+
+         testo$joao lopes/id=1708-t38
+            ls$ec/c
+            ls$profissao/trabalhador
+            ls$residencia/casal do espirito santo
+            ls$idade/60
+            ls$assina/+
+
+         testa$maria goncalves/id=1708-t39
+            ls$ec/c
+            ls$residencia/casalinhos
+            ls$idade/40
+
+            acus$39/1708-c6/UNDEFINED=ma lin/origem=insulta enteada micaela mendes, mulher de jose gomes/id=1708-t39-obj27
+
+         testo$bartolomeu de almeida/id=1708-40
+            ls$ec/c
+            ls$profissao/alfaiate
+            ls$residencia/paleao
+            ls$idade/35
+            ls$assina/+
+
+         testo$manuel francisco/id=1708-t41
+            ls$ec/c
+            ls$profissao/trabalhador
+            ls$residencia/paleao
+            ls$idade/45
+            ls$assina/+
+
+         testo$domingos marques/id=1708-t42
+            ls$ec/c
+            ls$profissao/trabalhador
+            ls$residencia/paleao
+            ls$idade/21
+            ls$assina/+
+
+            acus$42/1708-c8/UNDEFINED=ma lin/literal=ma lingua e desobediente a seu pai, simao jorge viuvo, e a testemunha ouvira chamar ao pai alma negra e malfadado./id=1708-t42-obj28
+
+               caso$1708-c8/ma lin/UNDEFINED=madalena gomes/UNDEFINED=1708-a9/pronuncia=admoestacao/resultado=fez termo
+
+                  acusada$1708-a9/madalena gomes/UNDEFINED=f/id=1708-c8-per11
+                     ls$ec/c
+                     rel$parentesco/mulher/simao domingues/1708-a9a
+
+                     referido$simao domingues/id=1708-a9a
+
+                     referido$simao jorge/id=1708-a9b
+                        ls$ec/v
+                        rel$parentesco/pai#a testemunha 48 diz que 'e padrasto. a pronuncia diz padrasto/madalena gomes/1708-a9
+
+         testo$antonio pereira/id=1708-43
+            ls$ec/c
+            ls$profissao/trabalhador
+            ls$residencia/paleao
+            ls$idade/57
+            ls$assina/+
+
+         testo$alexandre gomes/id=1708-t44
+            ls$ec/c
+            ls$profissao/almocreve
+            ls$residencia/paleao
+            ls$idade/33
+            ls$assina/m
+
+            acus$44/1708-c9/UNDEFINED=amanc/literal=ele vai a casa dela quando o marido nao esta./id=1708-t44-obj29
+
+            acus$44/1708-c10/UNDEFINED=amanc/literal=vai a casa dela na ausencia do marido/id=1708-t44-obj30
+
+               caso$1708-c9/amanc/UNDEFINED=antonio mendes;helena simoes/UNDEFINED=1708-a10;c340-4/obs= ela casou-se em 21 de Fevereiro de 1707, ha' um ano e meio/pronuncia= ele termo em 1.o lapso. ela em segredo/resultado=ele foi. tirada a dela.
+
+                  acusado$1708-a10/antonio mendes/UNDEFINED=m/id=1708-c9-per12
+                     ls$residencia/paleao
+                     ls$ec/s
+                     rel$parentesco/filho/antonio mendes/1708-a10a
+
+                     referido$antonio mendes/id=1708-a10a
+                        ls$residencia/paleao
+
+                  acusada$c340-4/helena simoes/UNDEFINED=f/mesmo_que=c340-4/id=1708-c9-per13
+                     ls$ec/c
+                     ls$residencia/paleao
+                     rel$parentesco/mulher/manuel goncalves/c340-1
+
+                     referido$manuel goncalves/m/id=c340-1/mesmo_que=c340-1
+                        ls$residencia/paleao
+                        ls$profissao/almocreve
+
+               caso$1708-c10/amanc/UNDEFINED=antonio mendes;josefa de oliveira/UNDEFINED=1708-a10;1708-a12/pronuncia=ela em 1.o lapso pelo paroco e no lapso que lhe couber/resultado=ele o foi, tirada a ela
+
+                  acusada$1708-a12/josefa de oliveira/UNDEFINED=f/id=1708-c10-per14
+                     ls$residencia/paleao
+                     ls$ec/c
+
+                     referido$1708-a12a/antonio aires#alves?/UNDEFINED=m/id=1708-c10-per14-per15
+                        ls$ec/c

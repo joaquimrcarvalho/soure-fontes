@@ -1,5 +1,5 @@
-KleioTranslator - server version 2021.A4 - build 1891 (master) 01/06/2021 08:41 
-1-6-2021 8-58
+KleioTranslator - server version 2021.A4 - build 1967 (master) 18/08/2021 22:05 
+21-8-2021 9-0
 
 Processing data file bap1731.cli
 -------------------------------------------
@@ -12,15 +12,10 @@ kleio translation started
 Structure: acto2.str
 Prefix: 
 Autorel: 
-Translation count: 9
+Translation count: 10
 Obs: 
-** Processing source fonte$baptizados 1731
-** Base name of file bap1731.cli
-
-WARNING: bap1731.cli line 3 * Warning: Filename should match source Id to avoid errors. File: bap1731.cli Id: baptizados 1731.
-Near lines: 3 
-Near line: 4       bap$b1731.01/7/1/1731/fol.181/igreja de sao tiago/padre manuel rodrigues alvaro
-
+** Processing source fonte$bap1731
+** Base name of file bap1731 in bap1731.cli
 6: bap$b1731.01
 31: bap$b1731.2
 59: bap$b1731.3
@@ -121,5 +116,5 @@ Near line: 4       bap$b1731.01/7/1/1731/fol.181/igreja de sao tiago/padre manue
 ** - /kleio-home/sources/soure-fontes/sources/1720-1732/bap1731.ids-renamed to- /kleio-home/sources/soure-fontes/sources/1720-1732/bap1731.cli
 ** Translation files closed.
 0  errors. 
-1  warnings.
+0  warnings.
 Translation finished.

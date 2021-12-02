@@ -1,5 +1,5 @@
-KleioTranslator - server version 2021.A4 - build 1891 (master) 01/06/2021 08:41 
-1-6-2021 9-9
+KleioTranslator - server version 2021.A4 - build 1967 (master) 18/08/2021 22:05 
+21-8-2021 8-58
 
 Processing data file bap1727.cli
 -------------------------------------------
@@ -12,15 +12,10 @@ kleio translation started
 Structure: gacto2.str
 Prefix: 
 Autorel: 
-Translation count: 8
+Translation count: 9
 Obs: 
-** Processing source fonte$baptizados 1727
-** Base name of file bap1727.cli
-
-WARNING: bap1727.cli line 3 * Warning: Filename should match source Id to avoid errors. File: bap1727.cli Id: baptizados 1727.
-Near lines: 3 
-Near line: 4       bap$b1727.01/5/1/1727/fol.113/igreja de sao tiago/padre manuel rodrigues alvaro
-
+** Processing source fonte$bap1727
+** Base name of file bap1727 in bap1727.cli
 6: bap$b1727.01
 26: bap$b1727.2
 50: bap$b1727.3
@@ -128,5 +123,5 @@ Near line: 4       bap$b1727.01/5/1/1727/fol.113/igreja de sao tiago/padre manue
 ** - /kleio-home/sources/soure-fontes/sources/1720-1732/bap1727.ids-renamed to- /kleio-home/sources/soure-fontes/sources/1720-1732/bap1727.cli
 ** Translation files closed.
 0  errors. 
-1  warnings.
+0  warnings.
 Translation finished.

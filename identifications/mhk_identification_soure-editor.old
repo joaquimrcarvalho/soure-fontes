@@ -1,0 +1,408 @@
+kleio$gacto2.str/translator=authorities/obs=Generated from database soure_editor by user soure, file date: +2021-05-31 Timestamp:2021-05-31T14:37:05.647Z
+
+   identifications$real-entities-soure-editor/Real entities, including real persons and real objects
+      /dbase=soure_editor
+      /user=soure-editor
+      /date=20210531
+      /mode=backup
+
+      rperson$rp-402/alexandre mendes/m/status=N
+         occ$amz32-per18
+         occ$amz34-per18
+         occ$amz48-per15
+         occ$amz49-per7
+
+      rperson$rp-205/antonia carvalha/f/status=N
+         occ$br04081720
+         occ$br04081720
+         occ$b1720.78-per6
+         occ$on30101720
+         occ$1721-b59-antonia
+         occ$1721-o45-antonia
+         occ$1721-o75-antonia
+         occ$1721-b111-antonia
+         occ$1721-o102-antonia
+         occ$1723-o3-antonia
+         occ$c1716.21-per3
+
+      rperson$rp-387/antonia carvalho/f/status=N
+         occ$b1719.7-per6
+         occ$br16011719
+         occ$b1719.46-per6
+         occ$b1719.47-per5
+         occ$b1719.86-per5
+
+      rperson$rp-209/antonio lourenco/m/status=N
+         occ$amz32-per13
+         occ$amz34-per13
+         occ$amz48-per13
+         occ$amz49-per5
+
+      rperson$rp-23/antonio manhos/m/status=N
+         occ$c40-9
+         occ$c5-7
+         occ$c83-8
+
+      rperson$rp-274/antonio manhos/m/status=N
+         occ$b1705.50-per1
+         occ$amabreu
+         occ$bn03061706-per1
+         occ$b1709.22-per6
+         occ$b1709.37-per1-per2
+         occ$b1718.10-per3
+         occ$b1718.96-per4
+
+      rperson$rp-211/bartolomeu de almeida/m/status=N
+         occ$o1720-4095-per1
+         occ$o1720-4095-per1
+
+      rperson$rp-202/bernardo de santo antonio/m/status=N
+         occ$b1714.48-per4
+         occ$b1714.57-per3
+         occ$b1715.25-per4
+         occ$bpad13101715
+         occ$b1731.70-per3
+
+      rperson$rp-234/domingos goncalves/m/status=N
+         occ$b1697.17-per4
+         occ$b1699.36-per4
+         occ$b1700.8-per6
+         occ$b1700.62-per4
+         occ$b1701.9-per4
+         occ$b1702.72-per4
+         occ$b1709.23-per3
+         occ$c1693.31-per8
+         occ$c1693.32-per6
+         occ$c1693.34-per8
+         occ$c1693.35-per8
+
+      rperson$rp-150/feliciana goncalves/f/status=N
+         occ$b1715.53-per1-per3
+         occ$bmae07071715
+
+      rperson$rp-284/feliciana goncalves/f/status=N
+         occ$b1707.69-per1-per3
+         occ$bmae12091707
+
+      rperson$rp-325/henrique barbosa canais/m/status=N
+         occ$bn08061718-per1
+
+      rperson$rp-400/ines galvao de melo/f/status=N
+         occ$c1693.27-per4
+         occ$b1696.72-per1-per3
+         occ$b1699.39-per1-per3
+         occ$b1700.70-per1-per3
+         occ$b1703.16-per1-per3
+         occ$b1704.102-per1-per3
+
+      rperson$rp-440/joao da costa de vasconcelos/m/status=N
+         occ$c24-8
+         occ$c12-7
+         occ$c25-8
+         occ$c43-7
+         occ$b1714.28-per4
+         occ$c1714.5-per7
+         occ$b1715.18-per4
+         occ$b1715.78-per4
+         occ$b1715.94-per1-per2
+         occ$c1686.7-per7
+         occ$c1687.13-per7
+         occ$o1713-3504-per1-per2
+         occ$o1715-3616-per1-per2
+         occ$c1688.4-per7
+         occ$o1716-3799-per1-per2
+         occ$o1720-4133-per1-per2
+         occ$o1720-4143-per1-per2
+         occ$c1689.20-per7
+         occ$b1695.62-per4
+         occ$b1697.1-per4
+         occ$b1697.36-per4
+         occ$b1699.64-per5
+         occ$b1702.16-per4
+         occ$b1702.19-per4
+         occ$b1703.34-per4
+         occ$b1706.20-per1-per2
+         occ$b1706.69-per3
+         occ$b1709.86-per4
+         occ$b1710.84-per4
+         occ$b1713.3-per6
+         occ$b1713.7-per6
+         occ$b1713.12-per4
+         occ$b1713.36-per6
+         occ$b1713.88-per1-per2
+         occ$b1713.106-per4
+         occ$b1718.5-per4
+         occ$b1718.27-per4
+         occ$bn08051718c-per1
+         occ$b1718.72-per4
+         occ$c1693.36-per7
+         occ$b1685.6-per4
+         occ$b1685.27b-per3
+         occ$b1685.29-per4
+         occ$b1686.28-per4
+         occ$b1686.44-per4
+         occ$ro18011687
+         occ$b1687.11-per4
+         occ$ro27041687
+         occ$b1687.26-per4
+         occ$b1687.87-per4
+         occ$b1688.4-per4
+         occ$b1688.28-per4
+         occ$b1689.34-per4
+         occ$b1689.44-per4
+         occ$b1689.63-per4
+         occ$b1689.87-per4
+         occ$b1689.91-per1
+         occ$b1690.29-per4
+         occ$b1690.51-per4
+         occ$b1690.69-per4
+         occ$b1690.77-per4
+         occ$c1691.1-per7
+         occ$c1691.2-per7
+         occ$b1691.60-per4
+         occ$b1691.62-per4
+         occ$br29091691b
+         occ$b1691.76-per2
+         occ$b1691.79-per4
+         occ$b1692.10-per6
+         occ$b1692.44-per7
+         occ$b1692.47-per6
+         occ$b1692.73-per4
+         occ$b1698.65-per6
+         occ$b1698.108-per1-per1-9
+         occ$b1699.30-per1-per2
+         occ$nm46-per1
+         occ$b1702.82-per1-per2
+         occ$amz56-per7
+         occ$c1710.2-7
+         occ$amz58-per1
+         occ$c1712.14-1
+         occ$o1713-3504-per1-per2
+         occ$o1715-3616-per1-per2
+         occ$amz61-per11
+         occ$o1716-3799-per1-per2
+         occ$br04101716
+         occ$b1716.87-per1-per2
+         occ$b1717.24-per4
+         occ$b1717.69-per4
+         occ$b1717.88-per4
+         occ$b1719.43-per6
+         occ$b1720.29-per4
+         occ$o1720-4133-per1-per2
+         occ$bn03081720-per1
+         occ$o1720-4143-per1-per2
+         occ$b1720.86-per4
+         occ$b1720.87-per4
+         occ$o1721.36-per1-per2
+         occ$o1723.76-per2
+         occ$c1724.24-per7
+         occ$b1726.27-per4
+         occ$b1726.31-per4
+         occ$1726-b74-joao
+         occ$b1727.22-per5
+         occ$1727-b18-joao
+         occ$b1727.64-per3
+         occ$b1728.75-per5
+
+      rperson$rp-427/joao rodrigues figueiredo/m/status=N
+         occ$c1692-joao-rodrigues-isabel-joao-cons-per15
+
+      rperson$rp-269/jorge de meneses/m/status=N
+         occ$b1705.13-per4
+         occ$c113-7-jor
+         occ$b1705.81-per4
+         occ$b1706.20-per4
+         occ$b1706.29-per4
+         occ$b1706.35-per4
+
+      rperson$rp-145/jose da cunha e sa/m/status=N
+         occ$c1718.15-per2
+         occ$c180-7
+         occ$o1708-3119-per1-per2
+         occ$b1695.11-per4
+         occ$b1695.35-per1-per3
+         occ$b1695.84-per4
+         occ$b1695.87-per4
+         occ$b1695.92-per4
+         occ$b1696.72-per1-per2
+         occ$b1699.39-per1-per2
+         occ$b1700.70-per1-per2
+         occ$b1703.16-per1-per2
+         occ$b1704.102-per1-per2
+         occ$b1705.62-per4
+         occ$b1706.66-per1-per2
+         occ$b1712.79-per1-per2
+         occ$b1718.90-per5
+         occ$c1693.27-per1
+
+      rperson$rp-289/luis barbosa/m/status=N
+         occ$b1708.11-per4
+         occ$c17-7-luis
+         occ$b1713.44-per4
+         occ$b1718.12-per4
+         occ$b1718.18-per6
+         occ$b1718.88-per1-per2
+
+      rperson$rp-484/luis manhos/m/status=N
+         occ$b1706.51d-per4
+         occ$lmabreu
+         occ$b1706.51h-per5
+         occ$b1706.94-per1-per2
+         occ$b1706.102-per4
+         occ$b1707.34-per4
+         occ$b1707.52-per4
+         occ$b1707.56-per4
+         occ$b1707.76-per4
+         occ$b1707.83-per4
+         occ$b1708.7-per6
+         occ$b1708.9-per5
+         occ$b1708.12-per4
+         occ$b1708.98-per6
+         occ$b1708.99-per1-per2
+         occ$b1709.36-per6
+         occ$b1709.53-per4
+         occ$b1709.58-per4
+         occ$b1710.12-per5
+         occ$b1710.19-per6
+         occ$b1710.29-per5
+         occ$b1710.42-per5
+         occ$b1710.47-per4
+         occ$b1710.74-per4
+         occ$b1710.98-per4
+         occ$b1711.31-per4
+         occ$b1711.40-per5
+         occ$b1711.53-per3
+         occ$b1711.71-per1-per2
+         occ$b1711.98-per6
+         occ$b1711.110-per4
+         occ$b1712.35-per4
+         occ$b1712.68-per4
+         occ$b1713.8-per6
+         occ$b1714.41-per4
+         occ$b1714.64-per4
+         occ$b1718.7-per6
+         occ$b1718.49-per5
+         occ$b1718.70-per4
+         occ$b1718.80-per5
+         occ$b1705.79-per6
+         occ$b1705.83-per6
+         occ$b1705.98-per6
+
+      rperson$rp-275/manuel soares coelho/m/status=N
+         occ$b1706.3-per4
+         occ$mscoelho
+         occ$b1706.32-per1-per2
+         occ$b1706.96-per6
+         occ$b1707.53-per6
+         occ$b1708.7-per4
+         occ$b1708.19-per1-per2
+         occ$b1709.55-per2
+         occ$b1709.86-per6
+         occ$b1710.79-per4
+         occ$bn13101710-per1
+         occ$b1711.71-per6
+         occ$b1712.16-per1-per2
+         occ$b1712.38-per4
+         occ$b1712.56-per4
+         occ$b1712.74-per5
+         occ$b1713.43-per4
+         occ$b1714.81-per4
+         occ$b1718.98-per5
+         occ$b1718.104-per5
+
+      rperson$rp-184/maria ferreira/f/status=N
+         occ$bmae02051720
+         occ$b1720.36-per1-per3
+
+      rperson$rp-270/mariana/f/status=N
+         occ$b1705.13-per5
+         occ$c113-7-mar
+         occ$b1705.31-per5
+         occ$b1706.20-per5
+         occ$b1706.35-per5
+         occ$b1707.4-per5
+         occ$b1707.7-per5
+
+      rperson$rp-288/mariana/f/status=N
+         occ$b1709.36-per5
+         occ$b1709.58-per5
+         occ$b1712.68-per5
+         occ$b1713.8-per5
+         occ$b1718.49-per6
+
+      rperson$rp-43/mateus dias/m/status=N
+         occ$c136-2
+         occ$c59-5
+
+      rperson$rp-438/mateus manhos de abreu/m/status=N
+         occ$amz13-per13
+         occ$b1697.84-per7
+         occ$amz46-per14
+
+      rperson$rp-206/miguel ferreira/m/status=N
+         occ$b1720.32-per4
+         occ$b1720.46-per6
+         occ$o1721.45-per2
+         occ$o1721.75-per2
+         occ$b1721.111-per6
+         occ$o1721.102-per3
+         occ$o1723.3-per3
+
+      rperson$rp-149/pedro rodrigues/m/status=N
+         occ$b1715.53-per1-per2
+         occ$bpai07071715
+
+      rperson$rp-283/pedro rodrigues/m/status=N
+         occ$b1707.69-per1-per2
+         occ$bpai12091707
+
+      rperson$rp-263/rodrigo/m/status=N
+         occ$b1704.51-per1
+         occ$b1705.52-per4
+         occ$b1705.64-per4
+         occ$b1706.53-per1
+         occ$b1707.47-per4
+         occ$b1708.100-per4
+         occ$b1709.8-per4
+         occ$b1709.16-per4
+         occ$b1709.100-per4
+         occ$b1710.52-per4
+         occ$b1710.101-per4
+         occ$b1713.5-per4
+         occ$b1714.5-per4
+         occ$b1714.9-per4
+         occ$b1714.37-per4
+         occ$b1714.42-per4
+         occ$b1714.66-per4
+         occ$b1718.8-per3
+         occ$b1718.56-per3
+
+      rperson$rp-103/rodrigo homem/m/status=N
+         occ$c1708.24-8
+         occ$c1708.23-8
+         occ$c1708.27-8
+
+      rperson$rp-3/sebastiao soares coelho/m/status=N
+         occ$c1693.39-per7
+         occ$sscoelho
+         occ$c1694.23-per2
+         occ$o1708-3139-per1
+
+      rperson$rp-76/simao afonso/m/status=N
+         occ$c279-9
+         occ$c278-9
+
+      rperson$rp-524/teresa de jesus/f/status=N
+         occ$c1708.22-4
+         occ$b1709.90-per1-per3
+         occ$b1711.81-per4
+
+      rperson$rp-321/tome velho/m/status=N
+         occ$b1714.13-per6
+         occ$tvelho
+
+      rperson$rp-436/tome velho/m/status=N
+         occ$amz12-per19
+         occ$amz46-per12
+         occ$amz48-per17
+

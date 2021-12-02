@@ -1,5 +1,5 @@
-KleioTranslator - server version 2021.A4 - build 1830 (master) 23/05/2021 17:33 
-23-5-2021 12-59
+KleioTranslator - server version 2021.A4 - build 1967 (master) 18/08/2021 22:05 
+21-8-2021 8-39
 
 Processing data file eleicoes5.cli
 -------------------------------------------
@@ -12,15 +12,10 @@ kleio translation started
 Structure: gacto2.str
 Prefix: 
 Autorel: 
-Translation count: 12
+Translation count: 13
 Obs: 
-** Processing source fonte$mis mesa5
-** Base name of file eleicoes5.cli
-
-WARNING: eleicoes5.cli line 3 * Warning: Filename should match source Id to avoid errors. File: eleicoes5.cli Id: mis mesa5.
-Near lines: 3 
-Near line: 4       amz$emz5-1/03/07/1904/13/resumo=termo de eleicao de irmaos da mesa
-
+** Processing source fonte$eleicoes5
+** Base name of file eleicoes5 in eleicoes5.cli
 6: amz$emz5-1
 32: amz$emz5-2
 61: amz$emz5-3
@@ -46,5 +41,5 @@ Near line: 4       amz$emz5-1/03/07/1904/13/resumo=termo de eleicao de irmaos da
 ** - /kleio-home/sources/soure-fontes/sources/1685-1720/irmaos_misericordia/eleicoes5.ids-renamed to- /kleio-home/sources/soure-fontes/sources/1685-1720/irmaos_misericordia/eleicoes5.cli
 ** Translation files closed.
 0  errors. 
-1  warnings.
+0  warnings.
 Translation finished.

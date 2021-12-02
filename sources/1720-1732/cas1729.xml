@@ -1,5 +1,9 @@
 <?xml version='1.0'?>
+<<<<<<< HEAD
 <KLEIO STRUCTURE="/kleio-home/system/conf/kleio/stru/gacto2.str" SOURCE="/kleio-home/sources/soure-fontes/sources/1720-1732/cas1729.cli" TRANSLATOR="gactoxml2.str" WHEN="2021-8-23 5:24:6" OBS="" SPACE="">
+=======
+<KLEIO STRUCTURE="/kleio-home/system/conf/kleio/stru/gacto2.str" SOURCE="/kleio-home/sources/soure-fontes/sources/1720-1732/cas1729.cli" TRANSLATOR="gactoxml2.str" WHEN="2021-8-21 9:0:58" OBS="" SPACE="">
+>>>>>>> ab7df2bcd423fd803ead36c04edd8452368bbd1f
 <CLASS NAME="source" SUPER="entity" TABLE="sources" GROUP="fonte">
      <ATTRIBUTE NAME="id" COLUMN="id" CLASS="id" TYPE="varchar" SIZE="64" PRECISION="0" PKEY="1" ></ATTRIBUTE>
      <ATTRIBUTE NAME="date" COLUMN="the_date" CLASS="date" TYPE="varchar" SIZE="24" PRECISION="0" PKEY="0" ></ATTRIBUTE>
@@ -12,14 +16,16 @@
      <ATTRIBUTE NAME="replace" COLUMN="replaces" CLASS="replace" TYPE="varchar" SIZE="254" PRECISION="0" PKEY="0" ></ATTRIBUTE>
 </CLASS>
 
-<GROUP ID="casamentos 1729" NAME="fonte" CLASS="source" ORDER="1" LEVEL="1" LINE="4">
+<GROUP ID="cas1729" NAME="fonte" CLASS="source" ORDER="1" LEVEL="1" LINE="4">
     <ELEMENT NAME="line" CLASS="line"><core>4</core></ELEMENT>
-    <ELEMENT NAME="id" CLASS="id"><core>casamentos 1729</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>cas1729</core></ELEMENT>
     <ELEMENT NAME="groupname" CLASS="groupname"><core>fonte</core></ELEMENT>
    <ELEMENT NAME="inside" CLASS="inside"><core>root</core></ELEMENT>
    <ELEMENT NAME="class" CLASS="class"><core>source</core></ELEMENT>
     <ELEMENT NAME="order" CLASS="order"><core>1</core></ELEMENT>
     <ELEMENT NAME="level" CLASS="level"><core>1</core></ELEMENT>
+   <ELEMENT NAME="substitui" CLASS="replace">
+         <core><![CDATA[casamentos 1729]]></core>   </ELEMENT>
    <ELEMENT NAME="year" CLASS="undef">
          <core><![CDATA[1729]]></core>   </ELEMENT>
    <ELEMENT NAME="type" CLASS="type">
@@ -46,7 +52,7 @@
     <ELEMENT NAME="line" CLASS="line"><core>6</core></ELEMENT>
     <ELEMENT NAME="id" CLASS="id"><core>c1729.01</core></ELEMENT>
     <ELEMENT NAME="groupname" CLASS="groupname"><core>cas</core></ELEMENT>
-   <ELEMENT NAME="inside" CLASS="inside"><core>casamentos 1729</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>cas1729</core></ELEMENT>
    <ELEMENT NAME="class" CLASS="class"><core>act</core></ELEMENT>
     <ELEMENT NAME="order" CLASS="order"><core>2</core></ELEMENT>
     <ELEMENT NAME="level" CLASS="level"><core>2</core></ELEMENT>
@@ -736,7 +742,7 @@
     <ELEMENT NAME="line" CLASS="line"><core>39</core></ELEMENT>
     <ELEMENT NAME="id" CLASS="id"><core>c1729.2</core></ELEMENT>
     <ELEMENT NAME="groupname" CLASS="groupname"><core>cas</core></ELEMENT>
-   <ELEMENT NAME="inside" CLASS="inside"><core>casamentos 1729</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>cas1729</core></ELEMENT>
    <ELEMENT NAME="class" CLASS="class"><core>act</core></ELEMENT>
     <ELEMENT NAME="order" CLASS="order"><core>43</core></ELEMENT>
     <ELEMENT NAME="level" CLASS="level"><core>2</core></ELEMENT>
@@ -1343,7 +1349,7 @@
     <ELEMENT NAME="line" CLASS="line"><core>69</core></ELEMENT>
     <ELEMENT NAME="id" CLASS="id"><core>c1729.3</core></ELEMENT>
     <ELEMENT NAME="groupname" CLASS="groupname"><core>cas</core></ELEMENT>
-   <ELEMENT NAME="inside" CLASS="inside"><core>casamentos 1729</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>cas1729</core></ELEMENT>
    <ELEMENT NAME="class" CLASS="class"><core>act</core></ELEMENT>
     <ELEMENT NAME="order" CLASS="order"><core>81</core></ELEMENT>
     <ELEMENT NAME="level" CLASS="level"><core>2</core></ELEMENT>
@@ -2038,7 +2044,7 @@
     <ELEMENT NAME="line" CLASS="line"><core>103</core></ELEMENT>
     <ELEMENT NAME="id" CLASS="id"><core>c1729.4</core></ELEMENT>
     <ELEMENT NAME="groupname" CLASS="groupname"><core>cas</core></ELEMENT>
-   <ELEMENT NAME="inside" CLASS="inside"><core>casamentos 1729</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>cas1729</core></ELEMENT>
    <ELEMENT NAME="class" CLASS="class"><core>act</core></ELEMENT>
     <ELEMENT NAME="order" CLASS="order"><core>123</core></ELEMENT>
     <ELEMENT NAME="level" CLASS="level"><core>2</core></ELEMENT>
@@ -2645,7 +2651,7 @@
     <ELEMENT NAME="line" CLASS="line"><core>133</core></ELEMENT>
     <ELEMENT NAME="id" CLASS="id"><core>c1729.5</core></ELEMENT>
     <ELEMENT NAME="groupname" CLASS="groupname"><core>cas</core></ELEMENT>
-   <ELEMENT NAME="inside" CLASS="inside"><core>casamentos 1729</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>cas1729</core></ELEMENT>
    <ELEMENT NAME="class" CLASS="class"><core>act</core></ELEMENT>
     <ELEMENT NAME="order" CLASS="order"><core>161</core></ELEMENT>
     <ELEMENT NAME="level" CLASS="level"><core>2</core></ELEMENT>
@@ -3223,7 +3229,7 @@
     <ELEMENT NAME="line" CLASS="line"><core>161</core></ELEMENT>
     <ELEMENT NAME="id" CLASS="id"><core>c1729.6</core></ELEMENT>
     <ELEMENT NAME="groupname" CLASS="groupname"><core>cas</core></ELEMENT>
-   <ELEMENT NAME="inside" CLASS="inside"><core>casamentos 1729</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>cas1729</core></ELEMENT>
    <ELEMENT NAME="class" CLASS="class"><core>act</core></ELEMENT>
     <ELEMENT NAME="order" CLASS="order"><core>197</core></ELEMENT>
     <ELEMENT NAME="level" CLASS="level"><core>2</core></ELEMENT>
@@ -3956,7 +3962,7 @@
     <ELEMENT NAME="line" CLASS="line"><core>197</core></ELEMENT>
     <ELEMENT NAME="id" CLASS="id"><core>c1729.7</core></ELEMENT>
     <ELEMENT NAME="groupname" CLASS="groupname"><core>cas</core></ELEMENT>
-   <ELEMENT NAME="inside" CLASS="inside"><core>casamentos 1729</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>cas1729</core></ELEMENT>
    <ELEMENT NAME="class" CLASS="class"><core>act</core></ELEMENT>
     <ELEMENT NAME="order" CLASS="order"><core>241</core></ELEMENT>
     <ELEMENT NAME="level" CLASS="level"><core>2</core></ELEMENT>
@@ -4623,7 +4629,7 @@
     <ELEMENT NAME="line" CLASS="line"><core>230</core></ELEMENT>
     <ELEMENT NAME="id" CLASS="id"><core>c1729.8</core></ELEMENT>
     <ELEMENT NAME="groupname" CLASS="groupname"><core>cas</core></ELEMENT>
-   <ELEMENT NAME="inside" CLASS="inside"><core>casamentos 1729</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>cas1729</core></ELEMENT>
    <ELEMENT NAME="class" CLASS="class"><core>act</core></ELEMENT>
     <ELEMENT NAME="order" CLASS="order"><core>282</core></ELEMENT>
     <ELEMENT NAME="level" CLASS="level"><core>2</core></ELEMENT>
@@ -5290,7 +5296,7 @@
     <ELEMENT NAME="line" CLASS="line"><core>263</core></ELEMENT>
     <ELEMENT NAME="id" CLASS="id"><core>c1729.9</core></ELEMENT>
     <ELEMENT NAME="groupname" CLASS="groupname"><core>cas</core></ELEMENT>
-   <ELEMENT NAME="inside" CLASS="inside"><core>casamentos 1729</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>cas1729</core></ELEMENT>
    <ELEMENT NAME="class" CLASS="class"><core>act</core></ELEMENT>
     <ELEMENT NAME="order" CLASS="order"><core>323</core></ELEMENT>
     <ELEMENT NAME="level" CLASS="level"><core>2</core></ELEMENT>
@@ -6168,7 +6174,7 @@
     <ELEMENT NAME="line" CLASS="line"><core>304</core></ELEMENT>
     <ELEMENT NAME="id" CLASS="id"><core>c1729.10</core></ELEMENT>
     <ELEMENT NAME="groupname" CLASS="groupname"><core>cas</core></ELEMENT>
-   <ELEMENT NAME="inside" CLASS="inside"><core>casamentos 1729</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>cas1729</core></ELEMENT>
    <ELEMENT NAME="class" CLASS="class"><core>act</core></ELEMENT>
     <ELEMENT NAME="order" CLASS="order"><core>377</core></ELEMENT>
     <ELEMENT NAME="level" CLASS="level"><core>2</core></ELEMENT>
@@ -6875,7 +6881,7 @@
     <ELEMENT NAME="line" CLASS="line"><core>339</core></ELEMENT>
     <ELEMENT NAME="id" CLASS="id"><core>c1729.11</core></ELEMENT>
     <ELEMENT NAME="groupname" CLASS="groupname"><core>cas</core></ELEMENT>
-   <ELEMENT NAME="inside" CLASS="inside"><core>casamentos 1729</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>cas1729</core></ELEMENT>
    <ELEMENT NAME="class" CLASS="class"><core>act</core></ELEMENT>
     <ELEMENT NAME="order" CLASS="order"><core>420</core></ELEMENT>
     <ELEMENT NAME="level" CLASS="level"><core>2</core></ELEMENT>
@@ -7493,7 +7499,7 @@
     <ELEMENT NAME="line" CLASS="line"><core>369</core></ELEMENT>
     <ELEMENT NAME="id" CLASS="id"><core>c1729.12</core></ELEMENT>
     <ELEMENT NAME="groupname" CLASS="groupname"><core>cas</core></ELEMENT>
-   <ELEMENT NAME="inside" CLASS="inside"><core>casamentos 1729</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>cas1729</core></ELEMENT>
    <ELEMENT NAME="class" CLASS="class"><core>act</core></ELEMENT>
     <ELEMENT NAME="order" CLASS="order"><core>458</core></ELEMENT>
     <ELEMENT NAME="level" CLASS="level"><core>2</core></ELEMENT>
@@ -8100,7 +8106,7 @@
     <ELEMENT NAME="line" CLASS="line"><core>399</core></ELEMENT>
     <ELEMENT NAME="id" CLASS="id"><core>c1729.13</core></ELEMENT>
     <ELEMENT NAME="groupname" CLASS="groupname"><core>cas</core></ELEMENT>
-   <ELEMENT NAME="inside" CLASS="inside"><core>casamentos 1729</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>cas1729</core></ELEMENT>
    <ELEMENT NAME="class" CLASS="class"><core>act</core></ELEMENT>
     <ELEMENT NAME="order" CLASS="order"><core>496</core></ELEMENT>
     <ELEMENT NAME="level" CLASS="level"><core>2</core></ELEMENT>
@@ -8708,7 +8714,7 @@
     <ELEMENT NAME="line" CLASS="line"><core>429</core></ELEMENT>
     <ELEMENT NAME="id" CLASS="id"><core>c1729.15</core></ELEMENT>
     <ELEMENT NAME="groupname" CLASS="groupname"><core>cas</core></ELEMENT>
-   <ELEMENT NAME="inside" CLASS="inside"><core>casamentos 1729</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>cas1729</core></ELEMENT>
    <ELEMENT NAME="class" CLASS="class"><core>act</core></ELEMENT>
     <ELEMENT NAME="order" CLASS="order"><core>534</core></ELEMENT>
     <ELEMENT NAME="level" CLASS="level"><core>2</core></ELEMENT>
@@ -9415,7 +9421,7 @@
     <ELEMENT NAME="line" CLASS="line"><core>464</core></ELEMENT>
     <ELEMENT NAME="id" CLASS="id"><core>c1729.16</core></ELEMENT>
     <ELEMENT NAME="groupname" CLASS="groupname"><core>cas</core></ELEMENT>
-   <ELEMENT NAME="inside" CLASS="inside"><core>casamentos 1729</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>cas1729</core></ELEMENT>
    <ELEMENT NAME="class" CLASS="class"><core>act</core></ELEMENT>
     <ELEMENT NAME="order" CLASS="order"><core>577</core></ELEMENT>
     <ELEMENT NAME="level" CLASS="level"><core>2</core></ELEMENT>
@@ -10142,7 +10148,7 @@
     <ELEMENT NAME="line" CLASS="line"><core>500</core></ELEMENT>
     <ELEMENT NAME="id" CLASS="id"><core>c1729.17</core></ELEMENT>
     <ELEMENT NAME="groupname" CLASS="groupname"><core>cas</core></ELEMENT>
-   <ELEMENT NAME="inside" CLASS="inside"><core>casamentos 1729</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>cas1729</core></ELEMENT>
    <ELEMENT NAME="class" CLASS="class"><core>act</core></ELEMENT>
     <ELEMENT NAME="order" CLASS="order"><core>621</core></ELEMENT>
     <ELEMENT NAME="level" CLASS="level"><core>2</core></ELEMENT>
@@ -10789,7 +10795,7 @@
     <ELEMENT NAME="line" CLASS="line"><core>532</core></ELEMENT>
     <ELEMENT NAME="id" CLASS="id"><core>c1729.18</core></ELEMENT>
     <ELEMENT NAME="groupname" CLASS="groupname"><core>cas</core></ELEMENT>
-   <ELEMENT NAME="inside" CLASS="inside"><core>casamentos 1729</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>cas1729</core></ELEMENT>
    <ELEMENT NAME="class" CLASS="class"><core>act</core></ELEMENT>
     <ELEMENT NAME="order" CLASS="order"><core>661</core></ELEMENT>
     <ELEMENT NAME="level" CLASS="level"><core>2</core></ELEMENT>
@@ -11456,7 +11462,7 @@
     <ELEMENT NAME="line" CLASS="line"><core>565</core></ELEMENT>
     <ELEMENT NAME="id" CLASS="id"><core>c1729.19</core></ELEMENT>
     <ELEMENT NAME="groupname" CLASS="groupname"><core>cas</core></ELEMENT>
-   <ELEMENT NAME="inside" CLASS="inside"><core>casamentos 1729</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>cas1729</core></ELEMENT>
    <ELEMENT NAME="class" CLASS="class"><core>act</core></ELEMENT>
     <ELEMENT NAME="order" CLASS="order"><core>702</core></ELEMENT>
     <ELEMENT NAME="level" CLASS="level"><core>2</core></ELEMENT>
@@ -12343,7 +12349,7 @@
     <ELEMENT NAME="line" CLASS="line"><core>607</core></ELEMENT>
     <ELEMENT NAME="id" CLASS="id"><core>c1729.20</core></ELEMENT>
     <ELEMENT NAME="groupname" CLASS="groupname"><core>cas</core></ELEMENT>
-   <ELEMENT NAME="inside" CLASS="inside"><core>casamentos 1729</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>cas1729</core></ELEMENT>
    <ELEMENT NAME="class" CLASS="class"><core>act</core></ELEMENT>
     <ELEMENT NAME="order" CLASS="order"><core>757</core></ELEMENT>
     <ELEMENT NAME="level" CLASS="level"><core>2</core></ELEMENT>
@@ -12941,7 +12947,7 @@
     <ELEMENT NAME="line" CLASS="line"><core>636</core></ELEMENT>
     <ELEMENT NAME="id" CLASS="id"><core>c1729.21</core></ELEMENT>
     <ELEMENT NAME="groupname" CLASS="groupname"><core>cas</core></ELEMENT>
-   <ELEMENT NAME="inside" CLASS="inside"><core>casamentos 1729</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>cas1729</core></ELEMENT>
    <ELEMENT NAME="class" CLASS="class"><core>act</core></ELEMENT>
     <ELEMENT NAME="order" CLASS="order"><core>794</core></ELEMENT>
     <ELEMENT NAME="level" CLASS="level"><core>2</core></ELEMENT>
@@ -13568,7 +13574,7 @@
     <ELEMENT NAME="line" CLASS="line"><core>667</core></ELEMENT>
     <ELEMENT NAME="id" CLASS="id"><core>c1729.22</core></ELEMENT>
     <ELEMENT NAME="groupname" CLASS="groupname"><core>cas</core></ELEMENT>
-   <ELEMENT NAME="inside" CLASS="inside"><core>casamentos 1729</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>cas1729</core></ELEMENT>
    <ELEMENT NAME="class" CLASS="class"><core>act</core></ELEMENT>
     <ELEMENT NAME="order" CLASS="order"><core>833</core></ELEMENT>
     <ELEMENT NAME="level" CLASS="level"><core>2</core></ELEMENT>

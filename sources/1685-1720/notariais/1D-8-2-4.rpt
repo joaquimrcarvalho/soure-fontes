@@ -1,5 +1,5 @@
-KleioTranslator - server version 2021.A4 - build 1891 (master) 01/06/2021 08:41 
-1-6-2021 9-0
+KleioTranslator - server version 2021.A4 - build 1967 (master) 18/08/2021 22:05 
+21-8-2021 9-7
 
 Processing data file 1D-8-2-4.cli
 -------------------------------------------
@@ -12,15 +12,10 @@ kleio translation started
 Structure: gacto2.str
 Prefix: 
 Autorel: 
-Translation count: 21
+Translation count: 22
 Obs: 
-** Processing source fonte$n2.23
-** Base name of file 1D-8-2-4.cli
-
-WARNING: 1D-8-2-4.cli line 3 * Warning: Filename should match source Id to avoid errors. File: 1D-8-2-4.cli Id: n2.23.
-Near lines: 3 
-Near line: 4       escritura$n.2.4.1/00/03/1691/obrigacao/fol=52-2v/loc=pousadas do tabeliao, em soure/obs= por eles foi dito que tinham umas terras no sitio do longa(?) termo da vila da ega - e nas quais terras tinham os orfaos seus filhos de sua primeira mulher isabel luis 7000 reis pouco mais ou menos
-
+** Processing source fonte$1D-8-2-4
+** Base name of file 1D-8-2-4 in 1D-8-2-4.cli
 6: escritura$n.2.4.1
 17: escritura$n.2.4.2
 22: escritura$n.2.4.3
@@ -104,5 +99,5 @@ Near line: 4       escritura$n.2.4.1/00/03/1691/obrigacao/fol=52-2v/loc=pousadas
 ** - /kleio-home/sources/soure-fontes/sources/1685-1720/notariais/1D-8-2-4.ids-renamed to- /kleio-home/sources/soure-fontes/sources/1685-1720/notariais/1D-8-2-4.cli
 ** Translation files closed.
 0  errors. 
-1  warnings.
+0  warnings.
 Translation finished.
