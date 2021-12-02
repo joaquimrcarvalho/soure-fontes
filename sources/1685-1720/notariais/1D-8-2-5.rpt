@@ -1,5 +1,5 @@
-KleioTranslator - server version @@VERSION@@ - build @@BUILD@@ @@DATE@@
-25-8-2020 11-19
+KleioTranslator - server version 2021.A5 - build 1984 (master) 13/10/2021 20:51 
+2-11-2021 11-5
 
 Processing data file 1D-8-2-5.cli
 -------------------------------------------
@@ -12,9 +12,14 @@ kleio translation started
 Structure: gacto2.str
 Prefix: 
 Autorel: 
-Translation count: 6
+Translation count: 8
 Obs: 
 ** Processing source fonte$n2.5
+
+WARNING: 1D-8-2-5.cli line 3 * Warning: Filename should match source Id to avoid errors. File: 1D-8-2-5 Id: n2.5.
+Near lines: 3 
+Near lines: 4       escritura$n.2.5.1/0/0/0/fol=(1)/loc=/obs=truncado
+
 6: escritura$n.2.5.1
 8: escritura$n.2.5.2
 10: escritura$n.2.5.3
@@ -45,13 +50,11 @@ Line 271 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (c1694.9-per1) CHECK IF IT EXI
 Line 278 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (c159-4) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
 Line 302 "SAME AS" TO EXTERNAL REFERENCE EXPORTED (c159-1) CHECK IF IT EXISTS BEFORE IMPORTING THIS FILE.
 
-** Processed file- /Users/jrc/mhk-home/sources/soure-fontes/sources/1685-1720/notariais/1D-8-2-5.cli
-** Original file- /Users/jrc/mhk-home/sources/soure-fontes/sources/1685-1720/notariais/1D-8-2-5.org
-** Previous version- /Users/jrc/mhk-home/sources/soure-fontes/sources/1685-1720/notariais/1D-8-2-5.old
-** Temp file with ids- /Users/jrc/mhk-home/sources/soure-fontes/sources/1685-1720/notariais/1D-8-2-5.ids
-** - /Users/jrc/mhk-home/sources/soure-fontes/sources/1685-1720/notariais/1D-8-2-5.cli-renamed to- /Users/jrc/mhk-home/sources/soure-fontes/sources/1685-1720/notariais/1D-8-2-5.org
-** - /Users/jrc/mhk-home/sources/soure-fontes/sources/1685-1720/notariais/1D-8-2-5.ids-renamed to- /Users/jrc/mhk-home/sources/soure-fontes/sources/1685-1720/notariais/1D-8-2-5.cli
-** Translation files closed.
+** Processed file- /kleio-home/sources/soure-fontes/sources/1685-1720/notariais/1D-8-2-5.cli
+** Original file- /kleio-home/sources/soure-fontes/sources/1685-1720/notariais/1D-8-2-5.org
+** Previous version- /kleio-home/sources/soure-fontes/sources/1685-1720/notariais/1D-8-2-5.old
+** Temp file with ids- /kleio-home/sources/soure-fontes/sources/1685-1720/notariais/1D-8-2-5.ids
+** - /kleio-home/sources/soure-fontes/sources/1685-1720/notariais/1D-8-2-5.cli-renamed to- /kleio-home/sources/soure-fontes/sources/1685-1720/notariais/1D-8-2-5.old
 0  errors. 
-0  warnings.
+1  warnings.
 Translation finished.
