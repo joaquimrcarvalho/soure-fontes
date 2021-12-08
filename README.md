@@ -11,7 +11,8 @@ A maior parte das fontes são registos paroquiais, mas para 1685-1720 existe um 
 O formato das fontes da fase1 é por vezes diferente dos atualmente usados, uma vez que a recolha foi feita numa fase muito inicial de criação do sistema. 
 
 Este é o repositório de referência da reconstituição da comunidade de Soure disponível em 
-https://github.com/joaquimrcarvalho/soure-fontes.git 
+    
+        https://github.com/joaquimrcarvalho/soure-fontes.git 
 
 
 ## License
@@ -26,6 +27,6 @@ Each Kleio transcription file is copyright of the person or persons that produce
 (c) Universidade de Coimbra, Joaquim Ramos de Carvalho e Fernando Gouveia Pais.
 
 _Files in this repository are covered by the Creative Commons 
-Attribution-NonCommmercial-ShareAlike 4.0 International_
+Attribution-NonCommercial-ShareAlike 4.0 International_
 
 [![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)

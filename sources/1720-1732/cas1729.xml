@@ -1,5 +1,9 @@
 <?xml version='1.0'?>
+<<<<<<< HEAD
+<KLEIO STRUCTURE="/kleio-home/system/conf/kleio/stru/gacto2.str" SOURCE="/kleio-home/sources/soure-fontes/sources/1720-1732/cas1729.cli" TRANSLATOR="gactoxml2.str" WHEN="2021-8-23 5:24:6" OBS="" SPACE="">
+=======
 <KLEIO STRUCTURE="/kleio-home/system/conf/kleio/stru/gacto2.str" SOURCE="/kleio-home/sources/soure-fontes/sources/1720-1732/cas1729.cli" TRANSLATOR="gactoxml2.str" WHEN="2021-8-21 9:0:58" OBS="" SPACE="">
+>>>>>>> ab7df2bcd423fd803ead36c04edd8452368bbd1f
 <CLASS NAME="source" SUPER="entity" TABLE="sources" GROUP="fonte">
      <ATTRIBUTE NAME="id" COLUMN="id" CLASS="id" TYPE="varchar" SIZE="64" PRECISION="0" PKEY="1" ></ATTRIBUTE>
      <ATTRIBUTE NAME="date" COLUMN="the_date" CLASS="date" TYPE="varchar" SIZE="24" PRECISION="0" PKEY="0" ></ATTRIBUTE>
@@ -11616,7 +11620,7 @@
     <ELEMENT NAME="order" CLASS="order"><core>711</core></ELEMENT>
     <ELEMENT NAME="level" CLASS="level"><core>3</core></ELEMENT>
    <ELEMENT NAME="nome" CLASS="name">
-         <core><![CDATA[maria lopes dos sanros]]></core>   </ELEMENT>
+         <core><![CDATA[maria lopes dos santos]]></core>   </ELEMENT>
    <ELEMENT NAME="sex" CLASS="sex">
          <core><![CDATA[f]]></core>   </ELEMENT>
 </GROUP>
